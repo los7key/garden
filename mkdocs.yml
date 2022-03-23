@@ -7,42 +7,18 @@ nav:
   - Introduction: index.md
   - Cannabis:
       - Strain Catalogue:
-          - strains.md
-          - Antifascist Actions: antifascist_actions.md
-      - Anti-Transphobia: antitransphobia.md
-      - Diversity, Equity and Inclusion:
-          - diversity.md
-          - Anonymous Feedback: anonymous_feedback.md
-      - Feminism:
-          - Privileges: feminism/privileges.md
-      - Free Knowledge: free_knowledge.md
-  - Life Management:
-      - life_management.md
-      - Time Management: time_management.md
-      - Task Management:
-          - task_management.md
-          - Task Management Tools: task_tools.md
-          - Task Management Workflows: task_workflows.md
-      - Interruption Management:
-          - interruption_management.md
-          - Work Interruption Analysis: work_interruption_analysis.md
-          - Personal Interruption Analysis: personal_interruption_analysis.md
-      - Week Management: week_management.md
-      - Relationship Management: relationship_management.md
-      - Money Management: money_management.md
-      - News Management: news_management.md
-      - Email Management:
-          - email_management.md
-          - Email Automation: email_automation.md
-      - Music Management:
-          - music_management.md
-          - MusicBrainz: musicbrainz.md
-      - Book Management: book_management.md
-      - Map Management: map_management.md
-      - Instant Messages Management: instant_messages_management.md
-      - Process Automation:
-          - process_automation.md
-          - Virtual Assistant: virtual_assistant.md
+          - Black Jack: strains/black-jack.md
+          - Blueberry Muffin: strains/blueberry-muffin.md
+          - Chocolate Tonic CBD: strains/chocolate-tonic-cbd.md
+          - Knight's Templar: strains/knights-templar-og.md
+          - Napali Pink: strains/napali-pink.md
+          - Skywalker OG: strains/skywalker-og.md
+          - Vanilla Frosting: strains/vanilla-frosting.md
+          - Venom OG: strains/venom-og.md
+      - Growing Tips:    
+          - outside.md
+  - Humor:
+      - Dad Jokes: dad-jokes.md
       - Strategy: strategy.md
   - Health:
       - Sleep: sleep.md
