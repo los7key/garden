@@ -2,10 +2,9 @@
 site_name: Jellyfish Sizzle
 site_description: My personal digital garden
 site_author: Jellyfishsizzle
-site_url: https://wiki.jellyfishsizzle.xyz
+site_url: https://garden.jellyfishsizzle.xyz
 nav:
   - Introduction: index.md
-  - Projects: projects/projects.md
   - Activism:
       - Antifascism:
           - antifascism.md
@@ -468,8 +467,8 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/jellyfishsizzle
-    - icon: fontawesome/solid/rss
-      link: https://lyz-code.github.io/blue-book/newsletter/0_newsletter_index
+        #- icon: fontawesome/solid/rss
+        #link: https://lyz-code.github.io/blue-book/newsletter/0_newsletter_index
 
 repo_name: jellyfishsizzle/wiki
 repo_url: https://github.com/jellyfishsizzle.xyz
