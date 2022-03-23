@@ -1,6 +1,6 @@
 ---
 title: Introduction
-author: Lyz
+author: jellyfishsizzle
 ---
 
 This is my personal [digital garden](digital_garden.md) where I share everything
@@ -14,9 +14,6 @@ Unlike in common blogging where you write an article and forget about it, posts
 are treated as plants in various stages of growth and nurturing. Some might
 wither and die, and others will flourish and provide a source of continued
 knowledge for the gardener and folks in the community that visit.
-
-To follow the updates of this site, subscribe to any of the [RSS
-feeds](https://lyz-code.github.io/blue-book/newsletter/0_newsletter_index/).
 
 # Visiting the garden
 
