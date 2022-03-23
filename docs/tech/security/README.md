@@ -1,5 +1,3 @@
-# Security
-
 Back in August of 2020 I got my OSCP certification.  I got it mostly for fun as cyber security has always been a passion of mine.  In fact, I had big dreams of one day doing it for a living.  But first let’s go back..
 
 The year was 1998, I was in the US Navy and was living in San Diego, CA.  My friend, who was also in the Navy (and later went to Captian’s Mast for obtaining his Commanding Officer’s email password), got me hooked.  We spent every chance we had to geek out.  Whether it was learning Linux, looking for hardware for “the next big thing", or attending 2600 meetings and DEFCON. See rabbit hole on the history of the internet

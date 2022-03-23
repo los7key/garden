@@ -7,6 +7,7 @@ nav:
   - Introduction: index.md
   - Cannabis:
       - Strain Catalogue:
+          - strains/README.md
           - Black Jack: strains/black-jack.md
           - Blueberry Muffin: strains/blueberry-muffin.md
           - Chocolate Tonic CBD: strains/chocolate-tonic-cbd.md
@@ -18,10 +19,14 @@ nav:
       - Growing Tips:    
           - outside.md
   - Code:
+      - tech/code/README.md
+      - Perl: tech/code/perl.md
       - Emojis: emojis.md
   - Humor:
       - Dad Jokes: dad-jokes.md
       - Nerd Jokes: nerd-jokes.md
+  - Music:
+      - Pink Floyd: music/pink-floyd.md
   - Security:
       - tech/security/README.md
       - Binary exploitation: tech/security/binary-exploitation.md
@@ -32,9 +37,13 @@ nav:
       - SSH and tunneling: tech/security/ssh-and-tunneling.md
   - UNIX:
       - tech/unix/README.md
-      - BASH Prompts: tech/unix/bash-prompts
+      - BASH Prompts: tech/unix/bash-prompts.md
       - HTTP Cheatsheet: tech/unix/handy-http-commands.md
       - XFCE Themes: tech/unix/xfce-theme-installation.md
+  - Web:
+      - tech/web/README.md
+      - This site: tech/web/how-my-site-works.md
+      - History of InfoSec and WWW: tech/web/history-of-infosec-and-www.md
 
 plugins:
   - search
@@ -76,7 +85,8 @@ markdown_extensions:
 theme:
   name: material
   custom_dir: theme
-  logo: img/logo.bmp
+  favicon: assets/images/favicon.ico
+    #logo: img/logo.bmp
   features:
     - navigation.instant
     - navigation.top
@@ -113,4 +123,4 @@ extra:
         #link: https://lyz-code.github.io/blue-book/newsletter/0_newsletter_index
 
 repo_name: jellyfishsizzle/garden
-repo_url: https://github.com/jellyfishsizzle.xyz
+repo_url: https://github.com/jellyfishsizzle/garden
