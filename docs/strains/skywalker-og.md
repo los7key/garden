@@ -1,9 +1,6 @@
 ---
 description: 50/50 Hybrid
 ---
-
-# Skywalker OG
-
 ## About
 
 Often confused with the indica-dominate variety called Skywalker without the OG part, Skywalker OG produces above average yields of hash due to high concentrations or trichromes. The smell and taste of Skywalker OG is something that most Kush-lovers will fawn over. This strain is not as narcotic as other OGs can be, and it provides a gentle, euphoric effect. Great for reducing stress and mellowing out.

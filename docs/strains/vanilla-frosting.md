@@ -1,9 +1,6 @@
 ---
 description: Indica Dominant
 ---
-
-# Vanilla Frosting
-
 ## About
 
 She's a high-yielding, extremely potent, new & improved version of the consumer favorite strain, Gelato, hand-selected as Humboldt Seed Company's 10K Phenotype Mega Hunt favorite!
