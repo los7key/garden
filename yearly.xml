@@ -4,14 +4,14 @@
     
     <title>Jellyfish Sizzle</title>
     <description>My personal digital garden</description>
-    <link>https://wiki.jellyfishsizzle.xyz</link>
-    <atom:link href="https://wiki.jellyfishsizzle.xyz/yearly.xml" rel="self" type="application/rss+xml"/>
+    <link>https://garden.jellyfishsizzle.xyz</link>
+    <atom:link href="https://garden.jellyfishsizzle.xyz/yearly.xml" rel="self" type="application/rss+xml"/>
 
     
     <managingEditor>Jellyfishsizzle</managingEditor>
 
     
-    <pubDate>2022-03-23 04:40:52.983784</pubDate>
+    <pubDate>2022-03-23 05:03:52.615309</pubDate>
     <ttl>525600</ttl>
 
     
@@ -19,8 +19,8 @@
 
     
     
-    <image><url>https://wiki.jellyfishsizzle.xyz/img/logo.bmp</url><title>Jellyfish Sizzle</title>
-      <link>https://wiki.jellyfishsizzle.xyz</link>
+    <image><url>https://garden.jellyfishsizzle.xyz/img/logo.bmp</url><title>Jellyfish Sizzle</title>
+      <link>https://garden.jellyfishsizzle.xyz</link>
     </image>
     
 
