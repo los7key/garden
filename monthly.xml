@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    
+    <title>Jellyfish Sizzle</title>
+    <description>My personal digital garden</description>
+    <link>https://wiki.jellyfishsizzle.xyz</link>
+    <atom:link href="https://wiki.jellyfishsizzle.xyz/monthly.xml" rel="self" type="application/rss+xml"/>
+
+    
+    <managingEditor>Jellyfishsizzle</managingEditor>
+
+    
+    <pubDate>2022-03-23 04:03:42.065397</pubDate>
+    <ttl>43200</ttl>
+
+    
+    <generator>mkdocs-newsletter - v1.0.1</generator>
+
+    
+    
+    <image><url>https://wiki.jellyfishsizzle.xyz/img/logo.bmp</url><title>Jellyfish Sizzle</title>
+      <link>https://wiki.jellyfishsizzle.xyz</link>
+    </image>
+    
+
+    
+    
+  </channel>
+</rss>
