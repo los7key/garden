@@ -5,9 +5,9 @@ site_author: Jellyfishsizzle
 site_url: https://garden.jellyfishsizzle.xyz
 nav:
   - Introduction: index.md
-  - Activism:
-      - Antifascism:
-          - antifascism.md
+  - Cannabis:
+      - Strain Catalogue:
+          - strains.md
           - Antifascist Actions: antifascist_actions.md
       - Anti-Transphobia: antitransphobia.md
       - Diversity, Equity and Inclusion:
@@ -444,8 +444,8 @@ theme:
     # Light mode
     - media: '(prefers-color-scheme: light)'
       scheme: default
-      primary: blue grey
-      accent: light blue
+      primary: grey
+      accent: red
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -453,8 +453,8 @@ theme:
     # Dark mode
     - media: '(prefers-color-scheme: dark)'
       scheme: slate
-      primary: blue grey
-      accent: light blue
+      primary: grey
+      accent: red
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
