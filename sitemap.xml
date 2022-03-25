@@ -2,177 +2,182 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/cannabis/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/cannabis/strains/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/cannabis/strains/black-jack/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/cannabis/strains/blueberry-muffin/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/cannabis/strains/chocolate-tonic-cbd/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/cannabis/strains/knights-templar-og/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/cannabis/strains/napali-pink/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/cannabis/strains/skywalker-og/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/cannabis/strains/vanilla-frosting/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/cannabis/strains/venom-og/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/humor/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/humor/dad-jokes/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/music/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/music/pink-floyd/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://garden.jellyfishsizzle.xyz/music/taiko/</loc>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/newsletter/0_newsletter_index/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/tech/code/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/tech/code/perl/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/tech/security/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/tech/security/binary-exploitation/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/tech/security/fix-tty-for-rev-shells/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/tech/security/osint-tips/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/tech/security/pivoting-with-chisel/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/tech/security/sql-injection-cheatsheet/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/tech/security/ssh-and-tunneling/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/tech/unix/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/tech/unix/bash-prompts/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/tech/unix/handy-http-commands/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/tech/unix/xfce-theme-installation/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/tech/web/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/tech/web/history-of-infosec-and-www/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/tech/web/how-my-site-works/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/travel/japan/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/travel/los-angeles-ca/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://garden.jellyfishsizzle.xyz/travel/quotes/</loc>
-         <lastmod>2022-03-24</lastmod>
+         <lastmod>2022-03-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
