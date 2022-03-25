@@ -6,16 +6,17 @@ site_url: https://garden.jellyfishsizzle.xyz
 nav:
   - Introduction: index.md
   - Cannabis:
+      - cannabis/README.md
       - Strain Catalogue:
-          - strains/README.md
-          - Black Jack: strains/black-jack.md
-          - Blueberry Muffin: strains/blueberry-muffin.md
-          - Chocolate Tonic CBD: strains/chocolate-tonic-cbd.md
-          - Knight's Templar: strains/knights-templar-og.md
-          - Napali Pink: strains/napali-pink.md
-          - Skywalker OG: strains/skywalker-og.md
-          - Vanilla Frosting: strains/vanilla-frosting.md
-          - Venom OG: strains/venom-og.md
+          - cannabis/strains/README.md
+          - Black Jack: cannabis/strains/black-jack.md
+          - Blueberry Muffin: cannabis/strains/blueberry-muffin.md
+          - Chocolate Tonic CBD: cannabis/strains/chocolate-tonic-cbd.md
+          - Knight's Templar: cannabis/strains/knights-templar-og.md
+          - Napali Pink: cannabis/strains/napali-pink.md
+          - Skywalker OG: cannabis/strains/skywalker-og.md
+          - Vanilla Frosting: cannabis/strains/vanilla-frosting.md
+          - Venom OG: cannabis/strains/venom-og.md
       - Growing Tips:    
           - outside.md
   - Code:
@@ -23,10 +24,13 @@ nav:
       - Perl: tech/code/perl.md
       - Emojis: emojis.md
   - Humor:
-      - Dad Jokes: dad-jokes.md
-      - Nerd Jokes: nerd-jokes.md
+      - humor/README.md 
+      - Dad Jokes: humor/dad-jokes.md
+      - Nerd Jokes: humor/nerd-jokes.md
   - Music:
+      - music/README.md
       - Pink Floyd: music/pink-floyd.md
+      - Taiko: music/taiko.md
   - Security:
       - tech/security/README.md
       - Binary exploitation: tech/security/binary-exploitation.md
@@ -53,7 +57,7 @@ plugins:
   - minify:
       minify_html: true
   - section-index
-  - mkdocs-newsletter
+  #- mkdocs-newsletter
 
 markdown_extensions:
   - abbr
@@ -91,13 +95,14 @@ theme:
     - navigation.instant
     - navigation.top
     - content.code.annotate
+    - header.autohide  
 
   palette:
     # Light mode
     - media: '(prefers-color-scheme: light)'
       scheme: default
       primary: grey
-      accent: red
+      accent: blue
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -105,8 +110,8 @@ theme:
     # Dark mode
     - media: '(prefers-color-scheme: dark)'
       scheme: slate
-      primary: grey
-      accent: red
+      primary: white
+      accent: blue
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
@@ -114,7 +119,6 @@ theme:
 extra_css:
   - stylesheets/extra.css
   - stylesheets/links.css
-  - stylesheets/jf.css
 
 extra:
   social:
@@ -123,5 +127,5 @@ extra:
         #- icon: fontawesome/solid/rss
         #link: https://lyz-code.github.io/blue-book/newsletter/0_newsletter_index
 
-repo_name: jellyfishsizzle/garden
-repo_url: https://github.com/jellyfishsizzle/garden
+        # repo_name: jellyfishsizzle/garden
+        # repo_url: https://github.com/jellyfishsizzle/garden
