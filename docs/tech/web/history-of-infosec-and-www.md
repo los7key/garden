@@ -14,4 +14,4 @@ Fast forward to the 1990s. Internet access was first offered commercially, and t
 
 Now everyone can get on the web. Great, right? Not exactly. As with most things in life, someone seems to come along and fuck up a good thing. The Internet was no exception, but this was going to change everything. Not only was everything shared, but it was also shared for everyone. As more and more people got online, it was a race to keep the things people _really_ wanted private, just that. And so, it begins ...
 
-![brains](../../.gitbook/assets/brains.jpg)
+![brains](/assets/images/brains.jpg)
