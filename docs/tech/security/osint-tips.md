@@ -2,31 +2,31 @@
 
 ### Recon
 
-* http://bgp.he.net&#x20;
-* https://whois.arin.net/ui/query.do&#x20;
-* https://apps.db.ripe.net/db-web-ui&#x20;
-* https://reverse.report&#x20;
+* http://bgp.he.net
+* https://whois.arin.net/ui/query.do
+* https://apps.db.ripe.net/db-web-ui
+* https://reverse.report
 * https://www.shodan.io
 
-https://crunchbase.com <-- acquisitions&#x20;
+https://crunchbase.com <-- acquisitions
 
-domlink.py <-- compare whois results&#x20;
+domlink.py <-- compare whois results
 
 built with browser extension <-- shows links of analytics trackers
 
 ### vhost/subdomain discovery
 
-* Amass - dns recon&#x20;
-* subfinder - dns recon&#x20;
+* Amass - dns recon
+* subfinder - dns recon
 * massdns <-- brute forcing - better than ffuf?
 
 All.txt wordlist https://gist.github.com/jhaddix content/dir wordlist content\_discovery\_all.txt
 
 ### Enumeration
 
-Masscan&#x20;
+Masscan
 
-brutespray.py&#x20;
+brutespray.py
 
 Eyewitness.py - visual identification
 
@@ -34,11 +34,11 @@ tomnomnom - waybackurls script
 
 Xmind organization <-- visualize output
 
-Burp\_vulners\_scan <-- plugin to identify cve for findings&#x20;
+Burp\_vulners\_scan <-- plugin to identify cve for findings
 
-ZAP ajax spider and other crawlers for heavy js pages&#x20;
+ZAP ajax spider and other crawlers for heavy js pages
 
-Linkfinder app - find links in js files&#x20;
+Linkfinder app - find links in js files
 
 To find js files burp pro engagement tools > find scripts
 
