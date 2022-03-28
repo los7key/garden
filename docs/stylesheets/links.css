@@ -892,15 +892,15 @@ article a[href^="https://"]::after
 
 /* Blue book: Fetch all internal links not `//` and the external links of my
  * blog */
-.md-content a[href*='garden.jellyfishsizzle.xyz']::after,
+.md-content a[href*='www.catelevator.com']::after,
 .md-content a:not([href*="//"])::after {
     background-image: url("/assets/images/bluebook.svg");
 }
-.md-content a[href*='garden.jellyfishsizzle.xyz']:hover::after,
+.md-content a[href*='www.catelevator.com']:hover::after,
 .md-content a:not([href*="//"])::after {
     opacity: 0.3;
 }
-.md-content a[href*='garden.jellyfishsizzle.xyz']::after,
+.md-content a[href*='wwww.catelevator.com']::after,
 .md-content a:not([href*="//"])::after {
     content: "";
     display: inline-block;

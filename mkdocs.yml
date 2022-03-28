@@ -1,8 +1,8 @@
 ---
-site_name: Jellyfish Sizzle
+site_name: Cat Elevator
 site_description: My personal digital garden
 site_author: Jellyfishsizzle
-site_url: https://garden.jellyfishsizzle.xyz
+site_url: https://www.catelevator.com
 nav:
   - Introduction: index.md
   - Cannabis:
@@ -68,6 +68,7 @@ markdown_extensions:
   - admonition
   - meta
   - def_list
+  - footnotes
   - toc:
       permalink: ⚑
       baselevel: 2

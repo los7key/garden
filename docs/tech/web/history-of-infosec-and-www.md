@@ -4,7 +4,7 @@ description: History of the infosec and www
 
 # History of infosec and www
 
-This started out as a footnote of my [security intro](../security/).
+This started out as a footnote of my [security intro](../security/README.md).
 
 It’s interesting how the face of InfoSec has changed over the years. [UNIX](../unix/) came around in the 1970s, at least in research facilities. From that time forward, the goal was to share information readily with anyone that had a computer and data connection to another computer. Everyone was about spreading information, transparency, and people were excited to _share_ everything.
 
