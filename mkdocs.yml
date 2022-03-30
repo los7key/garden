@@ -35,7 +35,8 @@ nav:
       - tech/security/README.md
       - Binary exploitation: tech/security/binary-exploitation.md
       - TTY and rev shells: tech/security/fix-tty-for-rev-shells.md
-      - OSINT: tech/security/osint-tips.md
+      - OSINT: tech/security/osint.md
+      - OSINT Notes: tech/security/osint-tips.md
       - Pivoting w/chisel: tech/security/pivoting-with-chisel.md
       - SQL Injection: tech/security/sql-injection-cheatsheet.md
       - SSH and tunneling: tech/security/ssh-and-tunneling.md
@@ -125,10 +126,10 @@ extra_css:
   - stylesheets/extra.css
   - stylesheets/links.css
 
-extra:
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/jellyfishsizzle
+#extra:
+#  social:
+    # - icon: fontawesome/brands/github-alt
+    #  link: https://github.com/jellyfishsizzle
         #- icon: fontawesome/solid/rss
         #link: https://lyz-code.github.io/blue-book/newsletter/0_newsletter_index
 
