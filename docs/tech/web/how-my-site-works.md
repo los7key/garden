@@ -1,6 +1,4 @@
-# How my site works
-
-My site is built with a combination of [Jekyll](https://jekyllrb.com) and [GitHub Pages](https://guides.github.com/features/pages/) along with some other bits of code I’ve found around the interwebs.  I recently upgraded the theme and it stomped on a bunch of my configurations.  I didn't think to put it in git and my notes are terrible.
+My previous site was built with a combination of [Jekyll](https://jekyllrb.com) and [GitHub Pages](https://guides.github.com/features/pages/) along with some other bits of code I’ve found around the interwebs.  When I last upgraded the theme, it stomped on a bunch of my configurations.  I didn't think to put it in git and my notes are terrible.
 
 Here are some links and resources (and other tips) to remember how this all works next time I wait 2 years between blog posts.
 

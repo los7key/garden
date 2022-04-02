@@ -5,6 +5,7 @@ site_author: Jellyfishsizzle
 site_url: https://www.catelevator.com
 nav:
   - Introduction: index.md
+  - FAQ: faq.md
   - Cannabis:
       - cannabis/README.md
       - Strain Catalogue:
@@ -22,7 +23,7 @@ nav:
   - Code:
       - tech/code/README.md
       - Perl: tech/code/perl.md
-      - Emojis: emojis.md
+      - Emojis: tech/emojis.md
   - Humor:
       - humor/README.md 
       - Dad Jokes: humor/dad-jokes.md
@@ -40,6 +41,7 @@ nav:
       - Pivoting w/chisel: tech/security/pivoting-with-chisel.md
       - SQL Injection: tech/security/sql-injection-cheatsheet.md
       - SSH and tunneling: tech/security/ssh-and-tunneling.md
+      - VPN: tech/security/VPN.md
   - Travel:
       - travel/README.md
       - Japan: travel/japan.md
@@ -51,8 +53,8 @@ nav:
       - XFCE Themes: tech/unix/xfce-theme-installation.md
   - Web:
       - tech/web/README.md
-      - This site: tech/web/how-my-site-works.md
       - History of InfoSec and WWW: tech/web/history-of-infosec-and-www.md
+      - Jekyll Setup: tech/web/how-my-site-works.md
 
 plugins:
   - search
@@ -125,6 +127,7 @@ theme:
 extra_css:
   - stylesheets/extra.css
   - stylesheets/links.css
+  - stylesheets/jf.css
 
 #extra:
 #  social:
