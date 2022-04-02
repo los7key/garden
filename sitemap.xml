@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.catelevator.com/emojis/</loc>
-         <lastmod>2022-04-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://www.catelevator.com/faq/</loc>
          <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
@@ -91,12 +86,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.catelevator.com/tech/emojis/</loc>
+         <loc>https://www.catelevator.com/tech/code/</loc>
          <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.catelevator.com/tech/code/</loc>
+         <loc>https://www.catelevator.com/tech/code/emojis/</loc>
          <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
