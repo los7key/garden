@@ -23,7 +23,7 @@ nav:
   - Code:
       - tech/code/README.md
       - Perl: tech/code/perl.md
-      - Emojis: tech/emojis.md
+      - Emojis: tech/code/emojis.md
   - Humor:
       - humor/README.md 
       - Dad Jokes: humor/dad-jokes.md

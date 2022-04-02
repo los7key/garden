@@ -3,7 +3,7 @@ Title: Emojis
 Author: 
 ---
 
-Fun fact, the I forked to create this site had a page with some emojis and thought I'd create my own.  Turns out it had most of the ones I usually like handy so I just added to that.
+Fun fact, the [repo](https://lyz-code.github.io/blue-book) I forked to create this site had a page with some emojis and thought I'd create my own.  Turns out it had most of the ones I usually like handy so I just added to that.
 
 Curated list of emojis to copy paste.
 
