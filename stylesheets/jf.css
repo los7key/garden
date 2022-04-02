@@ -1,82 +1,51 @@
-/* Pulse */
-@-webkit-keyframes hvr-pulse {
-  25% {
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1);
-  }
-  75% {
-    -webkit-transform: scale(0.9);
-    transform: scale(0.9);
-  }
-}
-@keyframes hvr-pulse {
-  25% {
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1);
-  }
-  75% {
-    -webkit-transform: scale(0.9);
-    transform: scale(0.9);
-  }
+/* Style the element that is used to open and close the accordion class */
+p.accordion {
+    background-color: #212536;
+    color: whitesmoke;
+    cursor: pointer;
+    padding: 7px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 2s;
+    margin-bottom: 3px;
+    font-size: 13px;
+    font-weight: bold;
 }
 
-a {
-  mutline: none;
-  text-decoration: none;
-  display: inline-block;
-  vertical-align: middle;
-  -webkit-transform: perspective(1px) translateZ(0);
-  transform: perspective(1px) translateZ(0);
-  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+/* Add a background color to the accordion if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+p.accordion.active, p.accordion:hover {
+   /* background-color: #212536; */
+   background-color: #535b78;
 }
 
-a:link {
-  border: 0!important;
-  text-decoration: none !important;
-  color: #5dc0ee;
+/* Unicode character for "plus" sign (+) */
+p.accordion:after {
+    content: '\271A';
+    font-size: 13px;
+    float: right;
+    margin-left: 5px;
 }
 
-a:hover, a:focus, a:active {
-  -webkit-animation-name: hvr-pulse;
-  animation-name: hvr-pulse;
-  -webkit-animation-duration: 1s;
-  animation-duration: 1s;
-  -webkit-animation-timing-function: linear;
-  animation-timing-function: linear;
-  -webkit-animation-iteration-count: 2;
-  animation-iteration-count: 2;
-  border: 0!important;
-  text-decoration: none !important;
-  color: #5dc0ee;
+/* Unicode character for "minus" sign (-) */
+p.accordion.active:after {
+    content: "\2B58";
 }
 
-a.no-mark-external {
-  border: 0!important;
-  text-decoration: none !important;
+/* Style the element that is used for the panel class */
+
+div.panel {
+    padding: 0 5px;
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.4s ease-in-out;
+    opacity: 0;
+    margin-bottom: 5px;
+    font-size: 13px;
 }
 
-a:visited {
-  color: #5dc0ee;
+div.panel.show {
+    opacity: 1;
+    max-height: 500px; /* Whatever you like, as long as its more than the height of the content (on all screen sizes) */
 }
-
-a.md-header {
-  color: purple;
-}
-
-a.md-nav__link,a.md-nav__link:visited,a.md-nav__link:active {
-  color: green;
-}
-
-a.md-nav__list,a.md-nav__list:visited,a.md-nav__list:active {
-  text-decoration: 0!important;
-  color: inherit;
-}
-
-a.md-nav__link,a.md-nav__link:visited,a.md-nav__link:active {
-  color: inherit;
-}
-
-a.md-nav,a.md-nav:visited,a.md-nav:active {
-  color: yellow;
-}
-

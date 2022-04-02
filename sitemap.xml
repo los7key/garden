@@ -2,182 +2,202 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.catelevator.com/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.catelevator.com/emojis/</loc>
+         <lastmod>2022-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.catelevator.com/faq/</loc>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/cannabis/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/cannabis/strains/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/cannabis/strains/black-jack/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/cannabis/strains/blueberry-muffin/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/cannabis/strains/chocolate-tonic-cbd/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/cannabis/strains/knights-templar-og/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/cannabis/strains/napali-pink/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/cannabis/strains/skywalker-og/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/cannabis/strains/vanilla-frosting/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/cannabis/strains/venom-og/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/humor/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/humor/dad-jokes/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/music/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/music/pink-floyd/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/music/taiko/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.catelevator.com/tech/emojis/</loc>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/code/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/code/perl/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/security/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.catelevator.com/tech/security/VPN/</loc>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/security/binary-exploitation/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/security/fix-tty-for-rev-shells/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/security/osint-tips/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/security/osint/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/security/pivoting-with-chisel/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/security/sql-injection-cheatsheet/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/security/ssh-and-tunneling/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/unix/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/unix/bash-prompts/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/unix/handy-http-commands/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/unix/xfce-theme-installation/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/web/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/web/history-of-infosec-and-www/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/web/how-my-site-works/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/travel/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/travel/japan/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.catelevator.com/travel/los-angeles-ca/</loc>
-         <lastmod>2022-03-30</lastmod>
+         <lastmod>2022-04-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
