@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://www.catelevator.com/about/</loc>
+         <lastmod>2022-04-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://www.catelevator.com/faq/</loc>
          <lastmod>2022-04-04</lastmod>
          <changefreq>daily</changefreq>
