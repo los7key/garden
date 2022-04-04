@@ -101,3 +101,12 @@ than the other colors because it travels as shorter, smaller waves.</div>
 <p class="accordion">Q21. How do I create my own digital garden? </p>
 <div class="panel"><a href="https://lyz-code.github.io/blue-book/#make-your-own-digital-garden">This</a> is the place to start.  Alternatively, you can fork my repo and tinker.</div>
 
+<p class="accordion">Q22. Who is the intended audience of your "garden"?</p>
+<div class="panel">I am.  I was going to add more to that sentence but then realized, it's me. Then I realized, I need an <a href="/about.md">about</a> page.</div>
+
+<p class="accordion">Q23. Why do you double space after a period?</p>
+<div class="panel">I learned to type on a teletype machine in the Navy.  A teletype message had to have two spaces after a sentence for it to be clear enough to read.  Now it's just 30 years of muscle memory.</div>
+
+<p class="accordion">Q24. Do you have a disclaimer? </p>
+<div class="panel">Why, <a href="/about">yes</a> I do.</div>
+

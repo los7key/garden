@@ -12,6 +12,7 @@ p.accordion {
     margin-bottom: 3px;
     font-size: 13px;
     font-weight: bold;
+    cursor: pointer;
 }
 
 /* Add a background color to the accordion if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */

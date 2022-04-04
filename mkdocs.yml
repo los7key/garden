@@ -6,6 +6,7 @@ site_url: https://www.catelevator.com
 nav:
   - Introduction: index.md
   - FAQ: faq.md
+  - About: about.md
   - Cannabis:
       - cannabis/README.md
       - Strain Catalogue:
