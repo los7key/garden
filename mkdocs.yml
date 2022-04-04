@@ -49,6 +49,7 @@ nav:
   - UNIX:
       - tech/unix/README.md
       - BASH Prompts: tech/unix/bash-prompts.md
+      - Docker Basics: tech/code/metasploitable2_docker.md
       - HTTP Cheatsheet: tech/unix/handy-http-commands.md
       - XFCE Themes: tech/unix/xfce-theme-installation.md
   - Web:

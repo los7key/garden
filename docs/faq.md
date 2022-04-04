@@ -31,7 +31,7 @@ function setClass(els, className, fnName) {
 });
 </script>
 
-Really.  There are questions that need to be answered.  This is a work in
+Really, there are questions that need to be answered. This is a work in
 progress.
 
 
@@ -39,7 +39,7 @@ progress.
 <div class="panel">No, but I love FAQs!  Also, the <a href="/">Introduction</a> doesn't cover everything.</div>
 
 <p class="accordion">Q2. Who are you?</p>
-<div class="panel">I'm a security enthusiast, sysadmin, veteran, father, husband, and all around geek. A jack of all trades (and master of none).</div>
+<div class="panel">I'm a security enthusiast, sysadmin, veteran, father, husband, tinkerer, and all around geek. A jack of all trades (and master of none).</div>
 
 <p class="accordion">Q3. What is the answer to life, the universe and everything?</p>
 <div class="panel">42.</div>
@@ -57,7 +57,7 @@ progress.
 <div class="panel">Depends on my mood and who I'm with.  Pretty much anything but country.</div>
 
 <p class="accordion">Q8. What's wrong with country music?</p>
-<div class="panel">So many things. I've tried to like it. I've worked with people that
+<div class="panel">So many things. I've tried to like it and I've worked with people that
 listen to nothing but country. It's just not my thing.</div>
 
 <p class="accordion">Q9. Why is the sky blue?</p>
@@ -94,3 +94,10 @@ than the other colors because it travels as shorter, smaller waves.</div>
 
 <p class="accordion">Q19. Why is this place called "Cat Elevator"?</p>
 <div class="panel">One day I was picking up my cat and the name just came to me.  Seemed like a good fit.</div>
+
+<p class="accordion">Q20. What is a digital garden (I skipped the [intro](/index.md))? </p>
+<div class="panel">For now, you'll have to rely on the intro. I might write more about it later™.</div>
+
+<p class="accordion">Q21. How do I create my own digital garden? </p>
+<div class="panel">[This](https://lyz-code.github.io/blue-book/#make-your-own-digital-garden) is the place to start.  Alternatively, you can fork my repo and tinker.</div>
+
