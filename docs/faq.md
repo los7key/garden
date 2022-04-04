@@ -95,9 +95,9 @@ than the other colors because it travels as shorter, smaller waves.</div>
 <p class="accordion">Q19. Why is this place called "Cat Elevator"?</p>
 <div class="panel">One day I was picking up my cat and the name just came to me.  Seemed like a good fit.</div>
 
-<p class="accordion">Q20. What is a digital garden (I skipped the [intro](/index.md))? </p>
+<p class="accordion">Q20. I skipped the <a href="/">intro</a>, what is a digital garden?</p>
 <div class="panel">For now, you'll have to rely on the intro. I might write more about it later™.</div>
 
 <p class="accordion">Q21. How do I create my own digital garden? </p>
-<div class="panel">[This](https://lyz-code.github.io/blue-book/#make-your-own-digital-garden) is the place to start.  Alternatively, you can fork my repo and tinker.</div>
+<div class="panel"><a href="https://lyz-code.github.io/blue-book/#make-your-own-digital-garden">This</a> is the place to start.  Alternatively, you can fork my repo and tinker.</div>
 
