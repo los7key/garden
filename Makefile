@@ -50,7 +50,7 @@ docs:
 	@echo "- Serving documentation -"
 	@echo "-------------------------"
 
-	pdm run mkdocs serve
+	pdm run mkdocs serve --dev-addr=0.0.0.0:80
 
 	@echo ""
 
