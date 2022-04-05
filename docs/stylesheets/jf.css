@@ -19,6 +19,7 @@ p.accordion {
 p.accordion.active, p.accordion:hover {
    /* background-color: #212536; */
    background-color: #535b78;
+   cursor: pointer;
 }
 
 /* Unicode character for "plus" sign (+) */
@@ -27,11 +28,13 @@ p.accordion:after {
     font-size: 13px;
     float: right;
     margin-left: 5px;
+    cursor: pointer;
 }
 
 /* Unicode character for "minus" sign (-) */
 p.accordion.active:after {
     content: "\2B58";
+    cursor: pointer;
 }
 
 /* Style the element that is used for the panel class */
