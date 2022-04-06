@@ -86,11 +86,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.catelevator.com/tech/grc/</loc>
-         <lastmod>2022-04-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://www.catelevator.com/tech/code/</loc>
          <lastmod>2022-04-06</lastmod>
          <changefreq>daily</changefreq>
@@ -167,6 +162,11 @@
     </url>
     <url>
          <loc>https://www.catelevator.com/tech/unix/bash-prompts/</loc>
+         <lastmod>2022-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.catelevator.com/tech/unix/grc/</loc>
          <lastmod>2022-04-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
