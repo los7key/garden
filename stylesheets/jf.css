@@ -12,14 +12,14 @@ p.accordion {
     margin-bottom: 3px;
     font-size: 13px;
     font-weight: bold;
-    cursor: pointer;
+/*    cursor: pointer; */
 }
 
 /* Add a background color to the accordion if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 p.accordion.active, p.accordion:hover {
    /* background-color: #212536; */
    background-color: #535b78;
-   cursor: pointer;
+/*    cursor: pointer; */
 }
 
 /* Unicode character for "plus" sign (+) */
@@ -28,13 +28,13 @@ p.accordion:after {
     font-size: 13px;
     float: right;
     margin-left: 5px;
-    cursor: pointer;
+/*    cursor: pointer; */
 }
 
 /* Unicode character for "minus" sign (-) */
 p.accordion.active:after {
     content: "\2B58";
-    cursor: pointer;
+/*    cursor: pointer; */
 }
 
 /* Style the element that is used for the panel class */
