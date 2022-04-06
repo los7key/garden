@@ -3,61 +3,6 @@ site_name: Cat Elevator
 site_description: My personal digital garden
 site_author: Jellyfishsizzle
 site_url: https://www.catelevator.com
-nav:
-  - Introduction: index.md
-  - FAQ: faq.md
-  - About: about.md
-  - Cannabis:
-      - cannabis/README.md
-      - Strain Catalogue:
-          - cannabis/strains/README.md
-          - Black Jack: cannabis/strains/black-jack.md
-          - Blueberry Muffin: cannabis/strains/blueberry-muffin.md
-          - Chocolate Tonic CBD: cannabis/strains/chocolate-tonic-cbd.md
-          - Knight's Templar: cannabis/strains/knights-templar-og.md
-          - Napali Pink: cannabis/strains/napali-pink.md
-          - Skywalker OG: cannabis/strains/skywalker-og.md
-          - Vanilla Frosting: cannabis/strains/vanilla-frosting.md
-          - Venom OG: cannabis/strains/venom-og.md
-      - Growing Tips:    
-          - outside.md
-  - Code:
-      - tech/code/README.md
-      - Perl: tech/code/perl.md
-      - Emojis: tech/code/emojis.md
-  - Humor:
-      - humor/README.md 
-      - Dad Jokes: humor/dad-jokes.md
-      - Nerd Jokes: humor/nerd-jokes.md
-  - Music:
-      - music/README.md
-      - Pink Floyd: music/pink-floyd.md
-      - Taiko: music/taiko.md
-  - Security:
-      - tech/security/README.md
-      - Binary exploitation: tech/security/binary-exploitation.md
-      - TTY and rev shells: tech/security/fix-tty-for-rev-shells.md
-      - OSINT: tech/security/osint.md
-      - OSINT Notes: tech/security/osint-tips.md
-      - Pivoting w/chisel: tech/security/pivoting-with-chisel.md
-      - SQL Injection: tech/security/sql-injection-cheatsheet.md
-      - SSH and tunneling: tech/security/ssh-and-tunneling.md
-      - VPN: tech/security/VPN.md
-  - Travel:
-      - travel/README.md
-      - Japan: travel/japan.md
-      - Los Angeles: travel/los-angeles-ca.md
-  - UNIX:
-      - tech/unix/README.md
-      - BASH Prompts: tech/unix/bash-prompts.md
-      - Docker Basics: tech/code/metasploitable2_docker.md
-      - HTTP Cheatsheet: tech/unix/handy-http-commands.md
-      - XFCE Themes: tech/unix/xfce-theme-installation.md
-  - Web:
-      - tech/web/README.md
-      - History of InfoSec and WWW: tech/web/history-of-infosec-and-www.md
-      - Jekyll Setup: tech/web/how-my-site-works.md
-
 plugins:
   - search
   - autolinks
@@ -99,8 +44,9 @@ markdown_extensions:
 theme:
   name: material
   custom_dir: theme
-  favicon: assets/images/favicon.ico
-    #logo: img/logo.bmp
+  #favicon: assets/images/favicon.ico
+  favicon: assets/images/catelev.png
+  logo: assets/images/catelev.png
   features:
     - navigation.instant
     - navigation.top
