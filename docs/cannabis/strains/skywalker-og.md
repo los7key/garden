@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Skywalker OG
 description: 50/50 Hybrid
 ---
 ## About

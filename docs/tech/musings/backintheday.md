@@ -12,6 +12,6 @@ A family friend turned me on to a website that gives you challenges that call fo
 
 Later, I came across another site that was even more advanced.  Once you manage to get an invite (by solving a short challenge) they provide you with VPN access to their entire network that contains a number of vulnerable hosts for you to hone your pentesting skills.  It's extremely organized and well designed with leaderboard.  Best of all, it's free!  
 
-Both sites are completely free.  I couldn't imagine having these resources when I was growing up.  What a difference it would have made if I had the chance to hack into other computers with no risk of trouble from the law or anyone else!  We've come a long way from hanging out on the BBS on our 2400 baud modems screaming, "Don't pick up the phone I'm on the internet!"
+Both sites are completely free.  I couldn't imagine having these resources when I was growing up.  What a difference it would have made if I had the chance to hack into other computers with no risk of trouble from the law or anyone else!  We've come a long way from hanging out on the BBS on our 2400 baud modems screaming, "Don't pick up the phone!! I'm on the internet!"
 
 Now get off my lawn!

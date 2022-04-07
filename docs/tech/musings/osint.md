@@ -1,3 +1,7 @@
+---
+layout: post
+title: OSINT
+---
 ## What is OSINT?
 
 OSINT stands for open source intelligence.  Basically, any information that can *legally* be gathered from free, public sources about an individual or organization. Usually, that means information found on the internet.  Technically anything that is public information falls into the category of OSINT. 

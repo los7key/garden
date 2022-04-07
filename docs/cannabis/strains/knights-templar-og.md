@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Knights Templar OG
 description: Indica
 ---
 ## About

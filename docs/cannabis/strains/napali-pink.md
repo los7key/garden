@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Napali Pink
 description: Sativa Dominant
 ---
 ## About

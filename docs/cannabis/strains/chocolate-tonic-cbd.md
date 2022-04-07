@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Chocolate Tonic CBD
 description: 50/50 Hybrid CBD
 ---
 ## About

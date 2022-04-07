@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Black Jack
 description: Sativa Dominant
 ---
 ## About

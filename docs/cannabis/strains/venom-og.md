@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Venom OG
 description: Indica Dominant
 ---
 ## About

@@ -1,1 +1,1 @@
-This is where snippets of code will live (for now™).
+This is where snippets of code will live for now™.

@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Blueberry Muffin
 description: Indica Dominant
 ---
 ## About

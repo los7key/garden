@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Vanilla Frosting
 description: Indica Dominant
 ---
 ## About
@@ -15,6 +17,6 @@ She's a high-yielding, extremely potent, new & improved version of the consumer 
 
 ## Results
 
-* Mellow&#x20;
-* Introspective&#x20;
+* Mellow
+* Introspective
 * Heightened senses (no driving!)
