@@ -77,7 +77,11 @@ extra_css:
   - stylesheets/links.css
   - stylesheets/jf.css
 
-#extra:
+extra:
+  analytics:
+    provider: google
+    property: G-S6XNBQV005
+
 #  social:
     # - icon: fontawesome/brands/github-alt
     #  link: https://github.com/jellyfishsizzle
