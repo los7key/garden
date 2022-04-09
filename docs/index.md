@@ -6,7 +6,7 @@ What is this place?
 
 Apparently.. it's a digital garden.
 
-I've had ideas for a blog and website for a long time but never did much about it because I felt like I couldn't find the bits of technology that would comprise the site I envisioned. I wanted a blog, a wiki, and a little eye candy but none of the technologies I knew could do it. After various failed attempts with quite a few options, it occurred to me that the answer might not be a single technology, but a "network" of technologies (plants) within a single domain (garden).[^1]
+I've had ideas for a blog and website for a long time but never did much about it because I felt like I couldn't find the bits of technology that would comprise the site I envisioned. I wanted a blog, a wiki, and a little eye candy but none of the technologies I knew could do it. After various failed attempts with quite a few options, it occurred to me that the answer might not be a single technology, but a "network" of ideas (seeds) and technologies (plants) within a single domain (garden).
 
 While looking for some technical information I stumbled across [Nikita Voloboev's site](https://wiki.nikitavoloboev.xyz/) and then [The Blue Book](https://lyz-code.github.io/blue-book). I realized this is *exactly* what I wanted and there was a name for it! The more I poked around the more excited I got about the technology that built it. I was already well on my way with a previous website running on [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://guides.github.com/features/pages/) but I just couldn't figure out how to get the notes aspect incorporated.  I did give Gitbook a try previously, but didn't consider using them together, rather than one or the other.
 
@@ -38,4 +38,3 @@ Well, this is it, this is my digital garden. Who would've thought I'd be a garde
 
 ... I did garden when I was a kid...
 
-[^1]: Seems I just hadn't found any other digital gardens yet!

@@ -22,3 +22,4 @@ Often confused with the indica-dominate variety called Skywalker without the OG 
 * Chill
 * Zen
 * Alert
+* Good day use
