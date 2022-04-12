@@ -1,7 +1,7 @@
 ---
 site_name: Cat Elevator
 site_description: My personal digital garden
-site_author: Jellyfishsizzle
+site_author: Aaron
 site_url: https://www.catelevator.com
 plugins:
   - search
@@ -76,6 +76,9 @@ extra_css:
   - stylesheets/extra.css
   - stylesheets/links.css
   - stylesheets/jf.css
+
+#extra_javascript:
+  #- javascripts/extra.js
 
 extra:
   analytics:

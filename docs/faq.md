@@ -2,65 +2,40 @@
 layout: page
 title: FAQ
 ---
-<script>
-document.addEventListener("DOMContentLoaded", function(event) { 
 
+Really, there are questions that need to be answered. I suspect I'm going to have to put things in categories at some point or it will get out of hand quickly.  This is a work in progress.
 
-var acc = document.getElementsByClassName("accordion");
-var panel = document.getElementsByClassName('panel');
+***
 
-for (var i = 0; i < acc.length; i++) {
-    acc[i].onclick = function() {
-        var setClasses = !this.classList.contains('active');
-        setClass(acc, 'active', 'remove');
-        setClass(panel, 'show', 'remove');
+<p class="accordion">Q00. Why does this FAQ require you to hit refresh again to see the answers?</p>
+<div class="panel">Because I don't know enough JavaScript to fix it. I already spent way too long on getting the look I had in mind, so I'm not ready to abandon it just yet. Don't worry, I'll get around to it in all my copious spare time™.  In the meantime, both visitors to this garden will have to refresh the page twice before the answers will be visible. This is probably the most first world problem I can think of. If this bothers anyone you can file a ticket with our support team.<sup>1</sup></div> 
 
-        if (setClasses) {
-            this.classList.toggle("active");
-            this.nextElementSibling.classList.toggle("show");
-        }
-    }
-}
-
-function setClass(els, className, fnName) {
-    for (var i = 0; i < els.length; i++) {
-        els[i].classList[fnName](className);
-    }
-}
-
-});
-</script>
-
-Really, there are questions that need to be answered. This is a work in
-progress.
-
-
-<p class="accordion">Q1. Do you really need an FAQ page?</p>
+<p class="accordion">Q01. Do you really need an FAQ page?</p>
 <div class="panel">No, but I love FAQs!  Also, the <a href="/">Introduction</a> doesn't cover everything.</div>
 
-<p class="accordion">Q2. Who are you?</p>
+<p class="accordion">Q02. Who are you?</p>
 <div class="panel">I'm a security enthusiast, sysadmin, veteran, father, husband, tinkerer, and all around geek. A jack of all trades (and master of none).</div>
 
-<p class="accordion">Q3. What is the answer to life, the universe and everything?</p>
-<div class="panel">42.</div>
+<p class="accordion">Q03. What is the answer to life, the universe and everything?</p>
+<div class="panel">42.<sup>2<sup></div>
 
-<p class="accordion">Q4. Don't you have anything better to do with your time?</p>
+<p class="accordion">Q04. Don't you have anything better to do with your time?</p>
 <div class="panel">What is a better use of my time other than giving my unwanted opinion?</div>
 
-<p class="accordion">Q5. How often will there be a new post?</p>
+<p class="accordion">Q05. How often will there be a new post?</p>
 <div class="panel">When the mood strikes me.</div>
 
-<p class="accordion">Q6. How long should you wait to go into the water after you've eaten?</p>
+<p class="accordion">Q06. How long should you wait to go into the water after you've eaten?</p>
 <div class="panel">At least 30 minutes.</div>
 
-<p class="accordion">Q7. What kind of music do you like?</p>
+<p class="accordion">Q07. What kind of music do you like?</p>
 <div class="panel">Depends on my mood and who I'm with.  Pretty much anything but country.</div>
 
-<p class="accordion">Q8. What's wrong with country music?</p>
+<p class="accordion">Q08. What's wrong with country music?</p>
 <div class="panel">So many things. I've tried to like it and I've worked with people that
 listen to nothing but country. It's just not my thing.</div>
 
-<p class="accordion">Q9. Why is the sky blue?</p>
+<p class="accordion">Q09. Why is the sky blue?</p>
 <div class="panel">Sunlight reaches Earth's atmosphere and is scattered in all directions
 by all the gases and particles in the air. Blue light is scattered more
 than the other colors because it travels as shorter, smaller waves.</div>
@@ -75,10 +50,10 @@ than the other colors because it travels as shorter, smaller waves.</div>
 <div class="panel">The Carna botnet was comprised of 420,000 devices created by an anonymous researcher to measure the extent of the Internet in what the creator called the “Internet Census of 2012”.  More details about how it went down and the resulting map can be found on <a href="https://en.wikipedia.org/wiki/Carna_botnet">Wikipedia</a></div>
 
 <p class="accordion">Q13. Cats or dogs?</p>
-<div class="panel">Cats.</div>
+<div class="panel">Cats.<sup>3</sup></div>
 
 <p class="accordion">Q14. Where is the best place to go for a vacation?</p>
-<div class="panel">My current favorite destination is Japan.  However, that is subject to change since I haven't been everywhere yet.</div>
+<div class="panel">My current favorite destination is Japan.<sup>4</sup></div>
 
 <p class="accordion">Q15. What time is it?</p>
 <div class="panel">Check out the <a href="https://www.time.gov/">NIST Official Official Map.</a>  If you are outside the US, you're out of luck.  According to the page "The .gov means it’s official."</div>
@@ -110,3 +85,45 @@ than the other colors because it travels as shorter, smaller waves.</div>
 <p class="accordion">Q24. Do you have a disclaimer? </p>
 <div class="panel">Why, <a href="/about">yes</a> I do.</div>
 
+<p class="accordion">Q25. Where is the chat feature? </p>
+<div class="panel">This site is cobbled together in my spare time and hosted on GitHub. If you would like a chat feature, feel free to file a feature request with our support team<sup>5</sup>.</div>
+
+<p class="accordion">Q26. Why don't footnote links work in the FAQ? </p>
+<div class="panel">It's a markdown/html issue.  Trust me, it's easier this way, it's also more fun.<sup>6</sup></div>
+
+
+[^Q00]: [Q00] To reach our support team, please use the chat feature.
+[^Q03]: [Q03] From Hitchhiker's Guide to the Galaxy by Douglas Adams.
+[^Q13]: [Q13] I started out as a dog person, but I've had good luck with cats.
+[^Q14]: [Q14] I haven't been *everywhere* yet.
+[^Q25]: [Q25] See footnote for Q00 above.
+[^Q26]: [Q26] Fun, as in, not my problem.
+
+<script>
+window.onload = function(event) { 
+
+var acc = document.getElementsByClassName("accordion");
+var panel = document.getElementsByClassName('panel');
+
+for (var i = 0; i < acc.length; i++) {
+    acc[i].onclick = function() {
+        var setClasses = !this.classList.contains('active');
+        setClass(acc, 'active', 'remove');
+        setClass(panel, 'show', 'remove');
+
+        if (setClasses) {
+            this.classList.toggle("active");
+            this.nextElementSibling.classList.toggle("show");
+        }
+    }
+}
+
+function setClass(els, className, fnName) {
+    for (var i = 0; i < els.length; i++) {
+        els[i].classList[fnName](className);
+    }
+}
+
+};
+
+</script>
