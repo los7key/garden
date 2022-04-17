@@ -1,4 +1,10 @@
-# Bash prompts
+---
+layout: post
+title: Bash Prompts
+description: Random bash tidbit
+date: 2022-04-09
+Last Updated: 2022-04-16
+---
 
 I have [dot files](https://github.com/jellyfishsizzle/dotfiles) that are never kept up to date, so I end up taking notes elsewhere.  
 

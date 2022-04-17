@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Add color with GRC
+date: 2022-04-09
+Last Updated: 2022-04-16
 ---
 I've done a lot of work in a terminal for many years and until recently never realized how useful it would be to have some color output for commands I use frequently.  It's really helpful to see key things you are looking for in the output of a command at a glance.  Sure, the output is the same, but it makes it easier to see what you are looking for.  
 

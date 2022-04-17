@@ -1,6 +1,9 @@
 ---
-Title: Emojis
-Author: 
+layout: post
+title: Emojis
+description: Emojis
+date: 2022-04-10
+Last Updated: 2022-04-16
 ---
 
 Fun fact, the [repo](https://lyz-code.github.io/blue-book) I forked to create this site had a page with some emojis and thought I'd create my own.  Turns out it had most of the ones I usually like handy so I just added to that.

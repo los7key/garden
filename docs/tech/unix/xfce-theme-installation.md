@@ -1,4 +1,10 @@
-# XFCE Theme installation
+---
+layout: post
+title: XFCE Theme installation
+description: XFCE Theme installation
+date: 2022-04-09
+Last Updated: 2022-04-16
+---
 
 ```
 Xfce widgets theme:

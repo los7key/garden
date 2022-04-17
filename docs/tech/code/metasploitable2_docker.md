@@ -1,10 +1,18 @@
+---
+layout: post
+title: Metasploitable2 with docker
+description: Metasploitable2 with docker
+date: 2022-04-10
+Last Updated: 2022-04-16
+---
+## Set up
 Set up Metasploitable2 with Docker 
 (for Ubuntu based systems)[^1]
 
 NOTE: This assumes the following scenario:
 
 * Installing/running docker on a remote host (or in a VM)
-* I want to expose all the servies outside the container and outside the host
+* I want to expose all the services outside the container and outside the host
 * These commands are all run on the above host/VM
 * By putting my account in the docker group, I will not need sudo 
 
@@ -108,6 +116,19 @@ $ docker rmi tleemcjr/metasploitable2
 $ docker images
 REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
 ```
+
+## Additional helpful docker things
+The difference between “docker run” and “docker exec” is that “docker exec” executes a command on a running container. On the other hand, “docker run” creates a temporary container, executes the command in it and stops the container when it is done.Dec
+
+### Run a command inside a running container
+```
+docker exec -it $CONT /bin/bash -c "/workspace/foo/configure.sh" > /dev/null
+```
+
+### Copy a file into a running container
+```
+docker cp /user/foo/dev/$CRULES $CONT:/workspace/rulesets
+ ```
 
 ## References
 https://dockerlabs.collabnix.com/docker/cheatsheet/
