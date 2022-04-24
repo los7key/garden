@@ -91,6 +91,9 @@ than the other colors because it travels as shorter, smaller waves.</div>
 <p class="accordion">Q26. Why don't footnote links work in the FAQ? </p>
 <div class="panel">It's a markdown/html issue.  Trust me, it's easier this way, it's also more fun.<sup>6</sup></div>
 
+<p class="accordion">Q27. How do you remove a file whose name starts with a '-'?".</p>
+<div class="panel">"rm -filename" doesn't work, if you know enough about getopt(), you can use "rm -- -filename".<sup>6</sup></div>
+
 
 [^Q00]: [Q00] To reach our support team, please use the chat feature.
 [^Q03]: [Q03] From Hitchhiker's Guide to the Galaxy by Douglas Adams.
