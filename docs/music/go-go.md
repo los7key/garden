@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Metasploitable2 with docker
-description: Metasploitable2 with docker
+title: Go-go Music
+description: Go-go Music
 date: 2022-04-15
-Last Updated: 2022-04-17
+Last Updated: 2022-04-24
 ---
 
 Growing up just outside of Washington DC, I was exposed to the music that came from the area known as "Go-Go".  Seeing shows live was an unbelievable experience and go-go was a big part of my life as a teen.  Just imagine a stage (or a house party) full of nothing but percussion instruments and a few horns.  No drum machines, just drums of various sizes and shapes, a few horns and a lot of interaction with the audience.  Go-Go is not a spectator sport!  There is a lot of call and response, a lot of cowbell, and a lot of dancing!
