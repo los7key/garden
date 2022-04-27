@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: post
 title: FAQ
+description: FAQ
+date: 2022-04-01
+Last Updated: 2022-04-27
 ---
 
 Really, there are questions that need to be answered. I suspect I'm going to have to put things in categories at some point or it will get out of hand quickly.  This is a work in progress.
@@ -8,7 +11,7 @@ Really, there are questions that need to be answered. I suspect I'm going to hav
 ***
 
 <p class="accordion">Q00. Why does this FAQ require you to hit refresh again to see the answers?</p>
-<div class="panel">Because I don't know enough JavaScript to fix it. I already spent way too long on getting the look I had in mind, so I'm not ready to abandon it just yet. Don't worry, I'll get around to it in all my copious spare time™.  In the meantime, both visitors to this garden will have to refresh the page twice before the answers will be visible. This is probably the most first world problem I can think of. If this bothers anyone you can file a ticket with our support team.<sup>1</sup></div> 
+<div class="panel">Because I don't know enough JavaScript to fix it. I already spent way too long on getting the look I had in mind, so I'm not ready to abandon it just yet. Don't worry, I'll get around to it in all my copious spare time™.  In the meantime, both visitors to this garden will have to refresh the page twice before the answers will be visible. This is probably the most first-world problem I can think of. If this bothers anyone you can file a ticket with our support team.<sup>1</sup></div> 
 
 <p class="accordion">Q01. Do you really need an FAQ page?</p>
 <div class="panel">No, but I love FAQs!  Also, the <a href="/">Introduction</a> doesn't cover everything.</div>
