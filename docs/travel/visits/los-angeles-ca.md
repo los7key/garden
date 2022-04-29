@@ -1,9 +1,10 @@
 ---
-description: Things to do in LA
+layout: post
+title: Los Angeles, CA
+description: Los Angeles, CA
+date: 2022-04-28
+Last Updated: 
 ---
-
-# Los Angeles, CA
-
 ## Favs
 
 * Disneyland
@@ -14,9 +15,6 @@ description: Things to do in LA
 * Amoeba Music
 * The Getty Center
 * Beaches: Long Beach, Huntington, Newport Beach, Seal Beach
-
-
-
 
 
 ## To do

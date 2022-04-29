@@ -1,4 +1,10 @@
-# Japan
+---
+layout: post
+title: Japan
+description: Japan
+date: 2022-04-28
+Last Updated: 2022-04-28
+---
 
 [This](https://www.japan-guide.com/e/e2400\_best.html) was pretty much the trip we followed in 2019
 
@@ -6,7 +12,7 @@
 
 ### Tokyo
 
-* Akihabara Electric Town&#x20;
+* Akihabara Electric Town
 * 8bit Cafe
 * Meiji Shrine
 * Sumida river to Asakusa district (lunch on boat)
@@ -22,10 +28,10 @@
 * Hokokuji temple
 * Great Buddha
 
-### Hakone&#x20;
+### Hakone
 
 * Hakone National park
-* Fujiyoshida sengen shrine&#x20;
+* Fujiyoshida sengen shrine
 * Open-air museum
 * Odwara Castle
 * Kaseki dinner
@@ -43,16 +49,16 @@
 * Nijo castle (Shogun era with nightengale floors)
 * Toji
 * Neo Sujidn (cyberpunk city)
-* Otagi Nenbutsu-ji&#x20;
+* Otagi Nenbutsu-ji
 * Ryōan-ji (museum/zen gardens)
 * Tokufuji Temple (rock gardens)
-* Kiyomizudera&#x20;
+* Kiyomizudera
 * Kinkakuji (golden pavilian)
 * Genko-an Temple (blood)
 * Hosen-in Temple
 * Sanzen-in Temple
-* Nishi Honganji temple&#x20;
-* Philosopher's path/Ginkaku-ji-chō&#x20;
+* Nishi Honganji temple
+* Philosopher's path/Ginkaku-ji-chō
 * Nanzen-ji Temple
 * Heian Jingu (Shinto shrine)
 * Arashiyama (bamboo groves)
@@ -70,9 +76,9 @@
 
 
 
-### Himeji&#x20;
+### Himeji
 
-* Himeji Castle\
+* Himeji Castle
 
 
 ### Nara
@@ -80,7 +86,7 @@
 * Higashiyama (neighborhood)
 * Todai-ji and kasuja-taisha (with deer)
 * Kasuga Taisha (Shinto shrine with lanterns)
-* Naramachi (traditional district)\
+* Naramachi (traditional district)
 
 
 ### Kanazawa (samurai town)
@@ -90,7 +96,7 @@
 * kanazawa castle
 * kenoroku-en garden
 * Ishikawa Gate
-* Asuka on the way to Osaka\
+* Asuka on the way to Osaka
 
 
 ### Osaka
@@ -101,5 +107,5 @@
 * Hozenji Alley
 * Ura-Namba
 * Dontonbori Street (food)
-* Chusome towel shop and Tenma by train &#x20;
+* Chusome towel shop and Tenma by train
 
