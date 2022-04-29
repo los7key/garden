@@ -226,6 +226,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://www.catelevator.com/tech/security/msfvenom/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://www.catelevator.com/tech/security/osint-tips/</loc>
          <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
@@ -346,17 +351,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.catelevator.com/travel/visits/</loc>
+         <loc>https://www.catelevator.com/travel/locations/</loc>
          <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.catelevator.com/travel/visits/japan/</loc>
+         <loc>https://www.catelevator.com/travel/locations/california/</loc>
          <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.catelevator.com/travel/visits/los-angeles-ca/</loc>
+         <loc>https://www.catelevator.com/travel/locations/japan/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.catelevator.com/travel/locations/los-angeles-ca/</loc>
          <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
