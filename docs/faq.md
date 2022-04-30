@@ -3,7 +3,7 @@ layout: post
 title: FAQ
 description: FAQ
 date: 2022-04-01
-Last Updated: 2022-04-27
+Last Updated: 2022-04-30
 ---
 
 Really, there are questions that need to be answered. I suspect I'm going to have to put things in categories at some point or it will get out of hand quickly.  This is a work in progress.
@@ -95,8 +95,10 @@ than the other colors because it travels as shorter, smaller waves.</div>
 <div class="panel">It's a markdown/html issue.  Trust me, it's easier this way, it's also more fun.<sup>6</sup></div>
 
 <p class="accordion">Q27. How do you remove a file whose name starts with a '-'?".</p>
-<div class="panel">"rm -filename" doesn't work, if you know enough about getopt(), you can use "rm -- -filename".<sup>6</sup></div>
+<div class="panel">"rm -filename" doesn't work, if you know enough about <a href="/tech/unix/getopts/">getopt()</a>, you can use "rm -- -filename".<sup>6</sup></div>
 
+<p class="accordion">Q28. Why is the nav bar not in alphabetical order?</p>
+<div class="panel">I have no idea.  I am pretty rigid when it comes to things like this, and I spent a good couple hours trying to figure out why it won't put things in alphabetical order and finally gave up for now.  It's definitely an <a href="https://www.mkdocs.org">mkdocs</a> thing.  I'm trying to embrace being less rigid, though and this is going to be one of those times where I am going to stop fighting it and see where it goes.  Does it really need to be a meticulously trimmed garden or can it wander?  For now I'm going to consider it a vine that grows in my <a href="/">garden</a> and sometimes it will grow to the directions it wants. </div>
 
 [^Q00]: [Q00] To reach our support team, please use the chat feature.
 [^Q03]: [Q03] From Hitchhiker's Guide to the Galaxy by Douglas Adams.

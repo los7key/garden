@@ -80,10 +80,10 @@ extra_css:
 #extra_javascript:
   #- javascripts/extra.js
 
-extra:
-  analytics:
-    provider: google
-    property: G-S6XNBQV005
+#extra:
+#  analytics:
+#    provider: google
+#    property: G-S6XNBQV005
 
 #  social:
     # - icon: fontawesome/brands/github-alt
