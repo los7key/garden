@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Los Angeles, CA
-description: Los Angeles, CA
+title: California, Los Angeles
+description: California, Los Angeles
 date: 2022-04-28
 Last Updated: 
 ---

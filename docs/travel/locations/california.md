@@ -1,7 +1,7 @@
 ---
 layout: post
-title: California Favs
-description: California Favs
+title: California
+description: California
 date: 2022-04-29
 Last Updated: 
 ---
@@ -17,7 +17,7 @@ I have spent a lot of time in California and, as such, I have a list of my fav p
 * Beaches: Huntington Beach, Santa Cruz, Laguna Beach 
 * Muir Woods, Sequoia, or Ave of Giants 
 * Fern Canyon
-
+* California Missions
 
 ### Major Cities 
 * [San Francisco](SF.md)

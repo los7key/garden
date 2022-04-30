@@ -1,7 +1,7 @@
 ---
 layout: post
-title: San Francisco, California
-description: San Francisco, California
+title: California, San Francisco
+description: California, San Francisco
 date: 2022-04-29
 Last Updated: 
 ---
