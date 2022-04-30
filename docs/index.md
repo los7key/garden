@@ -1,6 +1,9 @@
 ---
+layout: post
 title: README
-author: Aaron
+description: README
+date: 2022-04-01
+Last Updated: 2022-04-30
 ---
 What is this place?
 
@@ -36,5 +39,9 @@ Keep in mind this is my brain (and opinion), exposed for anyone to explore. Be g
 
 Well, this is it, this is my digital garden. Who would've thought I'd be a gardener one day?
 
-... I did garden when I was a kid...
+<br>
 
+*Stats brought to you by* [SCC](https://github.com/boyter/scc/)<br>
+[![Scc Count Badge](https://sloc.xyz/github/jellyfishsizzle/garden/?category=lines)](https://www.catelevator.com)
+[![Scc Count Badge](https://sloc.xyz/github/jellyfishsizzle/garden/?category=blanks)](https://www.catelevator.com)
+[![Scc Count Badge](https://sloc.xyz/github/jellyfishsizzle/garden/?category=comments)](https://www.catelevator.com)
