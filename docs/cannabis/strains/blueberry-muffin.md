@@ -25,4 +25,4 @@ The distinct scent of fresh baked blueberry muffins is powerful and delicious. W
 * Elevated senses
 * Very rare, slight paranoia
 
-## Overall: 6/10   
+## Overall: 7/10   

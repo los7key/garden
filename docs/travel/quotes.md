@@ -3,7 +3,7 @@ layout: post
 title: Travel Quotes
 description: Travel Quotes
 date: 2022-04-28
-Last Updated: 
+Last Updated: 2022-05-05
 ---
 These quotes were initially going to be the majority of the travel section [README](/travel), but the list keeps growing.  I've tried to personalize this a bit by adding my own comments and feelings I associate with these quotes. 
 

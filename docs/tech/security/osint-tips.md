@@ -1,9 +1,16 @@
+---
+layout: post
+title: OSINT Tips
+description: OSINT Tips
+date: 2022-04-29
+Last Updated: 2022-05-05
+---
 # OSINT Tips
 
 ### Recon
 
 * http://bgp.he.net
-* https://whois.arin.net/ui/query.do
+* https://whois.arin.net/ui/
 * https://apps.db.ripe.net/db-web-ui
 * https://reverse.report
 * https://www.shodan.io
@@ -52,5 +59,5 @@ To find js files burp pro engagement tools > find scripts
 * [Social Searcher](https://www.social-searcher.com)
 * [SpiderFoot](https://www.spiderfoot.net)
 * [Wayback Machine](http://archive.org/web/web.php)
-* [What's that site running](https://sitereport.netcraft.com/%3E)
+* [What's that site running](https://sitereport.netcraft.com/)
 * [Who Posted What](http://whopostedwhat.com)

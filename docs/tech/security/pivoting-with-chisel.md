@@ -1,10 +1,16 @@
+---
+layout: post
+title: Pivoting with Chisel
+description: Pivoting with Chisel
+date: 2022-04-29
+Last Updated: 
+---
+<!-- markdown-link-check-disable -->
 # Pivoting with Chisel
 
 ## Reverse Pivot
 
 (sends traffic back to kali via tunnel)
-
-
 
 Kali -> victim -> network host
 
@@ -53,3 +59,5 @@ C:\Users\offsec\Documents>chisel.exe client 192.168.119.163:8000 9001:127.0.0.1:
 On Remote host execute payload with IP of client and it will get forwarded to attack box
 
 ![](</assets/images/Local_Pivot_1.png>)![](</assets/images/Local_Pivot_2.png>)![](</assets/images/Local_Pivot_3.png>)
+
+<!-- markdown-link-check-enable -->
