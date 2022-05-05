@@ -2,6 +2,8 @@
 layout: post
 title: Chocolate Tonic CBD
 description: 50/50 Hybrid CBD
+date: 2022-04-01
+Last Updated: 2022-05-04
 ---
 ## About
 
@@ -18,10 +20,11 @@ Chocolate Tonic is a 2:1 CBD strain bred by Purple Caper Seeds, known to be a mo
 * EFFECTS: Likely to offer a relaxing feeling, with a slight high feeling from the THC.
 * SUGGESTED MEDICAL USE: Pain, stress, fatigue, cancer, anxiety, headaches, nausea, inflammation
 
-
-
 ## Results
 
-* Warm and fuzzy
+* Warm and fuzzy, but still can hit hard
 * Mellow, but not good for late-night/sleep
 * Alert
+* Excellent for migraines
+
+## Overall: 9/10

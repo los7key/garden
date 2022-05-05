@@ -2,6 +2,8 @@
 layout: post
 title: Knights Templar OG
 description: Indica
+date: 2022-04-01
+Last Updated: 2022-05-04
 ---
 ## About
 
@@ -21,3 +23,6 @@ This is an OG for indica lovers. Loud lemon terpenes, heavy yields, and frosted-
 * Heavy
 * In da couch
 * Big ideas
+* Excellent for sleep
+
+## Overall: 8/10

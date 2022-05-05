@@ -2,6 +2,8 @@
 layout: post
 title: Point Break
 description: Indica Dominant 
+date: 2022-04-01
+Last Updated: 2022-05-04
 ---
 ## About
 Point Break is a slightly indica dominant hybrid strain (60% indica/40% sativa) created through crossing the delicious Tropicana Cookies X Trophy Wife strains. Named for the famous film, Point Break packs a lifting and full-bodied high that will have you feeling energized before helping you settle down and get to sleep. 
@@ -19,3 +21,5 @@ Point Break is a slightly indica dominant hybrid strain (60% indica/40% sativa) 
 * Alert
 * Warm and fuzzy
 * Good evening use
+
+## Overall: 8/10

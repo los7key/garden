@@ -2,6 +2,8 @@
 layout: post
 title: Venom OG
 description: Indica Dominant
+date: 2022-04-01
+Last Updated: 2022-05-04
 ---
 ## About
 
@@ -16,12 +18,12 @@ Venom OG is an indica-leaning strain with a high that’s as potent -- but not n
 * EFFECTS: Full body relaxation with sensory elevation which compliments lazy activities.
 * SUGGESTED MEDICAL USE: Great to calm stress, pain, insomnia, headaches, and appetite loss.
 
-
-
 ## Results
 
 * Munchies
-* Introspective&#x20;
+* Introspective
 * Alert
 * High libido
 * Mellow
+
+## Overall: 10/10

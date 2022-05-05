@@ -2,6 +2,8 @@
 layout: post
 title: Black Jack
 description: Sativa Dominant
+date: 2022-04-01
+Last Updated: 2022-05-04
 ---
 ## About
 
@@ -22,3 +24,6 @@ Black Jack is a heavy yielding sativa-dominant hybrid, that produces large dense
 * Awake/Happy
 * Alert
 * Grand ideas
+* Cotton mouth
+
+## Overall: 8/10  

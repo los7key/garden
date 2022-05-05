@@ -2,6 +2,8 @@
 layout: post
 title: Skywalker OG
 description: 50/50 Hybrid
+date: 2022-04-01
+Last Updated: 2022-05-04
 ---
 ## About
 
@@ -23,3 +25,5 @@ Often confused with the indica-dominate variety called Skywalker without the OG 
 * Zen
 * Alert
 * Good day use
+
+## Overall: 10/10

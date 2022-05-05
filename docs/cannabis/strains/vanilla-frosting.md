@@ -2,6 +2,8 @@
 layout: post
 title: Vanilla Frosting
 description: Indica Dominant
+date: 2022-04-01
+Last Updated: 2022-05-04
 ---
 ## About
 
@@ -13,10 +15,11 @@ She's a high-yielding, extremely potent, new & improved version of the consumer 
 * DIFFICULTY: Intermediate, Easy
 * THC %: 20% – 24.99%, 25% +
 
-
-
 ## Results
 
 * Mellow
 * Introspective
 * Heightened senses (no driving!)
+* Everything tastes AMAZING
+
+## Overall: 10/10

@@ -2,6 +2,8 @@
 layout: post
 title: Blueberry Muffin
 description: Indica Dominant
+date: 2022-04-01
+Last Updated: 2022-05-04
 ---
 ## About
 
@@ -17,6 +19,10 @@ The distinct scent of fresh baked blueberry muffins is powerful and delicious. W
 
 ## Results
 
-* Light sensitive&#x20;
+* Light sensitive
 * Mellow
 * Alert
+* Elevated senses
+* Very rare, slight paranoia
+
+## Overall: 6/10   

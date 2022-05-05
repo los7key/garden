@@ -2,6 +2,8 @@
 layout: post
 title: Napali Pink
 description: Sativa Dominant
+date: 2022-04-01
+Last Updated: 2022-05-04
 ---
 ## About
 
@@ -21,3 +23,6 @@ A strain bred on Kauai using old school Hawaiian Genetics. A truly unique Hawaii
 * Extreme paranoia
 * Manic
 * Grand ideas
+* Looked pretty growing
+
+## Overall: 1/10
