@@ -5,10 +5,10 @@
         "^https://crunchbase.com",
         "^https://crt.sh",
         "^https://reverse.report",
-        "*localhost*",
-        "*target-ip*",
+        "^http://localhost",
+        "^http://target-ip",
         "^http://192.", 
-        "^http://10."
+        "^http://10.",
         "^http://172."
         ]
     }
