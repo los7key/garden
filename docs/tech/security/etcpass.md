@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Hacking /etc/passwd
-catagories: Insecurity
+description: Hacking /etc/passwd
+date: 2022-04-01
+Last Updated: 2022-05-05
 ---
 I've been crazy busy with various projects and wanted to remember this trick for `/etc/passwd` in the event you have write access to the file.  I found myself in a position where I had a low-level shell and had write access to `/etc/passwd`.  I couldn't remember having done this before and didn't have any notes on it, so here it is.
 

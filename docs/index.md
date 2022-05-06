@@ -3,7 +3,7 @@ layout: post
 title: README
 description: README
 date: 2022-04-01
-Last Updated: 2022-04-30
+Last Updated: 2022-05-05
 ---
 What is this place?
 
@@ -31,7 +31,7 @@ This last part is the key. I am doing this for me and I can do it any way I like
 
 ~~I'm not totally sold on GitBook, mostly because I want to be able to use footnotes (why not?) and I can't do that here. All of the other beautiful gardens I have come across were put together by folks that know what they are doing. For now, this is how we're going to roll. Not too easy on the eyes, but functional and low overhead. I guess that'll do for now.~~
 
-Who knew how important the technology would be? I spent quite a bit of time trying out different ways to create my garden in the way I wanted it to look.  It turns out, it's like most other things in life, there is always a different way to do it.  But I still struggled to make it what I envisioned. After searching for a way to make my [Gitbook](https://gitbook.io) not look like crap, I came back to [The Blue Book](https://lyz-code.github.io/blue-book). Not only did I like it, there are [instructions](https://lyz-code.github.io/blue-book/#make-your-own-digital-garden) and words of encouragement on how to get it all set up!  
+Who knew how important the technology would be? I spent quite a bit of time trying out different ways to create my garden in the way I wanted it to look.  It turns out, it's like most other things in life, there is always a different way to do it.  But I still struggled to make it what I envisioned. After searching for a way to make my [Gitbook](https://app.gitbook.com/) not look like crap, I came back to [The Blue Book](https://lyz-code.github.io/blue-book). Not only did I like it, there are [instructions](https://lyz-code.github.io/blue-book/#make-your-own-digital-garden) and words of encouragement on how to get it all set up!  
 
 So, after a week on Gitbook, this is the new and improved look. As I'm quickly finding, this will always be a work in progress.  I'm looking forward to keeping it up.  I have a habit of changing hobbies often and I'm hoping this one sticks.
 
