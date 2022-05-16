@@ -60,13 +60,13 @@ jobs:
         uses: iryanbell/scc-docker-action@v1.0.2
         with:
           args: ${{ env.workspace }} -i js,yml,html,css,md
-  markdown-link-check:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@master
-    - uses: gaurav-nelson/github-action-markdown-link-check@v1
-      with:
-        use-quiet-mode: 'yes'
-        use-verbose-mode: 'yes'
-        config-file: 'mlc_config.json'
-        folder-path: 'docs'
+  # markdown-link-check:
+  #  runs-on: ubuntu-latest
+  #  steps:
+  #  - uses: actions/checkout@master
+  #  - uses: gaurav-nelson/github-action-markdown-link-check@v1
+  #    with:
+  #      use-quiet-mode: 'yes'
+  #      use-verbose-mode: 'yes'
+  #      config-file: 'mlc_config.json'
+  #      folder-path: 'docs'

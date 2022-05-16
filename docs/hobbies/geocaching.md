@@ -39,23 +39,23 @@ Although terrain can differ, there are definitely things a geocacher should have
 * Poison Ivy/Oak lotion
 * Bug repellent 
 
-## Favorite all time caches
+## Favorite caches
 I intended to list some of my favorite finds but since I can't view any of my previous logs thanks to Groundspeak's greediness, I guess this will be a list of a few of my VERY favorites.  This list is comprised mostly by favorites I've left and those from complete memory. 
 
 All caches below not crossed are still active
 
-* ~~[GC30Q6J](https://www.geocaching.com/geocache/GC30Q6J) - A City Block~~
-* ~~[GCMDN5](https://www.geocaching.com/geocache/GCMDN5) - Assume Nothing #7: WoW's 45th Birthday Micro-Multi~~
+* [GC30Q6J](https://www.geocaching.com/geocache/GC30Q6J) - ~~A City Block~~
+* [GCMDN5](https://www.geocaching.com/geocache/GCMDN5) - ~~Assume Nothing #7: WoW's 45th Birthday Micro-Multi~~
 * [GCGH5J](https://www.geocaching.com/geocache/GCGH5J) - Columba
-* ~~[GCYWD9](https://www.geocaching.com/geocache/GCYWD9) - Combination of Beers~~
+* [GCYWD9](https://www.geocaching.com/geocache/GCYWD9) - ~~Combination of Beers~~
 * [GCK7HH](https://www.geocaching.com/geocache/GCK7HH) - Royal Observatory Greenwhich Cache
 * [GC249TY](https://www.geocaching.com/geocache/GC249TY) - The dragon and the church
 * [GCJG8G](https://www.geocaching.com/geocache/GCJG8G) - Big Worm-Gear Needed
-* ~~[GCRF1V](https://www.geocaching.com/geocache/GCRF1V) - Lots Of Juice~~
+* [GCRF1V](https://www.geocaching.com/geocache/GCRF1V) - ~~Lots Of Juice~~
 * [GCZTA2](https://www.geocaching.com/geocache/GCZTA2) - Movie: GeoTales, Believe it or Not
-* [GCG8QV](https://www.geocaching.com/geocache/GCG8QV) - Wait Until Dark
-* [GCP892](https://www.geocaching.com/geocache/GCP892) - The Brink of Insanity
-* [???] - Planet of the Apes Mision - Tunnel of Light
+* [GCG8QV](https://www.geocaching.com/geocache/GCG8QV) - ~~Wait Until Dark~~
+* [GCP892](https://www.geocaching.com/geocache/GCP892) - ~~The Brink of Insanity~~
+* [???] - ~~Planet of the Apes Mision - Tunnel of Light~~
   
 
 `Trbpnpuvat vf hfvat rkcrafvir rdhvczrag gb svaq Ghccrejner va gur sberfg`
