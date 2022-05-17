@@ -3,7 +3,7 @@ layout: post
 title: FAQ
 description: FAQ
 date: 2022-04-01
-Last Updated: 2022-05-05
+Last Updated: 2022-05-16
 ---
 
 Really, there are questions that need to be answered. I suspect I'm going to have to put things in categories at some point or it will get out of hand quickly.  This is a work in progress.
@@ -14,7 +14,7 @@ Really, there are questions that need to be answered. I suspect I'm going to hav
 <div class="panel">Because I don't know enough JavaScript to fix it. I already spent way too long on getting the look I had in mind, so I'm not ready to abandon it just yet. Don't worry, I'll get around to it in all my copious spare time™.  In the meantime, both visitors to this garden will have to refresh the page twice before the answers will be visible. This is probably the most first-world problem I can think of. If this bothers anyone you can file a ticket with our support team.<sup>1</sup></div> 
 
 <p class="accordion">Q01. Do you really need an FAQ page?</p>
-<div class="panel">No, but I love FAQs!  Also, the <a href="/">Introduction</a> doesn't cover everything.</div>
+<div class="panel" id="Q01">No, but I love FAQs!  Also, the <a href="/">Introduction</a> doesn't cover everything.</div>
 
 <p class="accordion">Q02. Who are you?</p>
 <div class="panel">I'm a security enthusiast, sysadmin, veteran, father, husband, tinkerer, and all around geek. A jack of all trades (and master of none).</div>
@@ -44,7 +44,7 @@ by all the gases and particles in the air. Blue light is scattered more
 than the other colors because it travels as shorter, smaller waves.</div>
 
 <p class="accordion">Q10. What is the definition of a will?</p>
-<div class="panel">A dead giveaway.</div>
+<div class="panel" id="Q10">A dead giveaway.</div>
 
 <p class="accordion">Q11. How much Red Bull can someone drink and not die?</p>
 <div class="panel">According to <a href="https://www.caffeineinformer.com/death-by-caffeine">Caffiene Calculator</a> I can drink 170 cans and still be safe.  Although, I'd probably be pretty sick.</div>
@@ -68,13 +68,13 @@ than the other colors because it travels as shorter, smaller waves.</div>
 <div class="panel">No.</div>
 
 <p class="accordion">Q18. What about cats? </p>
-<div class="panel">Not really.</div>
+<div class="panel">I like them, but not really an expert.</div>
 
 <p class="accordion">Q19. Why is this place called "Cat Elevator"?</p>
 <div class="panel">One day I was picking up my cat and the name just came to me.  Seemed like a good fit.</div>
 
 <p class="accordion">Q20. I skipped the <a href="/">intro</a>, what is a digital garden?</p>
-<div class="panel">For now, you'll have to rely on the intro. I might write more about it later™.</div>
+<div class="panel" id="Q20">For now, you'll have to rely on the intro. I might write more about it later™.</div>
 
 <p class="accordion">Q21. How do I create my own digital garden? </p>
 <div class="panel"><a href="https://lyz-code.github.io/blue-book/#make-your-own-digital-garden">This</a> is the place to start.  Alternatively, you can fork my repo and tinker.</div>
@@ -103,12 +103,16 @@ than the other colors because it travels as shorter, smaller waves.</div>
 <p class="accordion">Q29. What is the best distro of Linux?</p>
 <div class="panel">The one *you* know best.</div>
 
+<p class="accordion">Q30. Do you know how to pick locks?</p>
+<div class="panel" id="Q30">Why yes, yes I do. At least, I know the basics<sup>7</sup> and have some of the equipment.  It's one of the <a href="/hobbies">hobbies</a> I've collected.</div>
+
 [^Q00]: [Q00] To reach our support team, please use the chat feature.
 [^Q03]: [Q03] From Hitchhiker's Guide to the Galaxy by Douglas Adams.
 [^Q13]: [Q13] I started out as a dog person, but I've had good luck with cats.
 [^Q14]: [Q14] I haven't been *everywhere* yet.
 [^Q25]: [Q25] See footnote for Q00 above.
 [^Q26]: [Q26] Fun, as in, not my problem.
+[^Q30]: [Q30] I've picked a Master Lock #3 -> #6 and a few others.  Best thing to do while on a long call!
 
 <script>
 window.onload = function(event) { 
