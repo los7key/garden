@@ -3,7 +3,7 @@ layout: post
 title: Hobbies README
 description: Hobbies README
 date: 2022-05-15
-Last Updated: 
+Last Updated: 2022-05-16
 ---
 I collect hobbies.
 
@@ -13,7 +13,7 @@ Here are some hobbies I’m either currently into or I’ve really enjoyed over 
 
 * [Geocaching](/geocaching) 
 * [Ingress](https://ingress.com/)
-* Lock Picking 
+* [Lock Picking](/faq#Q30)
 * [Taiko](/music/taiko/)
 * Computer hardware
 * [Computer Security](/tech/security/)
