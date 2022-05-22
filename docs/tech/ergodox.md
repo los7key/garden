@@ -3,7 +3,7 @@ layout: post
 title: Ergodox EZ
 description: Ergodox EZ
 date: 2022-05-21
-Last Updated: 
+Last Updated: 2022-05-22
 ---
 ## Introduction
 Just got a new (to me) [Erogodox EZ](https://ergodox-ez.com/) and it's got a bit of a learning curve.  What better way to get the hang of it than to just start typing?  I figured I need some practice anyway and I've been working on trying to keep better notes of things while I do them, this seemed perfect.  I borrowed this keyboard from a co-worker and after a little test drive, I think I'm going to enjoy this one.  I love how clicky these brown switches are.
@@ -22,3 +22,6 @@ Setting it up is pretty straightforward:
 7. Follow on-screen directions for identifying the keyboard
 
 Now to figure out how the tenting should be…
+
+## Final words
+After 24 hours I gave it back.  I really liked it, but switching between ortholinear keyboards was too difficult.
