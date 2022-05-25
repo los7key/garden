@@ -24,4 +24,4 @@ Setting it up is pretty straightforward:
 Now to figure out how the tenting should be…
 
 ## Final words
-After 24 hours I gave it back.  I really liked it, but switching between ortholinear keyboards was too difficult.
+After 24 hours I gave it back.  I really liked it, but switching between ortholinear keyboards was too difficult.  I need brown switches.
