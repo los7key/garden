@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Reasons to get out of the Navy
+title: Why get out of the Navy
 description: A list of reasons to get out of the Navy at EOS
 date: 2022-05-26
-Last Updated: 
+Last Updated: 2022-05-28
 ---
 ## Introduction
 
-Back in the day, I was in the [Navy](navy.md).  I served on two ships and two shore duty stations.  Some times were better than others, but I have no regrets and would absolutely do it again.  
+Back in the day, I was in the [Navy](./navy.md).  I served on two ships and two shore duty stations.  Some times were better than others, but I have no regrets and would absolutely do it again.  
 
 However, there were definitely times when I was not a happy camper for one reason or another.  I made a list of reasons to get out when I was contemplating orders and whether I should stay in.  I recently came across the list I made, written by hand on paper, and decided to scan it and put it here.  
 
-Keep in mind I was probably 18 or 19 when I started this list.  Apologies to ET1 Lian whom I don’t totally remember, but based on the list we didn’t really get along.  It seems I was also disappointed quite often about lack of cereal options.
+Keep in mind I was probably 17 or 18 when I started this list.  Apologies to ET1 Lian whom I don’t totally remember, but based on the list we didn’t really get along.  It seems I was also disappointed quite often about lack of cereal options.
 
 ## Reasons to get out at EAOS
 
