@@ -3,7 +3,7 @@ layout: post
 title: Hobbies README
 description: Hobbies README
 date: 2022-05-15
-Last Updated: 2022-06-11
+Last Updated: 2022-06-19
 ---
 I collect hobbies.
 
@@ -11,6 +11,7 @@ I have had a lot of hobbies.  I’ve collected things, played sports, played mus
 
 Here are some hobbies I’m either currently into or I’ve really enjoyed over the years.  Some hobbies are still more active than others:
 
+* [HAM Radio](/life/navy)
 * [Geocaching](/geocaching) 
 * [Ingress](https://ingress.com/)
 * [Lock Picking](/faq#Q30)

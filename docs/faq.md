@@ -3,7 +3,7 @@ layout: post
 title: FAQ
 description: FAQ
 date: 2022-04-01
-Last Updated: 2022-05-16
+Last Updated: 2022-06-13
 ---
 
 Really, there are questions that need to be answered. I suspect I'm going to have to put things in categories at some point or it will get out of hand quickly.  This is a work in progress.
@@ -105,6 +105,9 @@ than the other colors because it travels as shorter, smaller waves.</div>
 
 <p class="accordion">Q30. Do you know how to pick locks?</p>
 <div class="panel" id="Q30">Why yes, yes I do. At least, I know the basics<sup>7</sup> and have some of the equipment.  It's one of the <a href="/hobbies">hobbies</a> I've collected.</div>
+
+<p class="accordion">Q31. Why do you share all this information in public?</p>
+<div class="panel"></a>Aside from my feelings and opinions, I suspect most of my personal data has already been compromised as part of a breach somewhere.  As for the rest, I usually give opinions out for free, might as well have them all in one place.</div>
 
 [^Q00]: [Q00] To reach our support team, please use the chat feature.
 [^Q03]: [Q03] From Hitchhiker's Guide to the Galaxy by Douglas Adams.
