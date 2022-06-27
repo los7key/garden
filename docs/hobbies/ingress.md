@@ -3,8 +3,9 @@ layout: post
 title: Ingress
 description: Ingress
 date: 2022-06-22
-Last Updated: 
+Last Updated: 2022-06-27
 ---
+## Introduction
 
 I spent a few years playing [Ingress](https://ingress.com/) by [Niantic Labs](https://nianticlabs.com/), creators of [Pokemon Go](https://pokemongolive.com/).  I really enjoy Ingress because it’s all of the things I like about [geocaching](geocaching) such as finding new places and getting outside, but without the downsides like spending an hour searching for something that wasn’t there.  Ingress is also similar to geocaching, where you can go solo or with other people and, it’s location-based.  But that is where the similarities end.
 
