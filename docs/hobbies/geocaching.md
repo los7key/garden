@@ -3,10 +3,12 @@ layout: post
 title: Geocaching
 description: Geocaching
 date: 2022-05-15
-Last Updated: 
+Last Updated: 2022-06-23
 ---
 ## Introduction
 [Geocaching](https://www.geocaching.com/play) is a game that gets you off your butt and out the door to find real-life “treasure” out in the world.  You look on the website for geocaches in your area and then go to the coordinates provided.[^1]  Once you get to a specified location, you must locate something hidden there.  
+
+I really got into it after seeing it on a travel show that was hosted just down the road from me!  My son was around 7 or 8 years old when we went "treasure hunting".  We hiked and traveled around all over the world finding geocaches in places we would have never seen if it wasn't geocaching.  
 
 If you are searching for a “traditional” cache, it needs to be only large enough to hold a piece of paper for you to sign to prove you found it.  This means it can be as small as a thimble or as large as a 5-gallon drum.  Once you find it, you sign the log and return the cache exactly as you found it.  
 

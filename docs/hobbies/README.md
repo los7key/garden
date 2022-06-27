@@ -3,7 +3,7 @@ layout: post
 title: Hobbies README
 description: Hobbies README
 date: 2022-05-15
-Last Updated: 2022-06-19
+Last Updated: 2022-06-27
 ---
 I collect hobbies.
 
@@ -12,8 +12,8 @@ I have had a lot of hobbies.  I’ve collected things, played sports, played mus
 Here are some hobbies I’m either currently into or I’ve really enjoyed over the years.  Some hobbies are still more active than others:
 
 * [HAM Radio](/life/navy)
-* [Geocaching](/geocaching) 
-* [Ingress](https://ingress.com/)
+* [Geocaching](/hobbies/geocaching) 
+* [Ingress](/hobbies/ingress)
 * [Lock Picking](/faq#Q30)
 * [Taiko](/music/taiko/)
 * Computer hardware
@@ -30,6 +30,7 @@ Here are some hobbies I’m either currently into or I’ve really enjoyed over 
 * T-Shirts
 * Riding Bicycles
 * [McMenamins Passports](https://www.mcmenamins.com/)
+* [Reddit](https://reddit.com) Moderator
 
 As time (and my mood) permits, I’m going to work on a new page for each hobby.  If a link is to an outside source, then I haven’t added my own thoughts on the topic.  This is more a placeholder to remember I can add from any of the things on this list.
 
