@@ -264,7 +264,7 @@ dependencies = [
 
 [[package]]
 name = "mkdocs-material"
-version = "8.3.6"
+version = "8.3.8"
 requires_python = ">=3.7"
 summary = "Documentation that simply works"
 dependencies = [
@@ -513,12 +513,13 @@ summary = "Easily download, build, install, upgrade, and uninstall Python packag
 [[package]]
 name = "setuptools-scm"
 version = "6.4.2"
-requires_python = ">=3.6"
+requires_python = ">=3.7"
 summary = "the blessed package to manage your versions by scm tags"
 dependencies = [
     "packaging>=20.0",
     "setuptools",
     "tomli>=1.0.0",
+    "typing-extensions",
 ]
 
 [[package]]
@@ -851,9 +852,9 @@ content_hash = "sha256:a9d5ca5f0c7340f7fde779be2c17717d84bcc0008f4b9c9f717926723
     {file = "mkdocs_git_revision_date_localized_plugin-1.0.1-py3-none-any.whl", hash = "sha256:ffcf206b5108d9f729af6cd42377d2e0e25c080817fdad0119549ac924b526f3"},
     {file = "mkdocs-git-revision-date-localized-plugin-1.0.1.tar.gz", hash = "sha256:f3e020b445e7b4fb4e58ccd46b07adecbca0f85ac1659e1a63e38b8779c81ba7"},
 ]
-"mkdocs-material 8.3.6" = [
-    {file = "mkdocs_material-8.3.6-py2.py3-none-any.whl", hash = "sha256:01f3fbab055751b3b75a64b538e86b9ce0c6a0f8d43620f6287dfa16534443e5"},
-    {file = "mkdocs-material-8.3.6.tar.gz", hash = "sha256:be8f95c0dfb927339b55b2cc066423dc0b381be9828ff74a5b02df979a859b66"},
+"mkdocs-material 8.3.8" = [
+    {file = "mkdocs_material-8.3.8-py2.py3-none-any.whl", hash = "sha256:949c75fa934d4b9ecc7b519964e58f0c9fc29f2ceb04736c85809cdbc403dfb5"},
+    {file = "mkdocs-material-8.3.8.tar.gz", hash = "sha256:b9cd305c3c29ef758931dae06e4aea0ca9f8bcc8ac6b2d45f10f932a015d6b83"},
 ]
 "mkdocs-material-extensions 1.0.3" = [
     {file = "mkdocs_material_extensions-1.0.3-py3-none-any.whl", hash = "sha256:a82b70e533ce060b2a5d9eb2bc2e1be201cf61f901f93704b4acf6e3d5983a44"},
