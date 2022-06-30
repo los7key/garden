@@ -3,7 +3,7 @@ layout: post
 title: Hobbies README
 description: Hobbies README
 date: 2022-05-15
-Last Updated: 2022-06-27
+Last Updated: 2022-06-29
 ---
 I collect hobbies.
 
@@ -21,6 +21,7 @@ Here are some hobbies I’m either currently into or I’ve really enjoyed over 
 * Programming
 * Coins 
 * Trains
+* Books <--[TODO] 2022-06-29: Maybe a whole new books section?
 * Monopoly Games
 * Magnets (for the fridge)
 * [Cannabis](/cannabis/)
