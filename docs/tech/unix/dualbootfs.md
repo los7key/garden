@@ -29,7 +29,7 @@ $ cd /media/kali/home/kali/Documents
 
 ```
 
-#### Add fstab entry:
+#### Add fstab entry
 
 ```
 /dev/nvme0n1p6  /media/kali  auto  defaults  0 2
