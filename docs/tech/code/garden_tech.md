@@ -37,7 +37,7 @@ Once changes have been made locally, I push my changes to the repo and viola!  T
 
 ~~I’m using [markdown link checker](https://github.com/gaurav-nelson/github-action-markdown-link-check) as a GitHub action so when new changes are pushed will verify all the links.  Currently[^5] this bit fails every run because of so many false positives, but I intend to fix that in all of my copious free time.™.  Luckily it still builds and deploys so…~~
 
-Gave up on markdown link checker after a few days of seeing errors being defeated by the configs. I just have better things to be doing and in all honesty, mkdocs does a fine job at link checking so maybe when I get around to it I'll come up with something else to check external links.  The link checker didn't like a lot of the stuff in the [security](/tech/security) section and I suspect most others will as well, so maybe some other time. 
+Gave up on markdown link checker after a few days of seeing errors being defeated by the configs. I just have better things to be doing and in all honesty, mkdocs does a fine job at link checking so maybe when I get around to it I'll come up with something else to check external links.  The link checker didn't like a lot of the stuff in the [security](/tech/security/) section and I suspect most others will as well, so maybe some other time. 
 
 As mentioned at the bottom of the [README](/), the stats are done with SCC.
 

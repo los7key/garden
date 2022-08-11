@@ -17,7 +17,7 @@ Back in August of 2020, I earned an [OSCP](https://www.offensive-security.com/pw
 
 I got it mostly for fun, as cyber security (and lack thereof) has always been a passion of mine.  In fact, I had big dreams of one day doing it for a living.  But first let’s go back..
 
-The year was 1998, I was in the [US Navy](/life/navy) and was living in San Diego, CA.  My friend, who was also in the Navy (and later went to [Captian’s Mast]https://en.wikipedia.org/wiki/Non-judicial_punishment#Mast) for intercepting his Commanding Officer’s email), got me hooked.  We spent every chance we had to geek out.  Whether it was learning Linux, looking for hardware for “the next big thing", or attending [2600](https://2600.com/) meetings and [DEFCON](https://www.defcon.org).
+The year was 1998, I was in the [US Navy](/life/navy/) and was living in San Diego, CA.  My friend, who was also in the Navy (and later went to [Captian’s Mast]https://en.wikipedia.org/wiki/Non-judicial_punishment#Mast) for intercepting his Commanding Officer’s email), got me hooked.  We spent every chance we had to geek out.  Whether it was learning Linux, looking for hardware for “the next big thing", or attending [2600](https://2600.com/) meetings and [DEFCON](https://www.defcon.org).
 
 Fast forward to when security was just becoming a thing.[^3]  There were exactly two other people in the large company I worked for that were responsible for security.  One of whom I knew fairly well. He often explained how security was “boring” and what his day-to-day work was like.  That guy is a CISO somewhere now.  
 
