@@ -3,7 +3,7 @@ layout: post
 title: In the Navy
 description: In the Navy
 date: 2022-05-28
-Last Updated: 2022-06-11
+Last Updated: 2022-08-10
 ---
 
 ## Introduction
@@ -16,7 +16,7 @@ I had a neighbor who was a HAM operator and he had such high-powered equipment t
 I was very interested in chatting with new people, and it is probably the first [hobby](/hobbies) I ever collected. I suspect it's also the thing that got me into electronics.  As an early teen, I saved up to purchase an amateur radio from [Radio Shack](https://en.wikipedia.org/wiki/RadioShack) and my neighbor even gave me an antenna.[^9] to start out my journey.  Eventually, I chatted with truck drivers and other amateur radio operators around the world.
 
 ## Computers
-Around 1987, home computers were just taking off and my best friend's father brought home a PC[^5]. for his job.  I had never seen a computer, but as soon as I saw it in action I knew this would be my new obsession.[^3] Thanks to a huge influx of cash[^4] I was able to purchase my own computer, a [Commodore 128](link to wikipedia)[^4]. As I played more games and even got some exposure to programming.  Luckily my friend's dad was into computers more than just for his job, so he showed us how they really worked.[^8]
+Around 1987, home computers were just taking off and my best friend's father brought home a PC[^5]. for his job.  I had never seen a computer, but as soon as I saw it in action I knew this would be my new obsession.[^3] Thanks to a huge influx of cash[^4] I was able to purchase my own computer, a [Commodore 128](https://en.wikipedia.org/wiki/Commodore_128)[^4]. As I played more games and even got some exposure to programming.  Luckily my friend's dad was into computers more than just for his job, so he showed us how they really worked.[^8]
 
 [TODO]: Make this whole HAM/computer section it's own page.  All these footnotes should have their own place.
 
@@ -45,7 +45,7 @@ Maybe Iâ€™ll write a little more about what I remember of each duty station.  Iâ
 [^3]: Where is the line between obsession and hobby? [TODO]
 [^4]; Thanks to my Bar Mitzvah I had enough to get the upgrade.  No crappy old 64 for me, I got the fancy 128[^6].
 [^5]: I wonder what kind of computer it was?  Probably a 386? [TODO]
-[^6]: 128 wasn't a model, it was the amount of memory it came with.  In this case, a whopping 64kb.[^7]
-[^7]: Something for reference.  Maybe how much ram is on a current phone?  [TODO]
+[^6]: 128 wasn't a model, it was the amount of memory it came with.  In this case, a whopping 128kb.[^7]
+[^7]: To put that in perspective, 1 normal length   [TODO]
 [^8]: I also vaguely remember a computer class around this time where I got a taste of programming in BASIC.
-[^9]: The antenna was so large I had to stick out of my window to use it.
+[^9]: The antenna was so large I had to stick it out of my window to use it.

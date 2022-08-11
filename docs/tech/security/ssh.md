@@ -1,6 +1,10 @@
 ---
 layout: post
 title: SSH Tunneling
+description: SSH Tunneling
+date: N/A
+Last Updated: 2022-08-10
+---
 ---
 Every now and then I need to use local port forwarding for a CTF or on rare occasions for work.  It's not often enough to keep committed to memory and I figured this might help other people as well.  So let's look at some examples of local port forwarding and remote port forwarding as well as why we would need them.
 
@@ -38,9 +42,10 @@ To use remote forwarding, use the ssh command with the -R argument. The syntax i
 `ssh -R remote_port:local_address:local_port username@server.com`
 
 Now we assume the following:  
-* Your web application listening on port 8080 on your local host.
-* The SSH server at your office is ssh.youroffice.com.
-* Your user account on the SSH server is bob.
+
+- Your web application listening on port 8080 on your local host.
+- The SSH server at your office is ssh.youroffice.com.
+- Your user account on the SSH server is bob.
 
 You’d run the following command:
 

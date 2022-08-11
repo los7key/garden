@@ -3,7 +3,7 @@ layout: post
 title: FAQ
 description: FAQ
 date: 2022-04-01
-Last Updated: 2022-06-13
+Last Updated: 2022-08-10
 ---
 
 Really, there are questions that need to be answered. I suspect I'm going to have to put things in categories at some point or it will get out of hand quickly.  This is a work in progress.
@@ -80,7 +80,7 @@ than the other colors because it travels as shorter, smaller waves.</div>
 <div class="panel"><a href="https://lyz-code.github.io/blue-book/#make-your-own-digital-garden">This</a> is the place to start.  Alternatively, you can fork my repo and tinker.</div>
 
 <p class="accordion">Q22. Who is the intended audience of your "garden"?</p>
-<div class="panel">I am.  I was going to add more to that sentence but then realized, it's me. Then I realized, I need an <a href="/about.md">about</a> page.</div>
+<div class="panel">I am.  I was going to add more to that sentence but then realized, it's me. Then I realized, I need an <a href="/about">about</a> page.</div>
 
 <p class="accordion">Q23. Why do you double space after a period?</p>
 <div class="panel">I learned to type on a teletype machine in the Navy.  A teletype message had to have two spaces after a sentence for it to be clear enough to read.  Now it's just 30 years of muscle memory.</div>
