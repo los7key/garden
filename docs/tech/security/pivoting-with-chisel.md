@@ -3,9 +3,8 @@ layout: post
 title: Pivoting with Chisel
 description: Pivoting with Chisel
 date: 2022-04-29
-Last Updated: 
+Last Updated: 2022-08-11
 ---
-<!-- markdown-link-check-disable -->
 # Pivoting with Chisel
 
 ## Reverse Pivot
@@ -30,7 +29,7 @@ On intermediate target:
 C:\Users\offsec\Documents>chisel.exe client 192.168.119.163:8000 R:8001:172.16.163.5:80
 ```
 
-![](</assets/images/Reverse_Pivot_1.png>) ![](</assets/images/Reverse_Pivot_2.png>)
+![](/assets/images/Reverse_Pivot_1.png) ![](/assets/images/Reverse_Pivot_2.png)
 
 ## Local Pivot
 
@@ -58,6 +57,4 @@ C:\Users\offsec\Documents>chisel.exe client 192.168.119.163:8000 9001:127.0.0.1:
 
 On Remote host execute payload with IP of client and it will get forwarded to attack box
 
-![](</assets/images/Local_Pivot_1.png>)![](</assets/images/Local_Pivot_2.png>)![](</assets/images/Local_Pivot_3.png>)
-
-<!-- markdown-link-check-enable -->
+![](/assets/images/Local_Pivot_1.png)![](/assets/images/Local_Pivot_2.png)![](/assets/images/Local_Pivot_3.png)
