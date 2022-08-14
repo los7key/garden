@@ -3,16 +3,16 @@ layout: post
 title: Security README
 description: Security README
 date: 2022-05-12
-Last Updated: 2022-08-10
+Last Updated: 2022-08-13
 ---
 
-Back in August of 2020, I earned an [OSCP](https://www.offensive-security.com/pwk-oscp/) (Offensive Security Certified Professionl) certification.  This means I completed a course to learn that I can (in some cases) hack[^1] other servers in a controlled environment.  [Offensive Security](https://www.offensive-security.com/) is the company that offers certifications for various level of difficulty, but OSCP is the golden standard for getting your foot in the door to the cyber security field.  The certification process is pretty vigorous, at super high level:
+Back in August of 2020, I earned an [OSCP](https://www.offensive-security.com/pwk-oscp/) (Offensive Security Certified Professionl) certification.  This means I completed a course to learn that I can (in some cases) hack[^1] other servers in a controlled environment.  [Offensive Security](https://www.offensive-security.com/) is the company that offers certifications for various level of difficulty, but OSCP is the golden standard for getting your foot in the door to the cyber security field.  The certification process is pretty vigorous, at a super high level:
 
 1. Pay money to a company, Offensive Security
 2. They give you study materials, access to the private practice labs, and 1 exam 
 3. Study, Study, Study and bonus points for actually completing all the materials[^2]
-4. Take 24 hour long, proctored exam where you have exploit 5 vulnerable servers
-5. The following 24 hours are for completing the report complete with screenshots
+4. Take 24 hour long, proctored exam where you have to exploit 5 vulnerable servers
+5. The following 24 hours are for completing the report, complete with screenshots
 6. Submit the exam and wait for the results 
 
 I got it mostly for fun, as cyber security (and lack thereof) has always been a passion of mine.  In fact, I had big dreams of one day doing it for a living.  But first let’s go back..
@@ -23,7 +23,7 @@ Fast forward to when security was just becoming a thing.[^3]  There were exactly
 
 Despite what I knew and coming from another company where I was almost solely responsible for their security, I feel like this was pivotal to my moving away from the unknown(?) InfoSec path to the more comfortable path of making a sysadmin my career, especially at a time of having a family to support.
 
-About 15 years later, my teenage son and his friends were taking high school and college-level computer science classes and they gave me the bug again. It's almost unbelievable how the wealth of information and tools had come such a LONG way in the last 15 years haha
+About 15 years later, my teenage son and his friends were taking high school and college-level computer science classes and they gave me the bug again. It's almost unbelievable how the wealth of information and tools had come such a LONG way in the last 15 years!
 
 [TODO]: Something in here should explain why I care about putting all this info out here on the Internet.  After all, it's not very good OPSEC.  Who knows? One day it might make me take everything down completely [again](/tech/code/how-my-site-works).  Maybe it just stays annonymous?
 

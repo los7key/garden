@@ -3,7 +3,7 @@ layout: post
 title: FAQ
 description: FAQ
 date: 2022-04-01
-Last Updated: 2022-08-10
+Last Updated: 2022-08-13
 ---
 
 Really, there are questions that need to be answered. I suspect I'm going to have to put things in categories at some point or it will get out of hand quickly.  This is a work in progress.
@@ -98,7 +98,10 @@ than the other colors because it travels as shorter, smaller waves.</div>
 <div class="panel">"rm -filename" doesn't work, if you know enough about <a href="/tech/unix/getopts/">getopt()</a>, you can use "rm -- -filename".<sup>7</sup></div>
 
 <p class="accordion">Q28. Why is the nav bar not in alphabetical order?</p>
-<div class="panel">I have no idea.  I am pretty rigid when it comes to things like this, and I spent a good couple hours trying to figure out why it won't put things in alphabetical order and finally gave up for now.  It's definitely an <a href="https://www.mkdocs.org">mkdocs</a> thing.  I'm trying to embrace being less rigid, though and this is going to be one of those times where I am going to stop fighting it and see where it goes.  Does it really need to be a meticulously trimmed garden or can it wander?  For now I'm going to consider it a vine that grows in my <a href="/">garden</a> and sometimes it will grow to the directions it wants. </div>
+<div class="panel">I have no idea.  I am pretty rigid when it comes to things like this, and I spent a good couple hours trying to figure out why it won't put things in alphabetical order and finally gave up for now.  It's definitely an <a href="https://www.mkdocs.org">mkdocs</a> thing.  I'm trying to embrace being less rigid, though and this is going to be one of those times where I am going to stop fighting it and see where it goes.  Does it really need to be a meticulously trimmed garden or can it wander?  For now I'm going to consider it a vine that grows in my <a href="/">garden</a> and sometimes it will grow to the directions it wants. <br><br>
+
+Update 2022-08-13: I figured it out, the issue is that mkdocs goes by filename and not description or title of the post.  So even if my post is called "foo", if I name the file "zebra.md", it will show up at the bottom alphabetically.  While I was ok with it being weird and did finally accept it, I'm happy I figured it out.  I'm still going to fix it :)
+</div>
 
 <p class="accordion">Q29. What is the best distro of Linux?</p>
 <div class="panel">The one *you* know best.</div>

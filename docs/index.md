@@ -3,7 +3,7 @@ layout: post
 title: README
 description: README
 date: 2022-04-01
-Last Updated: 2022-06-22
+Last Updated: 2022-08-13
 ---
 What is this place?
 
@@ -40,6 +40,8 @@ So, after a week on Gitbook, this is the new and improved look. As I'm quickly f
 Keep in mind this is my brain (and opinion), exposed for anyone to explore. Be gentle.
 
 Well, this is it, this is my digital garden. Who would've thought I'd be a gardener one day?
+
+2022-08-13: I came across [this article](https://news.ycombinator.com/item?id=32349006) and it hit pretty close to home.  There is no better reason to leave a legacy behind.  This really is everything I know about everything I know.
 
 <br>
 
