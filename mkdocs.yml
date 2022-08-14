@@ -5,6 +5,7 @@ site_author: Aaron
 site_url: https://www.catelevator.com
 plugins:
   - search
+  # - awesome-pages
   - autolinks
   - git-revision-date-localized:
       type: timeago

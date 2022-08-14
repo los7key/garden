@@ -3,7 +3,7 @@ layout: post
 title: Convert mp4 to gif
 description: Convert mp4 to gif
 date: 2022-04-26
-Last Updated: 
+Last Updated: 2022-08-13
 ---
 ## Requirements 
 * youtube-dl (brew)
@@ -17,7 +17,7 @@ Last Updated:
 5. Encode mp4 to gif: `-$ ./gifenc.sh chimpscropped.mp4 chimps.gif`
 
 ```
-─$ cat gifenc.sh
+$ cat gifenc.sh
 #!/bin/sh
 #
 # USAGE: ./gifenc.sh input.mov output.gif 720 10 will output 720p wide 10fps GIF from the movie you gave it.

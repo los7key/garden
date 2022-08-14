@@ -20,7 +20,7 @@ I have spent a lot of time in California and, as such, I have a list of my fav p
 * California Missions
 
 ### Major Cities 
-* [San Francisco](SF.md)
+* [San Francisco](sanfrancisco.md)
 * [Los Angeles](los-angeles-ca.md) 
 * San Diego / [Julian](https://en.wikipedia.org/wiki/Julian%2C_California)
 
