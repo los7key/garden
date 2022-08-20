@@ -80,13 +80,13 @@ than the other colors because it travels as shorter, smaller waves.</div>
 <div class="panel"><a href="https://lyz-code.github.io/blue-book/#make-your-own-digital-garden">This</a> is the place to start.  Alternatively, you can fork my repo and tinker.</div>
 
 <p class="accordion">Q22. Who is the intended audience of your "garden"?</p>
-<div class="panel">I am.  I was going to add more to that sentence but then realized, it's me. Then I realized, I need an <a href="/about">about</a> page.</div>
+<div class="panel">I am.  I was going to add more to that sentence but then realized, it's me. Then I realized, I need an <a href="/about/">about</a> page.</div>
 
 <p class="accordion">Q23. Why do you double space after a period?</p>
 <div class="panel">I learned to type on a teletype machine in the Navy.  A teletype message had to have two spaces after a sentence for it to be clear enough to read.  Now it's just 30 years of muscle memory.</div>
 
 <p class="accordion">Q24. Do you have a disclaimer? </p>
-<div class="panel">Why, <a href="/about">yes</a> I do.</div>
+<div class="panel">Why, <a href="/about/">yes</a> I do.</div>
 
 <p class="accordion">Q25. Where is the chat feature? </p>
 <div class="panel">This site is cobbled together in my spare time and hosted on GitHub. If you would like a chat feature, feel free to file a feature request with our support team<sup>5</sup>.</div>
@@ -107,7 +107,7 @@ Update 2022-08-13: I figured it out, the issue is that mkdocs goes by filename a
 <div class="panel">The one *you* know best.</div>
 
 <p class="accordion">Q30. Do you know how to pick locks?</p>
-<div class="panel" id="Q30">Why yes, yes I do. At least, I know the basics<sup>7</sup> and have some of the equipment.  It's one of the <a href="/hobbies">hobbies</a> I've collected.</div>
+<div class="panel" id="Q30">Why yes, yes I do. At least, I know the basics<sup>7</sup> and have some of the equipment.  It's one of the <a href="/hobbies/">hobbies</a> I've collected.</div>
 
 <p class="accordion">Q31. Why do you share all this information in public?</p>
 <div class="panel"></a>Aside from my feelings and opinions, I suspect most of my personal data has already been compromised as part of a breach somewhere.  As for the rest, I usually give opinions out for free, might as well have them all in one place.</div>

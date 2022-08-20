@@ -3,15 +3,15 @@ layout: post
 title: Hobbies README
 description: Hobbies README
 date: 2022-05-15
-Last Updated: 2022-08-10
+Last Updated: 2022-08-19
 ---
 I collect hobbies.
 
 I have had a lot of hobbies.  I’ve collected things, played sports, played musical instruments, and the list goes on and on.  I’ve come to realize with many things I’ve tried, I’ve done it until I get to the skill level that requires just grinding to the next level and I lose interest.  I usually get into hobbies for a pretty fair amount of time.  Usually, at least a couple of years and long enough to invest in all the equipment.[^1]
 
-Here are some hobbies I’m either currently into or I’ve really enjoyed over the years.  Some hobbies are still more active than others:
+Here are some hobbies I’m either currently into or I’ve enjoyed over the years.  Some hobbies are still more active than others:
 
-* [HAM Radio](/life/navy/)
+* [HAM Radio](/life/In-the-navy/)
 * [Geocaching](/hobbies/geocaching/) 
 * [Ingress](/hobbies/ingress/)
 * [Lock Picking](/faq#Q30)

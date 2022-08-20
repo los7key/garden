@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Cowrie Setup on Linux
+title: Cowrie Honeypot Setup
 description: Cowrie Setup
 date: 2022-07-30
-Last Updated: 2022-08-11
+Last Updated: 2022-08-13
 ---
 
 ## Set up host

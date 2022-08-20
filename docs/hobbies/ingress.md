@@ -3,11 +3,11 @@ layout: post
 title: Ingress
 description: Ingress
 date: 2022-06-22
-Last Updated: 2022-06-29
+Last Updated: 2022-08-19
 ---
 ## Introduction
 
-I spent a few years playing [Ingress](https://ingress.com/) by [Niantic Labs](https://nianticlabs.com/), creators of [Pokemon Go](https://pokemongolive.com/).  I really enjoy Ingress because it’s all of the things I like about [geocaching](/hobbies/geocaching) such as finding new places and getting outside, but without the downsides like spending an hour searching for something that wasn’t there.  Ingress is also similar to geocaching, where you can go solo or with other people and, it’s location-based.  But that is where the similarities end.
+I spent a few years playing [Ingress](https://ingress.com/) by [Niantic Labs](https://nianticlabs.com/), creators of [Pokemon Go](https://pokemongolive.com/).  I really enjoy Ingress because it’s all of the things I like about [geocaching](/hobbies/geocaching/) such as finding new places and getting outside, but without the downsides like spending an hour searching for something that wasn’t there.  Ingress is also similar to geocaching, where you can go solo or with other people and, it’s location-based.  But that is where the similarities end.
 
 Getting started is pretty easy, you need to get the app for your phone, pick a team, and off you go.  The whole game is based on using your scanner[^1] to go portals[^2] that have been approved by the community.  However, there is a web/desktop site with a map of the current state of the game, along with other game-related things and of course, a store.  The game is free to play, but you can still buy the additional inventory to use in-game.  
 
