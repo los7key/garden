@@ -3,7 +3,7 @@ layout: post
 title: FAQ
 description: FAQ
 date: 2022-04-01
-Last Updated: 2022-08-13
+Last Updated: 2022-08-25
 ---
 
 Really, there are questions that need to be answered. I suspect I'm going to have to put things in categories at some point or it will get out of hand quickly.  This is a work in progress.
@@ -111,6 +111,9 @@ Update 2022-08-13: I figured it out, the issue is that mkdocs goes by filename a
 
 <p class="accordion">Q31. Why do you share all this information in public?</p>
 <div class="panel"></a>Aside from my feelings and opinions, I suspect most of my personal data has already been compromised as part of a breach somewhere.  As for the rest, I usually give opinions out for free, might as well have them all in one place.</div>
+
+<p class="accordion">Q32. Why isn't <a href="/travel/">travel</a> a <a href="/hobbies/">hobby?</a></p>
+<div class="panel">According to Wikipedia, a hobby is considered to be a “regular activity that is done for enjoyment, typically during one’s leisure time.” Now, while traveling can be done for enjoyment, it isn’t a *regular* activity for most people. Personally, I consider it a lifestyle. </div>
 
 [^Q00]: [Q00] To reach our support team, please use the chat feature.
 [^Q03]: [Q03] From Hitchhiker's Guide to the Galaxy by Douglas Adams.

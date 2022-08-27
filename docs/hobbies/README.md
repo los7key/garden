@@ -23,15 +23,20 @@ Here are some hobbies I’m either currently into or I’ve enjoyed over the yea
 * Trains
 * Books <--[TODO] 2022-06-29: Maybe a whole new books section?
 * Monopoly Games
+* Fidget Spinners
 * Magnets (for the fridge)
 * [Cannabis](/cannabis/)
 * [Digital Gardens](/)
+* Spin
 * Yoga
 * Meditation
 * T-Shirts
 * Riding Bicycles
 * [McMenamins Passports](https://www.mcmenamins.com/)
 * [Reddit](https://reddit.com) Moderator
+* Signs (mostly pictures of them)
+* Watches (Now watch bands)
+
 
 As time (and my mood) permits, I’m going to work on a new page for each hobby.  If a link is to an outside source, then I haven’t added my own thoughts on the topic.  This is more a placeholder to remember I can add from any of the things on this list.
 
