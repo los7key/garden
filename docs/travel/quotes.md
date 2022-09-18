@@ -30,3 +30,9 @@ These quotes were initially going to be the majority of the travel section [READ
 * “Better to see something once than hear about it a thousand times.” – Asian Proverb
 
 > I never fully understood this until I visited the Colosseum in Rome.  We stayed at a hotel right nearby, however, we didn’t know *how* nearby.  After dropping our things off at the hotel, we went for a walk to find dinner.  Just wandering around without any direction, we turned a corner and unexpectedly saw the Colosseum in all it’s beauty.  I will forever remember that feeling and how photos just don't do it justice. 
+
+* "Fair winds and following seas." - Unknown[^1]
+
+> This is a very popular military travel quote and coming from a Navy background, it hits very close to home.  I'm not sure how I missed it being on the list from the start.
+
+[1]: https://www.ibiblio.org/hyperwar/NHC/fairwinds.htm
