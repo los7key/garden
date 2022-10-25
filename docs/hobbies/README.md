@@ -3,7 +3,7 @@ layout: post
 title: Hobbies README
 description: Hobbies README
 date: 2022-05-15
-Last Updated: 2022-08-19
+Last Updated: 2022-10-24
 ---
 I collect hobbies.
 
@@ -23,6 +23,7 @@ Here are some hobbies I’m either currently into or I’ve enjoyed over the yea
 * Trains
 * Books <--[TODO] 2022-06-29: Maybe a whole new books section?
 * Monopoly Games
+* Stressing
 * Fidget Spinners
 * Magnets (for the fridge)
 * [Cannabis](/cannabis/)
@@ -32,6 +33,7 @@ Here are some hobbies I’m either currently into or I’ve enjoyed over the yea
 * Meditation
 * T-Shirts
 * Riding Bicycles
+* Napping
 * [McMenamins Passports](https://www.mcmenamins.com/)
 * [Reddit](https://reddit.com) Moderator
 * Signs (mostly pictures of them)
