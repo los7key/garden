@@ -38,8 +38,9 @@ Here are some hobbies I’m either currently into or I’ve enjoyed over the yea
 * [Reddit](https://reddit.com) Moderator
 * Signs (mostly pictures of them)
 * Watches (Now watch bands)
+* Magic (Not the card game)
 
 
-As time (and my mood) permits, I’m going to work on a new page for each hobby.  If a link is to an outside source, then I haven’t added my own thoughts on the topic.  This is more a placeholder to remember I can add from any of the things on this list.
+As time (and my mood) permits, I’m going to work on a new page for each hobby.  If a link is to an outside source, then I haven’t added my own thoughts on the topic.  This is more of a placeholder to remember I can add from any of the things on this list.
 
 [^1]: Anyone looking for a battery-operated coin sorter?
