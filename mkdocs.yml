@@ -1,7 +1,7 @@
 ---
 site_name: Cat Elevator
 site_description: My personal digital garden
-site_author: Aaron
+site_author: Los7key
 site_url: https://www.catelevator.com
 plugins:
   - search
