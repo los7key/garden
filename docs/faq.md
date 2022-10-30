@@ -15,7 +15,7 @@ Really, there are questions that need to be answered. I suspect I'm going to hav
 ## Life
 
 ??? question "Q03. What is the answer to life, the universe and everything?"
-    42.[^2]
+    42.<sup>2</sup>
 
 ??? question "Q06. How long should you wait to go into the water after you've eaten?"
     At least 30 minutes.
@@ -36,7 +36,7 @@ Really, there are questions that need to be answered. I suspect I'm going to hav
 ## Me
 
 ??? question "Q01. Do you really need an FAQ page?"
-    <div id="Q01">No, but I love FAQs!  Also, the <a href="/">Introduction</a> doesn't cover everything.
+    <div id="Q01">No, but I love FAQs!  Also, the [introduction](/) doesn't cover everything.
 
 ??? question "Q02. Who are you?"
     I'm a security enthusiast, sysadmin, veteran, father, husband, tinkerer, and all around geek. A jack of all trades (and master of none).
@@ -54,7 +54,7 @@ Really, there are questions that need to be answered. I suspect I'm going to hav
     So many things. I've tried to like it and I've worked with people that listen to nothing but country. It's just not my thing.
 
 ??? question "Q13. Cats or dogs?"
-    Cats.[^3]
+    Cats.<sup>3</sup>
 
 ??? question "Q17. Are you an expert on cows?"
     No.
@@ -63,7 +63,7 @@ Really, there are questions that need to be answered. I suspect I'm going to hav
     I like them, but not really an expert.
 
 ??? question "Q30. Do you know how to pick locks?"
-    <div id="Q30"></div>Why yes, yes I do. At least, I know the basics[^7] and have some of the equipment.  It's one of the [hobbies](/hobbies/) I've collected.
+    <div id="Q30"></div>Why yes, yes I do. At least, I know the basics<sup>7</sup> and have some of the equipment.  It's one of the [hobbies](/hobbies/) I've collected.
 
 ??? question "Q31. Why do you share all this information in public?"
     Aside from my feelings and opinions, I suspect most of my personal data has already been compromised as part of a breach somewhere.  As for the rest, I usually give opinions out for free, might as well have them all in one place.
@@ -73,7 +73,7 @@ Really, there are questions that need to be answered. I suspect I'm going to hav
 
 ??? question "Q00. Why ~~does~~ did this FAQ require you to hit refresh again to see the answers?"
 
-    Because I ~~don't~~ didn't know enough JavaScript to fix it. I already spent way too long on getting the look I had in mind, so I'm not ready to abandon it just yet. Don't worry, I'll get around to it in all my copious spare time™.  In the meantime, both visitors to this garden will have to refresh the page twice before the answers will be visible. This is probably the most first-world problem I can think of. If this bothers anyone you can file a ticket with our support team.[^1]
+    Because I ~~don't~~ didn't know enough JavaScript to fix it. I already spent way too long on getting the look I had in mind, so I'm not ready to abandon it just yet. Don't worry, I'll get around to it in all my copious spare time™.  In the meantime, both visitors to this garden will have to refresh the page twice before the answers will be visible. This is probably the most first-world problem I can think of. If this bothers anyone you can file a ticket with our support team.<sup>1</sup>
 
     Update 2022-10-30:  I fixed the JavaScript problem by removing it completely haha! I just used markdown a native [Material extension](https://squidfunk.github.io/mkdocs-material/reference/admonitions/) (that I was already loading).  As usual, I was making it way too complicated.  I might change the green color later, but I kinda like how it looks.
 
@@ -93,7 +93,7 @@ Really, there are questions that need to be answered. I suspect I'm going to hav
     Why, [yes](/about/) I do.
 
 ??? question "Q25. Where is the chat feature? "
-    This site is cobbled together in my spare time and hosted on GitHub. If you would like a chat feature, feel free to file a feature request with our support team.[^5]
+    This site is cobbled together in my spare time and hosted on GitHub. If you would like a chat feature, feel free to file a feature request with our support team.<sup>5</sup>
 
 ??? question "Q26. Why don't footnote links work in the FAQ? "
     It's a markdown/html issue.  Trust me, it's easier this way, it's also more fun.<sup>6</sup>
@@ -127,7 +127,7 @@ Really, there are questions that need to be answered. I suspect I'm going to hav
 ## Travel
 
 ??? question "Q14. Where is the best place to go for a vacation?"
-    My current favorite destination is Japan.[^4]
+    My current favorite destination is Japan.<sup>4</sup>
 
 ??? question "Q32. Why isn't [travel](/travel/) a [hobby](/hobbies/)?"
     According to Wikipedia, a hobby is considered to be a “regular activity that is done for enjoyment, typically during one’s leisure time.” Now, while traveling can be done for enjoyment, it isn’t a *regular* activity for most people. Personally, I consider it a lifestyle. 
