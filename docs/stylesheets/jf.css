@@ -1,57 +1,19 @@
-/* Style the element that is used to open and close the accordion class */
-p.accordion {
-    background-color: #212536;
-    color: whitesmoke;
-    cursor: pointer;
-    padding: 7px;
-    width: 100%;
-    text-align: left;
-    border: none;
-    outline: none;
-    transition: 2s;
-    margin-bottom: 3px;
-    font-size: 13px;
-    font-weight: bold;
-/*    cursor: pointer; */
-}
-
-/* Add a background color to the accordion if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-p.accordion.active, p.accordion:hover {
-   /* background-color: #212536; */
-   background-color: #535b78;
-/*    cursor: pointer; */
-}
-
-/* Unicode character for "plus" sign (+) */
-p.accordion:after {
-    content: '\271A';
-    font-size: 13px;
-    float: right;
-    margin-left: 5px;
-/*    cursor: pointer; */
-}
-
-/* Unicode character for "minus" sign (-) */
-p.accordion.active:after {
-    content: "\2B58";
-/*    cursor: pointer; */
-}
-
-/* Style the element that is used for the panel class */
-
-div.panel {
-    padding: 0 5px;
-    max-height: 0;
-    overflow: hidden;
-    transition: 0.4s ease-in-out;
-    opacity: 0;
-    margin-bottom: 5px;
-    font-size: 13px;
-    cursor: pointer;
-}
-
-div.panel.show {
-    opacity: 1;
-    max-height: 500px; /* Whatever you like, as long as its more than the height of the content (on all screen sizes) */
-    cursor: pointer;
-} 
+:root {
+    --md-admonition-icon--console: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 896"><path d="M831 127H63c-35.35 0-64 28.65-64 64v640c0 35.35 28.65 64 64 64h768c35.35 0 64-28.65 64-64V191C895 155.64999999999998 866.35 127 831 127zM127 575l128-128L127 319l64-64 192 192L191 639 127 575zM639 639H383v-64h256V639z" /></svg>')
+  }
+  .md-typeset .admonition.console,
+  .md-typeset details.console {
+    border-color: rgb(43, 155, 70);
+  }
+  .md-typeset .console > .admonition-title,
+  .md-typeset .console > summary {
+    background-color: rgba(43, 155, 70, 0.1);
+  }
+  .md-typeset .console > .admonition-title::before,
+  .md-typeset .console > summary::before {
+    background-color: rgb(43, 155, 70);
+    -webkit-mask-image: var(--md-admonition-icon--console);
+            mask-image: var(--md-admonition-icon--console);
+  }
+  
+  

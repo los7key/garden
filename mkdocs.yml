@@ -1,8 +1,15 @@
----
+## Project info
 site_name: Cat Elevator
 site_description: My personal digital garden
 site_author: Los7key
 site_url: https://www.catelevator.com
+site_description: >-
+  SOMETHING SHOULD GO HERE
+
+## Copyright
+copyright: Copyright &copy; 2020 - 2022 
+
+## Configurations start here
 plugins:
   - search
   # - awesome-pages

@@ -117,7 +117,7 @@ Really, there are questions that need to be answered. I suspect I'm going to hav
     [This](https://lyz-code.github.io/blue-book/#make-your-own-digital-garden) is the place to start.  Alternatively, you can fork my repo and tinker.
 
 ??? question "Q27. How do you remove a file whose name starts with a '-'?"."
-    "rm -filename" doesn't work, if you know enough about [getopt()](/tech/unix/getopts/)</a>, you can use "rm -- -filename".<sup>7</sup>
+    "rm -filename" doesn't work, if you know enough about [getopt()](/tech/unix/getopts/)</a>, you can use "rm -- -filename".
 
 ??? question "Q29. What is the best distro of Linux?"
     The one *you* know best.
