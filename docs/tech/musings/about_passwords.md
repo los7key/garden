@@ -3,7 +3,7 @@ layout: post
 title: About Passwords
 description: About Passwords
 date: 2022-08-14
-Last Updated: 2022-08-19
+Last Updated: 22022-11-05
 ---
 ## Introduction
 
@@ -13,7 +13,7 @@ First, let’s talk about what the rockyou wordlist is and why it is still in us
 
 At the time of writing, it is 2022.  It’s been 13 years since the RockYou breach, not to mention many, many more breaches since then, and what have we learned?  We know nefarious people have access to a list of 32 million passwords that were actually in use back in 2009.  We know they use this list of passwords to attempt to break into other user’s accounts.  So why are we still using those SAME PASSWORDS?
 
-Not only are people using easy to guess passwords, but companies that make devices people rely on like firewalls, web cams, routers, etc. STILL ship products with the same default password to consumers who are either too lazy, or don’t know that they should change the default password from “123456”.
+Not only are people using easy to guess passwords, but companies that make devices people rely on, things like firewalls, web cams, routers, etc. STILL ship products with the same default password to consumers who are either too lazy, or don’t know that they should change the default password from “123456”.
 
 ## Breakdown
 
