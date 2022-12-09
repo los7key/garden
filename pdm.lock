@@ -263,7 +263,7 @@ dependencies = [
 
 [[package]]
 name = "mkdocs-material"
-version = "8.5.8"
+version = "8.5.11"
 requires_python = ">=3.7"
 summary = "Documentation that simply works"
 dependencies = [
@@ -284,7 +284,7 @@ summary = "Extension pack for Python Markdown and MkDocs Material."
 
 [[package]]
 name = "mkdocs-minify-plugin"
-version = "0.6.1"
+version = "0.6.2"
 requires_python = ">=3.7"
 summary = "An MkDocs plugin to minify HTML, JS or CSS files prior to being written to disk"
 dependencies = [
@@ -376,7 +376,7 @@ summary = "Pygments is a syntax highlighting package written in Python."
 
 [[package]]
 name = "pymdown-extensions"
-version = "9.7"
+version = "9.9"
 requires_python = ">=3.7"
 summary = "Extension pack for Python Markdown."
 dependencies = [
@@ -844,17 +844,17 @@ content_hash = "sha256:a9d5ca5f0c7340f7fde779be2c17717d84bcc0008f4b9c9f717926723
     {url = "https://files.pythonhosted.org/packages/30/44/3d732ad3cb6e7875e216e0ef496939643ca46fb007806ac44e10b1b9cddb/mkdocs-git-revision-date-localized-plugin-1.1.0.tar.gz", hash = "sha256:38517e2084229da1a1b9460e846c2748d238c2d79efd405d1b9174a87bd81d79"},
     {url = "https://files.pythonhosted.org/packages/96/63/ea5d529d8a25fe68f56c199cbdc5408ff6ab5cd8b8f31f2f13f63c02e2ef/mkdocs_git_revision_date_localized_plugin-1.1.0-py3-none-any.whl", hash = "sha256:4ba0e49abea3e9f6ee26e2623ff7283873da657471c61f1d0cfbb986f403316d"},
 ]
-"mkdocs-material 8.5.8" = [
-    {url = "https://files.pythonhosted.org/packages/b7/df/beb5ce65ff31210f4b7637e93c9bc115f5531056964a7f275c619e6c39bf/mkdocs_material-8.5.8-py3-none-any.whl", hash = "sha256:7ff092299e3a63cef99cd87e4a6cc7e7d9ec31fd190d766fd147c35572e6d593"},
-    {url = "https://files.pythonhosted.org/packages/f3/5e/c8a1232141a2c0271b9159623184962fda0e429ea3948f2ce934c6cec6eb/mkdocs_material-8.5.8.tar.gz", hash = "sha256:61396251819cf7f547f70a09ce6a7edb2ff5d32e47b9199769020b2d20a83d44"},
+"mkdocs-material 8.5.11" = [
+    {url = "https://files.pythonhosted.org/packages/34/aa/62e1d18c61c278ef7afceb4762e442fb0487e12d53ab700f620fb0cfc99a/mkdocs_material-8.5.11-py3-none-any.whl", hash = "sha256:c907b4b052240a5778074a30a78f31a1f8ff82d7012356dc26898b97559f082e"},
+    {url = "https://files.pythonhosted.org/packages/66/9b/a4d3ddd4a53e6014f6818c61923d0085f8c9a55778cd2dc3deea1885696f/mkdocs_material-8.5.11.tar.gz", hash = "sha256:b0ea0513fd8cab323e8a825d6692ea07fa83e917bb5db042e523afecc7064ab7"},
 ]
 "mkdocs-material-extensions 1.1" = [
     {url = "https://files.pythonhosted.org/packages/7c/60/60b7767c99e81326892c49bd80735952dab128e7bca7e903d9fa5accd00e/mkdocs_material_extensions-1.1.tar.gz", hash = "sha256:96ca979dae66d65c2099eefe189b49d5ac62f76afb59c38e069ffc7cf3c131ec"},
     {url = "https://files.pythonhosted.org/packages/c3/2a/023d300cdbfb0993ddf356d7b02a12abd6c16fbaf72e4411d6aa6233d046/mkdocs_material_extensions-1.1-py3-none-any.whl", hash = "sha256:bcc2e5fc70c0ec50e59703ee6e639d87c7e664c0c441c014ea84461a90f1e902"},
 ]
-"mkdocs-minify-plugin 0.6.1" = [
-    {url = "https://files.pythonhosted.org/packages/55/1b/cd7fb68473b1f4dc4d3cecf0cd8282a81ac8efcc896f4cbd832d3d4592bd/mkdocs_minify_plugin-0.6.1-py3-none-any.whl", hash = "sha256:6104f8132232da65cfe5d37c56b8ab3f5378f9fcedc341c180f62fdb25149cfe"},
-    {url = "https://files.pythonhosted.org/packages/6e/e4/7a8b4d68563a06e5ab4e622a036e932eb74871ff180606651c5861eeeea8/mkdocs-minify-plugin-0.6.1.tar.gz", hash = "sha256:29e14e4ab2d436cb05f56333c9bfbff561fc89402e04d0f1ccfe23a3e7070ba2"},
+"mkdocs-minify-plugin 0.6.2" = [
+    {url = "https://files.pythonhosted.org/packages/2a/ca/1a8c11ebee63bd478d31b146663dc90bc2a8662b294be344221a9cfd889b/mkdocs_minify_plugin-0.6.2-py3-none-any.whl", hash = "sha256:b9f43751f515372b766f1e9e77422fd1c9acfaf8c2bf018ff461fd97476e05e3"},
+    {url = "https://files.pythonhosted.org/packages/dc/7d/ff775e363ddd3c14fc530f5ec5cfb036a1d168020c93dd410fca842cfb90/mkdocs-minify-plugin-0.6.2.tar.gz", hash = "sha256:679f6e430bf49845649d0a1f183e36be3a0da5fdc60fee5fdab4356db0a18e2c"},
 ]
 "mkdocs-newsletter 1.0.1" = [
     {url = "https://files.pythonhosted.org/packages/06/d7/0e334bcf3297a07bc8455dab225eaae187294d2c39b1316f47e3c162aba7/mkdocs-newsletter-1.0.1.tar.gz", hash = "sha256:67ed079bc1db50cf04b657d310f0ae5c5ad6d765e1f8053a38fcb041190215ae"},
@@ -925,9 +925,9 @@ content_hash = "sha256:a9d5ca5f0c7340f7fde779be2c17717d84bcc0008f4b9c9f717926723
     {url = "https://files.pythonhosted.org/packages/59/0f/eb10576eb73b5857bc22610cdfc59e424ced4004fe7132c8f2af2cc168d3/Pygments-2.12.0.tar.gz", hash = "sha256:5eb116118f9612ff1ee89ac96437bb6b49e8f04d8a13b514ba26f620208e26eb"},
     {url = "https://files.pythonhosted.org/packages/5c/8e/1d9017950034297fffa336c72e693a5b51bbf85141b24a763882cf1977b5/Pygments-2.12.0-py3-none-any.whl", hash = "sha256:dc9c10fb40944260f6ed4c688ece0cd2048414940f1cea51b8b226318411c519"},
 ]
-"pymdown-extensions 9.7" = [
-    {url = "https://files.pythonhosted.org/packages/18/63/1d1a27f4c4e4e288b87a10f364dae5483d065984b83b440c00eb337199d2/pymdown_extensions-9.7.tar.gz", hash = "sha256:651b0107bc9ee790aedea3673cb88832c0af27d2569cf45c2de06f1d65292e96"},
-    {url = "https://files.pythonhosted.org/packages/f0/8c/40d550509e461f6d44602d11d18869f244ff23db70dd6881704310d0595f/pymdown_extensions-9.7-py3-none-any.whl", hash = "sha256:767d07d9dead0f52f5135545c01f4ed627f9a7918ee86c646d893e24c59db87d"},
+"pymdown-extensions 9.9" = [
+    {url = "https://files.pythonhosted.org/packages/30/73/042b9e78175b2f57e544ee745b940caf14365053016ea8e3320ea798cfbc/pymdown_extensions-9.9-py3-none-any.whl", hash = "sha256:ac698c15265680db5eb13cd4342abfcde2079ac01e5486028f47a1b41547b859"},
+    {url = "https://files.pythonhosted.org/packages/39/1c/4b0210d6adfad6a0a7ad37a1c9505fc248464c00434a798e45efacfa99ba/pymdown_extensions-9.9.tar.gz", hash = "sha256:0f8fb7b74a37a61cc34e90b2c91865458b713ec774894ffad64353a5fce85cfc"},
 ]
 "pyparsing 3.0.9" = [
     {url = "https://files.pythonhosted.org/packages/6c/10/a7d0fa5baea8fe7b50f448ab742f26f52b80bfca85ac2be9d35cdd9a3246/pyparsing-3.0.9-py3-none-any.whl", hash = "sha256:5026bae9a10eeaefb61dab2f09052b9f4307d44aee4eda64b309723d8d206bbc"},
