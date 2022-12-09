@@ -43,9 +43,3 @@ Well, this is it, this is my digital garden. Who would've thought I'd be a garde
 
 2022-08-13: I came across [this article](https://news.ycombinator.com/item?id=32349006) and it hit pretty close to home.  There is no better reason to leave a legacy behind.  This really is everything I know about everything I know.
 
-<br>
-
-*Stats brought to you by* [SCC](https://github.com/boyter/scc/)<br>
-[![Scc Count Badge](https://sloc.xyz/github/jellyfishsizzle/garden/?category=lines)](https://www.catelevator.com)
-[![Scc Count Badge](https://sloc.xyz/github/jellyfishsizzle/garden/?category=blanks)](https://www.catelevator.com)
-[![Scc Count Badge](https://sloc.xyz/github/jellyfishsizzle/garden/?category=comments)](https://www.catelevator.com)
