@@ -3,7 +3,7 @@ name = ""
 version = ""
 description = ""
 authors = [
-    {name = "Lyz", email = "lyz@riseup.net"},
+    {name = "Los7key", email = "lostkey@catelevator.com"},
 ]
 dependencies = [
     "mkdocs",
