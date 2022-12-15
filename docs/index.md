@@ -3,7 +3,7 @@ layout: post
 title: README
 description: README
 date: 2022-04-01
-Last Updated: 2022-08-13
+Last Updated: 2022-12-15
 ---
 What is this place?
 
@@ -42,3 +42,5 @@ Keep in mind this is my brain (and opinion), exposed for anyone to explore. Be g
 Well, this is it, this is my digital garden. Who would've thought I'd be a gardener one day?
 
 2022-08-13: I came across [this article](https://news.ycombinator.com/item?id=32349006) and it hit pretty close to home.  There is no better reason to leave a legacy behind.  This really is everything I know about everything I know.
+
+Stats? Nevermind.
