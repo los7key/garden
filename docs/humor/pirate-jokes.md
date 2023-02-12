@@ -6,6 +6,9 @@ date: 2022-04-01
 Last Updated: 2023-02-12
 ---
 
+## Pirate Jokes
+
+
 * Q: Why don’t pirates take a shower before they walk the plank?
   
     A: They'll just wash up on shore.
