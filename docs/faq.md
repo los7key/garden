@@ -3,7 +3,7 @@ layout: post
 title: FAQ v2.0
 description: FAQ v2.0
 date: 2022-04-01
-Last Updated: 2022-10-30
+Last Updated: 2023-02-12
 ---
 
 Really, there are questions that need to be answered. I suspect I'm going to have to put things in categories at some point or it will get out of hand quickly.  This is a work in progress.
@@ -68,6 +68,8 @@ Really, there are questions that need to be answered. I suspect I'm going to hav
 ??? question "Q31. Why do you share all this information in public?"
     Aside from my feelings and opinions, I suspect most of my personal data has already been compromised as part of a breach somewhere.  As for the rest, I usually give opinions out for free, might as well have them all in one place.
 
+??? question "Q33. Why does it seem so long since you've had any new content?"
+    This is why there is no RSS feed or newsletter.  I write when I'm in the mood.  I don't want to force it by trying to write when I'm in the right frame of mind.  You get what you get. 
 
 ## Site
 
@@ -104,6 +106,9 @@ Really, there are questions that need to be answered. I suspect I'm going to hav
     Update 2022-08-13: I figured it out, the issue is that mkdocs goes by filename and not description or title of the post.  So even if my post is called "foo", if I name the file "zebra.md", it will show up at the bottom alphabetically.  While I was ok with it being weird and did finally accept it, I'm happy I figured it out.  I'm still going to fix it :)
 
     Update 2022-10-30: Done!
+
+??? question "34. With different sections of the FAQ, how do you know which is the newest one?"
+    Eyeball the bottom of each list, I guess.  I haven't come up with a better way just yet.
 
 ## Technology
 
