@@ -121,6 +121,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://www.catelevator.com/humor/foo/</loc>
+         <lastmod>2023-02-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://www.catelevator.com/humor/pirate-jokes/</loc>
          <lastmod>2023-02-18</lastmod>
          <changefreq>daily</changefreq>
