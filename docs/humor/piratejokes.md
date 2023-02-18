@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pirate Jokes
+short_title: Short Pirate Jokes
 description: Pirate Jokes
 date: 2022-04-01
 Last Updated: 2023-02-17
