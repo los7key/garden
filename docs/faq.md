@@ -3,7 +3,7 @@ layout: post
 title: FAQ v2.0
 description: FAQ v2.0
 date: 2022-04-01
-Last Updated: 2023-02-12
+Last Updated: 2023-02-17
 ---
 
 Really, there are questions that need to be answered. I suspect I'm going to have to put things in categories at some point or it will get out of hand quickly.  This is a work in progress.
@@ -107,7 +107,7 @@ Really, there are questions that need to be answered. I suspect I'm going to hav
 
     Update 2022-10-30: Done!
 
-??? question "34. With different sections of the FAQ, how do you know which is the newest one?"
+??? question "34. With different sections of the FAQ, how do you know which is the newest question?"
     Eyeball the bottom of each list, I guess.  I haven't come up with a better way just yet.
 
 ## Technology
