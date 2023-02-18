@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Dad Jokes
+short_title: Dad Jokes
 description: Dad Jokes
 date: 2022-04-01
-Last Updated: 2023-02-12
+Last Updated: 2023-02-18
 ---
-## Dad Jokes
+
 
 * A truck loaded with Vicks VapoRub overturned on the motorway. Police have confirmed there will be no congestion for eight hours.
   
