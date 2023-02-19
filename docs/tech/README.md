@@ -3,10 +3,8 @@ layout: post
 title: Tech README
 description: Tech README
 date: 2022-04-25
-Last Updated: 2022-11-02
+Last Updated: 2023-02-18
 ---
-
-This is the Tech README.
 
 There were quite a few resources I wanted to keep from my previous sites, as well as new ones I find along the way.  Until I figure out what else should go here, I'll just keep them listed here.  Maybe it will grow into it's own thing, I guess we'll see.
 
@@ -74,6 +72,5 @@ There were quite a few resources I wanted to keep from my previous sites, as wel
 
 
 <br>
-<!--
+
 `Um9zZXMgYXJlIHJlZCwgdmlvbGV0cyBhcmUgYmx1ZSwgdW5leHBlY3RlZCAneycgb24gbGluZSAzMi4K`
--->

@@ -3,7 +3,7 @@ layout: post
 title: Pi-Hole Notes
 description: Pi-Hole Notes
 date: 2022-08-01
-Last Updated: 2022-08-14
+Last Updated: 2023-02-18
 ---
 ### Upgrade to latest Raspbian 
 Error:
@@ -45,8 +45,8 @@ I set this up years ago and pretty much just followed this guide.  There are 2 P
 https://github.com/vmstan/gravity-sync
 
 
-
 ### Resources
-https://github.com/pi-hole/pi-hole
-https://docs.pi-hole.net/
+* https://github.com/pi-hole/pi-hole
+
+* https://docs.pi-hole.net/
 
