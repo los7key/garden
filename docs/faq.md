@@ -1,9 +1,9 @@
 ---
 layout: post
-title: FAQ v2.0
-description: FAQ v2.0
+title: FAQ
+description: FAQ
 date: 2022-04-01
-Last Updated: 2023-02-17
+Last Updated: 2023-02-20
 ---
 
 Really, there are questions that need to be answered. I suspect I'm going to have to put things in categories at some point or it will get out of hand quickly.  This is a work in progress.
