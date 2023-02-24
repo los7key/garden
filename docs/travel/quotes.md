@@ -35,4 +35,4 @@ These quotes were initially going to be the majority of the travel section [READ
 
 > This is a very popular military travel quote and coming from a Navy background, it hits very close to home.  I'm not sure how I missed it being on the list from the start.
 
-[1]: https://www.ibiblio.org/hyperwar/NHC/fairwinds.htm
+[^1]: https://www.ibiblio.org/hyperwar/NHC/fairwinds.htm
