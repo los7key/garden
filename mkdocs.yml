@@ -52,7 +52,8 @@ markdown_extensions:
 theme:
   name: material
   custom_dir: theme
-  #favicon: assets/images/favicon.ico
+  font:
+    text: Castoro
   favicon: assets/images/catelev.png
   logo: assets/images/catelev.png
   features:
