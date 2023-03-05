@@ -3,10 +3,10 @@ layout: post
 title: How this garden works
 description: How this garden works
 date: 2022-05-12
-Last Updated: 2022-06-13
+Last Updated: 2023-03-04
 ---
 ## Introduction
-I have to admit, I did cheat a bit when setting up the framework for my [garden](/).  On my journey for the technology to use for this garden, I stumbled across [The Blue Book](https://lyz-code.github.io/blue-book). It's a very simple, easy-to-use, and lightweight feeling garden.  Since it's so customizable, it has the opportunity[^1] to look better than some of the other technologies I tried. 
+I have to admit, I did cheat a bit when setting up the framework for my <a href="/" class="hvr-wobble-skew">garden</a>.  On my journey for the technology to use for this garden, I stumbled across [The Blue Book](https://lyz-code.github.io/blue-book). It's a very simple, easy-to-use, and lightweight feeling garden.  Since it's so customizable, it has the opportunity[^1] to look better than some of the other technologies I tried. 
 
 How did I cheat?  I only cheated in that I followed the [instructions]( https://lyz-code.github.io/blue-book/#make-your-own-digital-garden) and forked[^2] a copy of the repo.  This way I had a foundation to start with and could customize as needed and be on my way.  Who wants to reinvent the wheel?  As they say, "A good sysadmin is a lazy sysadmin".[^3] 
 
@@ -22,7 +22,7 @@ Main ingredients:
 
 I write most of my code in [vscode]( https://code.visualstudio.com/) but I write a lot of content in a text editor (usually Word or Apple Notes) for the grammar/spelling and then copy and paste to vscode for the version control.  
 
-All of the content is [markdown](https://en.wikipedia.org/wiki/Markdown) files.  Every commit to the GitHub repo builds the website using mkdocs and pushes it to my [garden](/).  The main config files are in `/` and the content itself lives in the docs directory.[^4]  
+All of the content is [markdown](https://en.wikipedia.org/wiki/Markdown) files.  Every commit to the GitHub repo builds the website using mkdocs and pushes it to my <a href="/" class="hvr-wobble-skew">garden</a>.  The main config files are in `/` and the content itself lives in the docs directory.[^4]  
 
 Monitoring is done with [uptime robot](https://uptimerobot.com/).
 

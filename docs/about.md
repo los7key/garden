@@ -16,7 +16,7 @@ UPDATED: 2022-06-19.  I've decided for this to be live I need to start checking 
 
 Disclaimer: This site is intended for the use of the individual addressee(s) named above and may contain information that is confidential, privileged, or unsuitable for overly sensitive persons with low self-esteem, no sense of humor, or irrational religious/political beliefs. This message represents the official view of the voices in my head. All characters and events depicted may or may not be entirely fictitious. Any similarity to actual events or persons, living or dead, is purely coincidental. No animals were harmed in the making of this site, although the Chihuahua next door is living on borrowed time. Those of you with an overwhelming fear of the unknown will be gratified to learn that there is no hidden message revealed by reading this warning backward, so just ignore that alert notice from Microsoft. However, by pouring a complete circle of salt around yourself and your computer you can ensure that no harm befalls you and your pets.
 
-All code and content on this site is protected by the [Unlicense](http://unlicense.org).
+All code and content on this site is protected by the <a href="https://unlicense.org" class="hvr-wobble-skew">Unlicense</a>.
 
 [^1]: Who knows what the future holds?
 [^2]: Maybe some funny pictures though

@@ -7,7 +7,7 @@ site_description: >-
   SOMETHING SHOULD GO HERE
 
 ## Copyright
-copyright: Copyright &copy; 2020 - 2022 
+copyright: Copyright &copy; 2020 - 2023 
 
 ## Configurations start here
 plugins:
@@ -63,28 +63,33 @@ theme:
     - header.autohide  
 
   palette:
-    # Light mode
-    - media: '(prefers-color-scheme: light)'
-      scheme: default
-      primary: grey
-      accent: blue
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+  #   # Auto mode
+  # - media: "(prefers-color-scheme)"
+  #   toggle:
+  #     icon: material/brightness-auto
+  #     name: Switch to light mode
 
-    # Dark mode
-    - media: '(prefers-color-scheme: dark)'
-      scheme: slate
-      primary: white
-      accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+  #   # Light mode
+   - media: '(prefers-color-scheme: light)'
+     scheme: garden
+     #scheme: default
+     primary: grey
+     accent: grey
+     toggle:
+       icon: material/toggle-switch-off-outline
+       name: Switch to dark mode
+
+  #   # Dark mode
+   - media: '(prefers-color-scheme: dark)'
+     scheme: garden_dark
+     toggle:
+       icon: material/toggle-switch
+       name: Switch to light mode
 
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/garden.css
   - stylesheets/links.css
-  - stylesheets/jf.css
+#- stylesheets/extra.css
 
 #extra_javascript:
   #- javascripts/extra.js

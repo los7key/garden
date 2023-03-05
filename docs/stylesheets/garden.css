@@ -1,0 +1,156 @@
+:root {
+
+    --md-admonition-icon--console: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 896"><path d="M831 127H63c-35.35 0-64 28.65-64 64v640c0 35.35 28.65 64 64 64h768c35.35 0 64-28.65 64-64V191C895 155.64999999999998 866.35 127 831 127zM127 575l128-128L127 319l64-64 192 192L191 639 127 575zM639 639H383v-64h256V639z" /></svg>');
+    --md-admonition-icon--faqq: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260.000000 262.000000"><path d="M647 2613 c359 -2 947 -2 1305 0 359 1 66 2 -652 2 -718 0 -1011 -1 -653 -2z"/><path d="M2203 3 c70 -2 184 -2 255 0 70 1 12 3 -128 3 -140 0 -198 -2 -127 -3z"/></g></svg>');
+
+    /* Primary color shades */
+    
+    --md-default-bg-color:               rgb(204, 198, 198); /* Default page background */
+    /* --md-default-fg-color:               rgb(3, 3, 3); /* Default page text */  
+
+    --md-primary-fg-color:               hsla(196, 93%, 50%, 0.999); /* Banner AND selected link in navbar(?) */
+    --md-primary-fg-color--light:        rgb(98, 66, 123); 
+    --md-primary-fg-color--dark:         hsla(205, 100%, 38%, 0.8); 
+    --md-primary-bg-color:               rgb(39, 10, 4); /* Logo/text (not image) */
+    --md-primary-bg-color--light:        hsla(271, 95%, 48%, 0.611); /* Search default text */
+      
+    --md-accent-fg-color:                rgb(46, 114, 21); /* Hover */
+    --md-accent-fg-color--transparent:   hsla(123, 45%, 36%, 0.452); /* Circle around ">" in dropdown */
+    --md-accent-bg-color:                rgb(10, 90, 28);
+    --md-accent-bg-color--light:         hsla(0, 90%, 48%, 0.7);
+
+    --md-code-fg-color: #f9fdff; /* Code block text */
+    --md-code-bg-color: rgb(50, 46, 46); /* Code block background */
+
+}
+
+[data-md-color-scheme="garden_dark"] {
+  --md-default-bg-color:               rgb(42, 42, 42); /* Default page background */
+  --md-default-fg-color:               hsla(0, 0%, 100%, 0.87);
+  --md-default-fg-color--light:        hsla(0, 2%, 72%, 0.54);
+  --md-default-fg-color--lighter:      hsla(0, 0%, 40%, 0.32);
+  --md-default-fg-color--lightest:     hsla(0, 0%, 0%, 0.07);
+  --md-default-bg-color--light:        hsla(0, 0%, 100%, 0.7);
+  --md-default-bg-color--lighter:      hsla(0, 0%, 100%, 0.3);
+  --md-default-bg-color--lightest:     hsla(0, 0%, 100%, 0.12);
+
+  --md-typeset-color:                  rgb(252, 250, 250); /* Default page text */ 
+  --md-typeset-a-color:                rgb(42, 119, 150); /*  Highlight text */
+  
+  --md-primary-fg-color:               rgb(76, 72, 75); /* Banner */
+  
+  --md-primary-bg-color:               rgb(255, 255, 255); /* Logo/text (not image) */
+  --md-primary-bg-color--light:        rgb(255, 255, 255); /* Search default text */
+  --md-primary-fg-color--light:        rgb(98, 66, 123); 
+  --md-primary-fg-color--dark:         hsla(205, 100%, 38%, 0.8); 
+
+}
+
+/* Admonitions for dropdowns. The icon it uses comes from the svg above */
+/* Dropdowns on the Tech README page */
+
+.md-typeset .admonition.console,
+.md-typeset details.console {
+   border-color: rgb(43, 155, 70);
+}
+.md-typeset .console > .admonition-title,
+.md-typeset .console > summary {
+  background-color: rgba(43, 155, 70, 0.1);
+}
+.md-typeset .console > .admonition-title::before,
+.md-typeset .console > summary::before {
+    background-color: rgb(43, 155, 70);
+    -webkit-mask-image: var(--md-admonition-icon--console);
+            mask-image: var(--md-admonition-icon--console);
+}
+
+/* Dropdowns on the FAQ page */
+
+.md-typeset .admonition.faqq,
+.md-typeset details.faqq {
+   border-color: rgb(43, 155, 70);
+}
+.md-typeset .faqq > .admonition-title,
+.md-typeset .faqq > summary {
+  background-color: rgba(43, 155, 70, 0.1);
+}
+.md-typeset .faqq > .admonition-title::before,
+.md-typeset .faqq > summary::before {
+    background-color: rgb(43, 155, 70);
+    -webkit-mask-image: var(--md-admonition-icon--question);
+            mask-image: var(--md-admonition-icon--question);
+}
+
+/* Hover links from https://ianlunn.github.io/Hover/ */
+
+/* Wobble Skew */
+@-webkit-keyframes hvr-wobble-skew {
+    16.65% {
+      -webkit-transform: skew(-12deg);
+      transform: skew(-12deg);
+    }
+    33.3% {
+      -webkit-transform: skew(10deg);
+      transform: skew(10deg);
+    }
+    49.95% {
+      -webkit-transform: skew(-6deg);
+      transform: skew(-6deg);
+    }
+    66.6% {
+      -webkit-transform: skew(4deg);
+      transform: skew(4deg);
+    }
+    83.25% {
+      -webkit-transform: skew(-2deg);
+      transform: skew(-2deg);
+    }
+    100% {
+      -webkit-transform: skew(0);
+      transform: skew(0);
+    }
+  }
+  @keyframes hvr-wobble-skew {
+    16.65% {
+      -webkit-transform: skew(-12deg);
+      transform: skew(-12deg);
+    }
+    33.3% {
+      -webkit-transform: skew(10deg);
+      transform: skew(10deg);
+    }
+    49.95% {
+      -webkit-transform: skew(-6deg);
+      transform: skew(-6deg);
+    }
+    66.6% {
+      -webkit-transform: skew(4deg);
+      transform: skew(4deg);
+    }
+    83.25% {
+      -webkit-transform: skew(-2deg);
+      transform: skew(-2deg);
+    }
+    100% {
+      -webkit-transform: skew(0);
+      transform: skew(0);
+    }
+  }
+  .hvr-wobble-skew {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  }
+  .hvr-wobble-skew:hover, .hvr-wobble-skew:focus, .hvr-wobble-skew:active {
+    -webkit-animation-name: hvr-wobble-skew;
+    animation-name: hvr-wobble-skew;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-timing-function: ease-in-out;
+    animation-timing-function: ease-in-out;
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+  }
+  
