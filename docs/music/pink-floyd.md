@@ -1,15 +1,25 @@
+---
+layout: post
+title: Pink Floyd
+description: Pink Floyd
+date: N/A
+Last Updated: 2023-03-12
+---
+## Introduction
+
 You don't need to be high to enjoy Pink Floyd, you need Pink Floyd to enjoy being high.
 
 The way to get into Pink Floyd is to start with _<a href="https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon" class="hvr-wobble-skew">Dark Side of the Moon</a>_ and then _<a href="https://en.wikipedia.org/wiki/Wish_You_Were_Here_(Pink_Floyd_album)" class="hvr-wobble-skew">Wish You Were Here</a>_.  Both albums are amazing.
 
 ## Dark Side of the Rainbow
 
-Also, if you haven’t seen it, check out _<a href="https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Rainbow" class="hvr-wobble-skew">Dark Side of the Rainbow</a>_ (aka Dark Side of Oz).  It's the old school _<a href="https://www.imdb.com/title/tt0032138/" class="hvr-wobble-skew">Wizard of Oz</a>_ movie with the soundtrack of _Dark Side of the Moon_ over it.  If you start the album at the right time (see below) there are quite a few places where the lyrics or transitions sync up.  There's a lot of controversy around how it works and how it could planned, the band says it's pure coincidence.  Either way, it will blow your mind.  There are MANY places the music syncs with the movie.  However, only the first[^1] play through the album is *really* amazing.
+Also, if you haven’t seen it, check out _<a href="https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Rainbow" class="hvr-wobble-skew">Dark Side of the Rainbow</a>_ (aka Dark Side of Oz).  It's the old school _<a href="https://www.imdb.com/title/tt0032138/" class="hvr-wobble-skew">Wizard of Oz</a>_ movie with the audio of _Dark Side of the Moon_ over it instead of the original soundtrack.  If you start the album at the right time (see below) there are quite a few places where the lyrics or transitions sync up.  There's a lot of controversy around how it works and how it could planned, the band says it's pure coincidence.  Either way, it will blow your mind.  There are MANY places the music syncs with the movie.  However, only the first[^1] play through the album is *really* amazing.
 
-There are videos online where the movie is already synced with the album, but the videos I've found on YouTube have since been removed, so we'll have to search around for another one.  But you don't HAVE to use a video from the Internet.  If you want to create your own, this is how to do it (assuming CD/DVD combination):
+## DIY
+There are videos online where the movie is already synced with the album, but the videos I found previously on YouTube have since been removed.  However, you don't _HAVE_ to use a video from the Internet.  If you want to create your own experience, this is how to do it (assuming CD/DVD combination):
 
-1. Start the CD from the very beginning, but begin with it paused.
-2. Set your CD player for album repeat.
+1. Start the DSOTM CD from the very beginning, but begin with it paused.
+2. Set your CD player for repeat.
 3. Start _The Wizard of Oz_ DVD.
 4. Wait for the black and white MGM lion to appear. Once he roars for the third time, hit play on the CD player. 
 5. Press mute or turn down the volume on your TV.
@@ -17,7 +27,7 @@ There are videos online where the movie is already synced with the album, but th
 
 ## Syncs
 
-There are many places the music syncs with the movie and depending on which version of the DVD and which version of the album, you use they sync up at different times. I tried it with the Blu-ray anniversary of OZ and a recording of the original vinyl album and had a very difficult time getting it to line up correctly.  Later, I found a better version already assembled which is the one I used to note the times below.  Because of the different versions, your times will likely vary.
+There are many places the music syncs with the movie and depending on which version of the DVD and which version of the album, you use they sync up at different times. I tried it with the Blu-ray anniversary of OZ and a recording of the original vinyl album and had a very difficult time getting it to line up correctly.  Later, I found a better version already assembled which is the one I used to note the times below.  Because of the different versions, your times will likely vary.  Because the first round of the album is where it really syncs up, I only have listed the times of the first play of the album.
 
 This is a list of when the album syncs up with the movie.  It's comprised of a few lists I've found online, as well as my own mixed in.  There was another site that had a similar list, but I can't locate it anymore.  
 
@@ -143,6 +153,6 @@ unrolls the Certificate of Death.
 Dorothy listens for a heartbeat (or lack thereof) in the Tin Woodsman's chest, and we hear that very sound in DSOTM.
 
 ## TL;DR
-When synced correctly, there are a significant number of coincidences between _Dark Side of the Moon_ and _The Wizard of Oz_. However, members of Pink Floyd and others involved in creating the album have denied that these coincidences are intentional.  Either way, it's still fun to watch and you almost forget that it's not the actual soundtrack of the film.
+When synced correctly, there are a significant number of coincidences between _Dark Side of the Moon_ and _The Wizard of Oz_. However, members of Pink Floyd and others involved in creating the album have denied that these coincidences are intentional.  Regardless of whether it was by design or just a coincidence, it's still fun to watch and you almost forget that it's not the actual soundtrack of the film.
 
 [^1]: The album will play 3 times in the time of the movie.
