@@ -3,18 +3,18 @@ layout: post
 title: Convert mp4 to gif
 description: Convert mp4 to gif
 date: 2022-04-26
-Last Updated: 2022-08-13
+Last Updated: 2023-03-12
 ---
 ## Requirements 
 * youtube-dl (brew)
 * ffmpeg (brew)
 
-## Magic
-1. Get list of available formats: `-$ youtube-dl -F "https://www.youtube.com/watch?v=0N-nX_4C95o"`
-2. Download: `-$ youtube-dl -f 134 "https://www.youtube.com/watch?v=0N-nX_4C95o"`
-3. If needed convert to mp4: `-$ ffmpeg -i Huna.webm -strict experimental Huna.Timelapse.mp4`
+## Gif Magic
+1. Get list of available formats: `youtube-dl -F "https://www.youtube.com/watch?v=0N-nX_4C95o"`
+2. Download: `youtube-dl -f 134 "https://www.youtube.com/watch?v=0N-nX_4C95o"`
+3. If needed convert to mp4: `ffmpeg -i Huna.webm -strict experimental Huna.Timelapse.mp4`
 4. Trim with iMovie
-5. Encode mp4 to gif: `-$ ./gifenc.sh chimpscropped.mp4 chimps.gif`
+5. Encode mp4 to gif: `./gifenc.sh chimpscropped.mp4 chimps.gif`
 
 ```
 $ cat gifenc.sh
@@ -44,6 +44,31 @@ ffmpeg -i in.mp4 -vf select='not(mod(n,15))',setpts=N/FRAME_RATE/TB out.mp4
 Another method is to use the framestep filter
 ```
 ffmpeg -i in.mp4 -vf framestep=15,setpts=N/FRAME_RATE/TB out.mp4
+```
+
+## More ffmpeg commands
+
+Join audio files 
+
+The loop puts all the filenames in a file, one-per-line, then uses ffmpeg's concat demuxer to merge the files
+```
+for f in *.flac; do echo "file '$f'" >> inputs.txt; done
+ffmpeg -f concat -i inputs.txt 
+```
+
+Convert to MP4
+```
+ffmpeg -i $input_file.mkv -codec copy $output_file.mp4
+```
+
+Combine video and audio with an offset
+```
+ffmpeg -i $input_file.mp4 -itsoffset 00:00:08 -i $input_file.mp3 output.mp4
+```
+
+Remove audio from a video 
+```
+ffmpeg -i $input_file -c copy -an $output_file
 ```
 
 ## References 
