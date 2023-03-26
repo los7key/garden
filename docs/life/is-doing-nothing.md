@@ -3,7 +3,7 @@ layout: post
 title: Is Doing Nothing Something?
 description: Is Doing Nothing Something?
 date: 2022-04-28
-Last Updated: 2022-08-19
+Last Updated: 2023-03-26
 ---
 Worrying doesn’t take away tomorrow’s troubles, it takes away today’s peace. -Unknown
 
@@ -11,7 +11,7 @@ You can destroy your now by worrying about tomorrow. -Janis Joplin
 
 I'm currently dealing with a few stressors and learning to cope with them.  Especially trying to leave work at work to try and maintain that live/work balance.  Lately, I've been getting into yoga and meditation.  I'm good at neither yet but have been having a great time trying.  I'm very blessed to have a backyard oasis to relax in, where I can contemplate the answer to life, the universe, and everything.[^1]
 
-One of the things I often contemplate is, is what I'm doing "something"?  One of my worries is feeling judged for being lazy and not doing anything.  Pretty sure that comes from being in the [Navy](/life/In-the-navy) for 8 years, where you were always doing "something".  Whether it's sleeping, working, or cleaning something, usually you were generally busy.  
+One of the things I often contemplate is, is what I'm doing "something"?  One of my worries is feeling judged for being lazy and not doing anything.  Pretty sure that comes from being in the [Navy](/life/in-the-navy) for 8 years, where you were always doing "something".  Whether it's sleeping, working, or cleaning something, usually you were generally busy.  
 
 Now that I'm older and wiser, I'm learning that it's OK to do "nothing".  In fact, it seems to do nothing is actually doing something.  People pay to travel and stay places where they can sit around on a beach, or a secluded little bungalow with a garden, or maybe a deck with a BBQ.  Basically, people are paying to go somewhere and do nothing.  So then doing nothing is something if you are not local?  I guess it really depends on how you look at it.  
 
