@@ -3,7 +3,7 @@ layout: post
 title: Travel README
 description: Travel README
 date: 2022-04-28
-Last Updated: 2023-03-26
+Last Updated: 2023-04-01
 ---
 ###  Introduction
 ```
@@ -19,7 +19,7 @@ I absolutely love to travel.  I joined the Navy to "see the world" and while I d
 
 Now, I try to take advantage of any opportunity or excuse to travel somewhere or at the very least take a road trip.  When I first met my wife, we lived in a shitty little apartment with shitty roommates and so we were home as little as possible.  Sometimes we would just jump in the car, pick a direction and go.  We would drive until we felt like we were "there".
 
-The last two years of Covid made traveling difficult.  Because of [lockdowns](https://www.nytimes.com/2020/12/03/us/california-stay-at-home-order.html), Covid [variants](https://www.who.int/westernpacific/emergencies/covid-19/information/covid-19-variants), and so much of the country in disarray from [fires](https://abcnews.go.com/Technology/wireStory/california-wildfire-lake-tahoe-half-contained-79881492), [flooding](https://pubmed.ncbi.nlm.nih.gov/33786171/), [tornadoes](https://www.noaa.gov/news/december-2021-tornado-outbreak-explained) the effects of the last two years made it that even if we weren't afraid of dying of Covid and didn't care about a very real possibility of [World War III](https://www.newsweek.com/russia-ukraine-warning-world-war-three-lavrov-1700897), a lot of things are either not fully staffed, or just not operating at 100%.
+The last two years of Covid made traveling difficult.  Because of &nbsp; <a href="https://www.nytimes.com/2020/12/03/us/california-stay-at-home-order.html" class="hvr-wobble-skew">lockdowns</a>, Covid <a h ref="https://www.who.int/westernpacific/emergencies/covid-19/information/covid-19-variants" class="hvr-wobble-skew">variants</a>, and so much of the country in disarray from &nbsp;<a href="https://abcnews.go.com/Technology/wireStory/california-wildfire-lake-tahoe-half-contained-79881492" class="hvr-wobble-skew">fires</a>, &nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/33786171/" class="hvr-wobble-skew">flooding</a>, &nbsp;<a href="https://www.noaa.gov/news/december-2021-tornado-outbreak-explained" class="hvr-wobble-skew"> tornadoes</a> the effects of the last two years made it that even if we weren't afraid of dying of Covid and didn't care about a very real possibility of &nbsp; <a href="https://www.newsweek.com/russia-ukraine-warning-world-war-three-lavrov-1700897" class="hvr-wobble-skew">World War III</a>, a lot of things are either not fully staffed, or just not operating at 100%.
 
 We took a (very) few trips during the first two years of the pandemic and the time between 1/22 and 5/22 included pretty much zero travel farther than random trips down the coast.  I’m READY to GTFO!
 
