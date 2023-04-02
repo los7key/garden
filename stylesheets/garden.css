@@ -25,7 +25,7 @@
 }
 
 [data-md-color-scheme="garden_dark"] {
-  --md-default-bg-color:               rgb(42, 42, 42); /* Default page background */
+  --md-default-bg-color:               rgb(55, 55, 55); /* Default page background */
   --md-default-fg-color:               hsla(0, 0%, 100%, 0.87);
   --md-default-fg-color--light:        hsla(0, 2%, 72%, 0.54);
   --md-default-fg-color--lighter:      hsla(0, 0%, 40%, 0.32);
