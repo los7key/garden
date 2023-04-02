@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Roadtrips README
+description: Roadtrips README
+date: 2023-03-26
+Last Updated: 2023-03-26
+---
+Roadtrips README
+
+I love road trips.  Ever since my late teens when I would skip school to drive to the beach that was hours away, I was hooked on road trips.  When I was &nbsp;<a href="/life/in-the-navy/" class="hvr-wobble-skew">in the Navy</a> my girlfriend[^1] and I hated being in the apartment we used to live in, so any opportunity we got we would jump in the car and just go somewhere.  Many times, we wouldn't even have a destination; we would just pick a direction and drive.
+
+One of my funniest travel stories is the trip we took to the &nbsp;<a href="https://en.wikipedia.org/wiki/Salton_Sea" class="hvr-wobble-skew"> Salton Sea.  It was a warm day in Southern California and we didn't know the area that well yet.  We looked on a map and thought if we drove a few hours to the Salton Sea, we'd be rewarded with a nice cool body of water to swim in.  After a 3-hour drive through the heat, we arrived and there was nobody around.  The shore smelled like rotting meat and there were dead fish on the shore.  Definitely not a place you want to swim!
+
+While it wasn’t the oasis we were seeking, it was a good time getting there and back.  That is what road trips are all about.
+
+[^1]: Who later became my wife
