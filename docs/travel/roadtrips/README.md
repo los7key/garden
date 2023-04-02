@@ -13,12 +13,14 @@ One of my fondest travel memories is the trip we took to the &nbsp;<a href="http
 
 While it wasn’t the oasis we were seeking, it was a good time getting there and back.  That is what road trips are all about.
 
-Memorable Trips:
+Memorable Road Trips:
 
-* Iceland 
-* Northeastern States
-* 2021 Cross Country
-* 2022 Cross Country
+* Venice to Croatia (and back)  
+* Iceland  
+* Northeastern States  
+* 2021 Summer
+* &nbsp;<a href="2021-cross-country/" class="hvr-wobble-skew">2021 Cross Country</a>  
+* &nbsp;<a href="2022-cross-country/" class="hvr-wobble-skew">2022 Cross Country</a>  
 
 
 [^1]: Who later became my wife
