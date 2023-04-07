@@ -18,9 +18,9 @@ Memorable Road Trips:
 * Venice to Croatia (and back)  
 * Iceland  
 * Northeastern States  
-* 2021 Summer
-* &nbsp;<a href="2021-cross-country/" class="hvr-wobble-skew">2021 Cross Country</a>  
-* &nbsp;<a href="2022-cross-country/" class="hvr-wobble-skew">2022 Cross Country</a>  
+* <a href="2021-summer/" class="hvr-wobble-skew">2021 Summer</a>
+* <a href="2021-cross-country/" class="hvr-wobble-skew">2021 Cross Country</a>  
+* <a href="2022-cross-country/" class="hvr-wobble-skew">2022 Cross Country</a>  
 
 
 [^1]: Who later became my wife
