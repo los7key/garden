@@ -8,7 +8,7 @@ Last Updated: 2023-04-03
 ## Introduction
 In the Summer of 2021 we drove to Colorado and Nebraska.
 
-![2021 Summer Roadtrip](/assets/images/2021summer.png)
+![2021 Summer Roadtrip](/assets/images/2021summer.png){ loading=lazy }
 
 ## Noteworthy Stops
 7/8 Seligman, AZ (KOA)  

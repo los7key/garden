@@ -3,13 +3,13 @@ layout: post
 title: Yoga
 description: Yoga
 date: 2023-02-23
-Last Updated: 
+Last Updated: 2023-04-06
 ---
 ## Introduction
 
-When the pandemic began is about the time I started to do yoga.  While I've been exposed to it through my family and some friends, I never really got into it.  Now[^1] I'm doing yoga somewhat regularly.  Although I haven't actually set foot in a studio, I'm enjoying it and I feel like I have the hang of it.
+When the pandemic began is about the time I started to do yoga.  While I've been exposed to it through my family and some friends, I never really got into it.  Now[^1] I'm doing yoga somewhat regularly.  Although I haven't actually set foot in a studio, I'm enjoying it and I feel like I have the hang of it.  Plus, it makes me feel good (that's all that counts, right?).
 
-The tricky part is rotating through classes so not to get bored.  I've been trying to keep notes about which ones I like to follow, but I can't keep them straight. Here are some of my favs:
+The tricky part is rotating through classes so as not to get bored.  I've been trying to keep notes about which ones I like to follow, but I can't keep them straight. There must be a better way™, but until then here are some of my favs:
 
 ## Apple Fitness Classes
 
@@ -31,7 +31,7 @@ The tricky part is rotating through classes so not to get bored.  I've been tryi
 | [Flexibility](https://www.youtube.com/watch?v=GdV8zbmCRaU)| 30 Mins  | 3 | Kassandra | Starts laying down, eagle arms, cat/cow |
 | [Full Body](https://www.youtube.com/watch?v=6hZIzMpHl-c) | 30 Mins    | 3 | Kassandra | Slow, long childs, cat/cow, lunges |
 | [After Work](https://www.youtube.com/watch?v=mZc4GzAjmC4) | 40 Mins | 5 | Kassandra   | Kittens! Butterfly, quads, bridge, twists |
-| [Posture](https://www.youtube.com/watch?v=6kPTiuOzNYI) | 30 Mins  | 4 | Kassandra | Laying twist, bridge, cat/cow, thread needle |
+| [Posture](https://www.youtube.com/watch?v=6kPTiuOzNYI) | 30 Mins  | 4 | Kassandra | twists, bridge, cat/cow, ends sitting |
 | [Sleep Time](https://www.youtube.com/watch?v=TcF2TSuQEn4) | 45 Mins | 2 | Kassandra | Bedtime, long and slow |
 
 

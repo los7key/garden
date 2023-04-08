@@ -8,7 +8,7 @@ Last Updated: 2023-04-02
 ## Introduction
 In Novevember of 2022 we went on a cross country trip of the USA (AGAIN) to visit New York for Thanksgiving.
 
-![2022 Cross country Roadtrip](/assets/images/2022xcountry.png)
+![2022 Cross country Roadtrip](/assets/images/2022xcountry.png){ loading=lazy }
 
 ## Noteworthy Stops
 11/17 Kingman, AZ (Hotel)  

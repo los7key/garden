@@ -8,7 +8,7 @@ Last Updated: 2023-04-02
 ## Introduction
 In Novevember of 2021 we went on a cross country trip of the USA to visit New York for Thanksgiving.
 
-![2021 Cross country Roadtrip](/assets/images/2021xcountry.png)
+![2021 Cross country Roadtrip](/assets/images/2021xcountry.png){ loading=lazy }
 
 ## Noteworthy Stops
 11/19 - West Wendover, NV (Steakhouse)    
