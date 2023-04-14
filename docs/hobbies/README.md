@@ -3,7 +3,7 @@ layout: post
 title: Hobbies README
 description: Hobbies README
 date: 2022-05-15
-Last Updated: 2023-03-26
+Last Updated: 2023-04-13
 ---
 I collect hobbies.
 
@@ -41,6 +41,7 @@ Here are some hobbies I’m either currently into or I’ve enjoyed over the yea
 * Magic (Not the card game)
 * Bowling
 * Shooting pool
+* Ukelele
 
 
 As time (and my mood) permits, I’m going to work on a new page for each hobby.  If a link is to an outside source, then I haven’t added my own thoughts on the topic.  This is more of a placeholder to remember I can add from any of the things on this list.
