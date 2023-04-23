@@ -3,7 +3,7 @@ layout: post
 title: Cowrie Honeypot Setup
 description: Cowrie Setup
 date: 2022-07-30
-Last Updated: 2022-08-13
+Last Updated: 2023-04-23
 ---
 
 ## Set up host
@@ -14,10 +14,14 @@ sudo apt-get install git python3-virtualenv libssl-dev libffi-dev build-essentia
 sudo adduser --disabled-password cowrie
 sudo su - cowrie
 ```
+## Get cowrie
+```
+git clone http://github.com/cowrie/cowrie
+```
 
 ## Set up cowrie
 ```
-cd /home/cowrie/cowrie
+cd ./cowrie
 virtualenv --python=python3 cowrie-env
 source cowrie-env/bin/activate
 (cowrie-env) $ pip install --upgrade pip
@@ -26,25 +30,43 @@ source cowrie-env/bin/activate
 
 ## Modify cowrie configs 
 ```
-cp /home/cowrie/cowrie/etc/cowrie.cfg.dist /home/cowrie/cowrie/etc/cowrie.cfg <-- Main cowrie config
-cp /home/cowrie/cowrie/etc/userdb.example /home/cowrie/cowrie/etc/userdb.txt <-- Allowed users config
+cp ~/cowrie/etc/cowrie.cfg.dist ~/cowrie/etc/cowrie.cfg <-- Main cowrie config
+cp ~/cowrie/etc/userdb.example ~/cowrie/etc/userdb.txt <-- Allowed users config
 ```
 
 ### Changes to cowrie.cfg
 ```
 hostname = PROD03
 listen_endpoints = tcp:22:interface=0.0.0.0
+backend_ssh_port = 22222
+```
+* Change venv with 
+```
+cowrie@modsecbox:~/cowrie$ source cowrie-env/bin/activate
+(cowrie-env) cowrie@modsecbox:~/cowrie$
 ```
 
-## Set up SSH and modify configs to allow cowrie on port 22
+## Set up SSH and modify configs to allow cowrie on port 22 
+(See note below)
 ```
-sudo apt-get install authbind
-sudo touch /etc/authbind/byport/22
-sudo chown cowrie:cowrie /etc/authbind/byport/22
-sudo chmod 770 /etc/authbind/byport/22
+apt install authbind
+touch /etc/authbind/byport/22
+chown cowrie:cowrie /etc/authbind/byport/22
+chmod 770 /etc/authbind/byport/22
+
+ufw allow 7331
 
 vi /etc/ssh/sshd_config  # Change to a higher port
 service ssh restart
+```
+
+* NOTE: on Ubuntu 22.10 they did something dumb[^1] to sshd so now to get around that we change port here
+```
+vi /lib/systemd/system/ssh.socket
+    ListenStream=7331
+systemctl daemon-reload
+systemctl restart ssh
+netstat -tulpn
 ```
 
 ## Integrations
@@ -123,3 +145,5 @@ This guide is comprised of trials, errors and parts of other guides.  Resources 
 - [Cowrie Docs](https://cowrie.readthedocs.io/en/latest/)
 - [Cowrie Slack](https://www.cowrie.org/slack/) <--- Great help here
 - [Splunk Docs for BINDIP](http://docs.splunk.com/Documentation/Splunk/4.3.2/Admin/BindSplunktoanIP)
+
+[^1]: sshd now uses socket-based activation Ubuntu 22.10 or later. Read more about this change being discussed [here](https://discourse.ubuntu.com/t/sshd-now-uses-socket-based-activation-ubuntu-22-10-and-later/30189/9).  It's a feature https://askubuntu.com/questions/1439461/ssh-default-port-not-changing-ubuntu-22-10
