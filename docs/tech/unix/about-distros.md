@@ -3,7 +3,7 @@ layout: post
 title: About Linux Distros
 description: About Linux Distros
 date: 2022-05-22
-Last Updated: 
+Last Updated: 2023-04-30
 ---
 ## Introduction
 

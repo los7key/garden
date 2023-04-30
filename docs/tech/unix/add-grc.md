@@ -2,7 +2,7 @@
 layout: post
 title: Add color with GRC
 date: 2022-04-09
-Last Updated: 2022-04-16
+Last Updated: 2023-04-30
 ---
 I've done a lot of work in a terminal for many years and until recently never realized how useful it would be to have some color output for commands I use frequently.  It's really helpful to see key things you are looking for in the output of a command at a glance.  Sure, the output is the same, but it makes it easier to see what you are looking for.  
 
@@ -12,7 +12,7 @@ NOTE: The instructions below assume you already have python installed and that y
 
 Let's go over the setup and general usage so that you can give it a try and also so I can remember how it's done later down the road.  It's all in python, so it can be used pretty much anywhere.  I'm currently using it on MacOS and Linux. 
 
-First, we'll need the actual source code.  I forked a copy for my own use so that I can keep copies of configs and share them across multiple machines.  The repo is [here](https://github.com/jellyfishsizzle/grc). 
+First, we'll need the actual source code.  I forked a copy for my own use so that I can keep copies of configs and share them across multiple machines.  The repo is [here](https://github.com/los7key/grc). 
 
 With the source code cloned, it's just a matter of running the included install script.  NOTE: You'll need to use sudo if you go with the defaults in the install script. 
 

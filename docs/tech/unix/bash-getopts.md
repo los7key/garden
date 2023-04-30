@@ -3,6 +3,7 @@ layout: post
 title: Bash getopts
 description: Getopts reminder
 date: 2022-04-16
+Last Updated: 2023-04-30
 ---
 Not to be confused with `getopt`, `getopts` is for dealing with command line variables that are more complex than just needing to grab the first or second variable.
 
