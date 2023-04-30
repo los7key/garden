@@ -461,6 +461,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://www.catelevator.com/tech/unix/vim/</loc>
+         <lastmod>2023-04-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://www.catelevator.com/tech/unix/xfce-theme-installation/</loc>
          <lastmod>2023-04-30</lastmod>
          <changefreq>daily</changefreq>
