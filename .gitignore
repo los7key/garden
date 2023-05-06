@@ -1,5 +1,5 @@
 site
-.pdm.toml
+.pdm-python
 __pypackages__
 .vscode/dryrun.log
 .vscode/targets.log
