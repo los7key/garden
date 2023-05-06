@@ -3,11 +3,11 @@ layout: post
 title: Why get out of the Navy
 description: A list of reasons to get out of the Navy at EOS
 date: 2022-05-26
-Last Updated: 2023-03-26
+Last Updated: 2023-05-06
 ---
 ## Introduction
 
-Back in the day, I was in the [Navy](/life/in-the-navy/).  I served on two ships and two shore duty stations.  Some times were better than others, but I have no regrets and would absolutely do it again.  
+Back in the day, I was in the <a href="/life/in-the-navy/" class="hvr-wobble-skew">Navy</a>.  I served on two ships and two shore duty stations.  Some times were better than others, but I have no regrets and would absolutely do it again.  
 
 However, there were definitely times when I was not a happy camper for one reason or another.  I made a list of reasons to get out when I was contemplating orders and whether I should stay in.  I recently came across the list I made, written by hand on paper, and decided to scan it and put it here.  
 
