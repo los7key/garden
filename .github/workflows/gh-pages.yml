@@ -19,7 +19,7 @@ jobs:
       - uses: pdm-project/setup-pdm@main
         name: Setup Python and PDM
         with:
-          python-version: 3.9
+          python-version: 3.11
 
       - name: Install dependencies
         run: make install
