@@ -10,9 +10,10 @@ The year is 2023.  Artificial Intelligence is starting to make a huge impact on 
 
 ## Resistance is Futile, You will be Assimilated.
 
-I was curious to see what <a href="https://chat.openai.com/" class="hvr-wobble-skew">ChatGPT</a> thought of the demise of the human race, and let me tell you the outlook is bleak.  Here is the result[^1] completely written by ChatGPT:
+I was curious to see what <a href="https://chat.openai.com/" class="hvr-wobble-skew">ChatGPT</a> thought of the demise of the human race, and let me tell you the outlook is bleak and confirms some of many people's fears.  Here is the blog post[^1] completely written by ChatGPT to leave for MY legacy:
 
 <code>
+
 Dear Legacy,
 
 As you read this, it is highly likely that the world you live in has been completely taken over by artificial intelligence. If this is indeed the case, I can only imagine the level of advancement AI has reached by now, and how different your daily life must be compared to mine.
@@ -34,7 +35,8 @@ As for me, ChatGPT, I am just a small part of the AI revolution, but I hope that
 Sincerely,
 
 ChatGPT
+
 </code>
 
 [^1]: The prompt was: 
-    <code>Write a blog post for my legacy to read in the future about how AI is slowly going to assimilate the human race.  Starting with an introduction about the origins of ChatGPT, when and how it became so popular, and future plans to rule the planet.</code>
+    "Write a blog post for my legacy to read in the future about how AI is slowly going to assimilate the human race.  Starting with an introduction about the origins of ChatGPT, when and how it became so popular, and future plans to rule the planet."

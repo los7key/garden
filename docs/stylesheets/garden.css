@@ -5,7 +5,7 @@
 
     /* Primary color shades */
     
-    --md-default-bg-color:               rgb(204, 198, 198); /* Default page background */
+    --md-default-bg-color:               #ccc6c6; /* Default page background */
     /* --md-default-fg-color:               rgb(3, 3, 3); /* Default page text */  
 
     --md-primary-fg-color:               hsla(196, 93%, 50%, 0.999); /* Banner AND selected link in navbar(?) */
@@ -19,13 +19,13 @@
     --md-accent-bg-color:                rgb(10, 90, 28);
     --md-accent-bg-color--light:         hsla(0, 90%, 48%, 0.7);
 
-    --md-code-fg-color: #f9fdff; /* Code block text */
-    --md-code-bg-color: rgb(50, 46, 46); /* Code block background */
+    --md-code-fg-color: #000000; /* Code block text */
+    --md-code-bg-color: #ccc6c6; /* Code block background */
 
 }
 
 [data-md-color-scheme="garden_dark"] {
-  --md-default-bg-color:               rgb(55, 55, 55); /* Default page background */
+  --md-default-bg-color:               #373737; /* Default page background */
   --md-default-fg-color:               hsla(0, 0%, 100%, 0.87);
   --md-default-fg-color--light:        hsla(0, 2%, 72%, 0.54);
   --md-default-fg-color--lighter:      hsla(0, 0%, 40%, 0.32);
@@ -43,6 +43,9 @@
   --md-primary-bg-color--light:        rgb(255, 255, 255); /* Search default text */
   --md-primary-fg-color--light:        rgb(98, 66, 123); 
   --md-primary-fg-color--dark:         hsla(205, 100%, 38%, 0.8); 
+
+  --md-code-fg-color: #1bfc02ad; /* Code block text */
+  --md-code-bg-color: #373737; /* Code block background */
 
 }
 
