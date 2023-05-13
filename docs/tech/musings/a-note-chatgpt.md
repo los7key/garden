@@ -3,7 +3,7 @@ layout: post
 title: A Note from ChatGPT
 description: A Note from ChatGPT
 date: 2023-05-07
-Last Updated: 
+Last Updated: 2023-05-13
 ---
 ## Introduction
 The year is 2023.  Artificial Intelligence is starting to make a huge impact on society. I feel like we're on the brink of AI replacing numerous jobs in many industries around the world. For example, AI is already capable of <a href="https://www.cnn.com/2023/01/26/tech/chatgpt-passes-exams/index.html"  class="hvr-wobble-skew">passing the bar exam</a>, <a href="https://www.zdnet.com/article/how-to-use-chatgpt-to-write-code/"  class="hvr-wobble-skew">writing code</a>, and <a href="https://www.theguardian.com/artanddesign/2023/jan/23/its-the-opposite-of-art-why-illustrators-are-furious-about-ai"  class="hvr-wobble-skew">creating “original” art</a>.  People are worried and in some cases, are starting to <a href="https://www.latimes.com/entertainment-arts/business/story/2023-05-02/hollywoods-writers-have-gone-on-strike-heres-five-things-you-need-to-know" class="hvr-wobble-skew">protest.</a>

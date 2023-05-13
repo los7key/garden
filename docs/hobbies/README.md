@@ -3,7 +3,7 @@ layout: post
 title: Hobbies README
 description: Hobbies README
 date: 2022-05-15
-Last Updated: 2023-04-13
+Last Updated: 2023-05-13
 ---
 I collect hobbies.
 
@@ -33,7 +33,7 @@ Here are some hobbies I’m either currently into or I’ve enjoyed over the yea
 * Meditation
 * T-Shirts
 * Riding Bicycles
-* Napping
+* [Napping](/life/napping/)
 * [McMenamins Passports](https://www.mcmenamins.com/)
 * [Reddit](https://reddit.com) Moderator
 * Signs (mostly pictures of them)

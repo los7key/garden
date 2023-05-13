@@ -3,7 +3,7 @@ layout: post
 title: README
 description: README
 date: 2022-04-01
-Last Updated: 2023-03-04
+Last Updated: 2023-05-13
 ---
 What is this place?
 
@@ -17,11 +17,11 @@ Yes, I know this isn't new technology, but parts of it are new to me. More about
 
 What's a "digital garden" exactly?
 
-First, let's think about what an actual garden is. Generally, gardens have these qualities:
+Let's contemplate what an actual garden is. Generally, gardens have these qualities:
 
 * It's usually a place things grow
 * A garden is never really "done"
-* Weeds can take over if left unattended (See the enormous gap in my blog posts)
+* Weeds can take over if left unattended (See the enormous gap in my posts)
 * A garden can be very personal and private or shared with the public
 * They require attention and love
 * It can be a great place for reflection and contemplation
@@ -29,7 +29,7 @@ First, let's think about what an actual garden is. Generally, gardens have these
 
 This last part is the key. I am doing this for me and I can do it any way I like. Pretty cliché, but I feel like it can truly be anything I want it to be, my imagination is the only limiting factor.
 
-Do you see how this can all be applied to the digital world? Basically what I'm saying is, that this isn't a blog or wiki or website, it's all of them (or none of them?). This is a place to grow ideas and share information, as well as leaving a legacy for future generations. 
+Do you see how this can all be applied to the digital world? Basically what I'm saying is, that this isn't a blog or wiki or website, it's all of them (or none of them?). This is a place to grow ideas and share information, as well as leaving a legacy for future generations. Assuming we aren't <a href="/tech/musings/a-note-chatgpt/" class="hvr-wobble-skew">assimilated</a> by <a href="https://chat.openai.com/" class="hvr-wobble-skew">AI</a>
 
 ~~I'm not totally sold on GitBook, mostly because I want to be able to use footnotes (why not?) and I can't do that here. All of the other beautiful gardens I have come across were put together by folks that know what they are doing. For now, this is how we're going to roll. Not too easy on the eyes, but functional and low overhead. I guess that'll do for now.~~
 
@@ -41,6 +41,8 @@ Keep in mind this is my brain (and opinion), exposed for anyone to explore. Be g
 
 Well, this is it, this is my digital garden. Who would've thought I'd be a gardener one day?
 
-2022-08-13: I came across <a href="https://news.ycombinator.com/item?id=32349006" class="hvr-wobble-skew">this article</a> and it hit pretty close to home.  There is no better reason to leave a legacy behind.  This really is everything I know about everything I know.
-
 Stats? Nevermind.
+
+2022-08-13: I came across <a href="https://news.ycombinator.com/item?id=32349006" class="hvr-wobble-skew">this article</a> and it hit pretty close to home.  There is no better reason to leave a legacy behind and share some knowledge.
+
+2023-05-13: I've realized that it's like trimming back the hedges, just like in a physical garden where one prunes back plants and trees certain times of the year to allow new things to flourish and grow. Lately, I've been digging in, doing some maintainance, and making room for new things to grow. 
