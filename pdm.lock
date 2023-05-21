@@ -267,7 +267,7 @@ dependencies = [
 
 [[package]]
 name = "mkdocs-material"
-version = "9.1.12"
+version = "9.1.14"
 requires_python = ">=3.7"
 summary = "Documentation that simply works"
 dependencies = [
@@ -382,7 +382,7 @@ summary = "Pygments is a syntax highlighting package written in Python."
 
 [[package]]
 name = "pymdown-extensions"
-version = "9.11"
+version = "10.0.1"
 requires_python = ">=3.7"
 summary = "Extension pack for Python Markdown."
 dependencies = [
@@ -859,9 +859,9 @@ content_hash = "sha256:a9d5ca5f0c7340f7fde779be2c17717d84bcc0008f4b9c9f717926723
     {url = "https://files.pythonhosted.org/packages/86/5f/5cc21fcdaa14f7e01d7f9c3e2116bda975917e64eb8bf19d110eb74f6bcb/mkdocs-git-revision-date-localized-plugin-1.2.0.tar.gz", hash = "sha256:7752edd7c4dcaa9383e9a5b6a4f729831a62d604b0c43b319331127720c6a2bf"},
     {url = "https://files.pythonhosted.org/packages/c5/9f/dad0e4935fe18ea1163bf1bef56d41fe6d6ebc536ddb48793555f07fcc53/mkdocs_git_revision_date_localized_plugin-1.2.0-py3-none-any.whl", hash = "sha256:540b9c930d8d48630c090b72ac2c3900ac2ed0799b23738a33b88e31f5198fe7"},
 ]
-"mkdocs-material 9.1.12" = [
-    {url = "https://files.pythonhosted.org/packages/03/b5/60bbe928cde37b72908bfd25eed76738141edc3ee983eb57e26a53930dbc/mkdocs_material-9.1.12.tar.gz", hash = "sha256:d4ebe9b5031ce63a265c19fb5eab4d27ea4edadb05de206372e831b2b7570fb5"},
-    {url = "https://files.pythonhosted.org/packages/57/51/090775b6b334f63cb16a02d82dc76ab46fcf7798a6874d22136ffe88e5ee/mkdocs_material-9.1.12-py3-none-any.whl", hash = "sha256:68c57d95d10104179c8c3ce9a88ee9d2322a5145b3d0f1f38ff686253fb5ec98"},
+"mkdocs-material 9.1.14" = [
+    {url = "https://files.pythonhosted.org/packages/86/08/13bc6517824114eff7f9dd88317950061387d2aec854c95c64f1732a8e57/mkdocs_material-9.1.14.tar.gz", hash = "sha256:1ae74cc5464ef2f64574d4884512efed7f4db386fb9bc6af20fd427d7a702f49"},
+    {url = "https://files.pythonhosted.org/packages/aa/43/3f90ddbd6aa0ef85124d6f1d803ecde223b068adbf74f99db309134adb13/mkdocs_material-9.1.14-py3-none-any.whl", hash = "sha256:b56a9f955ed32d38333715cbbf68ce38f683bf38610c65094fa4ef2db9f08bcd"},
 ]
 "mkdocs-material-extensions 1.1" = [
     {url = "https://files.pythonhosted.org/packages/7c/60/60b7767c99e81326892c49bd80735952dab128e7bca7e903d9fa5accd00e/mkdocs_material_extensions-1.1.tar.gz", hash = "sha256:96ca979dae66d65c2099eefe189b49d5ac62f76afb59c38e069ffc7cf3c131ec"},
@@ -940,9 +940,9 @@ content_hash = "sha256:a9d5ca5f0c7340f7fde779be2c17717d84bcc0008f4b9c9f717926723
     {url = "https://files.pythonhosted.org/packages/0b/42/d9d95cc461f098f204cd20c85642ae40fbff81f74c300341b8d0e0df14e0/Pygments-2.14.0-py3-none-any.whl", hash = "sha256:fa7bd7bd2771287c0de303af8bfdfc731f51bd2c6a47ab69d117138893b82717"},
     {url = "https://files.pythonhosted.org/packages/da/6a/c427c06913204e24de28de5300d3f0e809933f376e0b7df95194b2bb3f71/Pygments-2.14.0.tar.gz", hash = "sha256:b3ed06a9e8ac9a9aae5a6f5dbe78a8a58655d17b43b93c078f094ddc476ae297"},
 ]
-"pymdown-extensions 9.11" = [
-    {url = "https://files.pythonhosted.org/packages/42/d5/ad2ce4fbd49f746c56f17ca4d1a8112cf76ea8797db670592923f7b3d96e/pymdown_extensions-9.11-py3-none-any.whl", hash = "sha256:a499191d8d869f30339de86fcf072a787e86c42b6f16f280f5c2cf174182b7f3"},
-    {url = "https://files.pythonhosted.org/packages/82/86/4e785e7546b4b6294649c09825dd95ec3ab830a872adfa51b68d0e3fcb33/pymdown_extensions-9.11.tar.gz", hash = "sha256:f7e86c1d3981f23d9dc43294488ecb54abadd05b0be4bf8f0e15efc90f7853ff"},
+"pymdown-extensions 10.0.1" = [
+    {url = "https://files.pythonhosted.org/packages/a2/17/607fc71d709c0df9cca39ed57ed6f8b1cb77863073004c7def8a02a45fe2/pymdown_extensions-10.0.1-py3-none-any.whl", hash = "sha256:ae66d84013c5d027ce055693e09a4628b67e9dec5bce05727e45b0918e36f274"},
+    {url = "https://files.pythonhosted.org/packages/cb/06/5779fe8fa684080bcb0eeabcbcb9bfe2cf14dcf776b687001e7820fba660/pymdown_extensions-10.0.1.tar.gz", hash = "sha256:b44e1093a43b8a975eae17b03c3a77aad4681b3b56fce60ce746dbef1944c8cb"},
 ]
 "pyparsing 3.0.9" = [
     {url = "https://files.pythonhosted.org/packages/6c/10/a7d0fa5baea8fe7b50f448ab742f26f52b80bfca85ac2be9d35cdd9a3246/pyparsing-3.0.9-py3-none-any.whl", hash = "sha256:5026bae9a10eeaefb61dab2f09052b9f4307d44aee4eda64b309723d8d206bbc"},
