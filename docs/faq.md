@@ -3,7 +3,7 @@ layout: post
 title: FAQ
 description: FAQ
 date: 2022-04-01
-Last Updated: 2023-03-04
+Last Updated: 2023-05-13
 ---
 
 Really, there are questions that need to be answered. I suspect I'm going to have to put things in categories at some point or it will get out of hand quickly.  This is a work in progress.
@@ -63,7 +63,7 @@ Really, there are questions that need to be answered. I suspect I'm going to hav
     I like them, but not really an expert.
 
 ??? faqq "Q30. Do you know how to pick locks?"
-    <div id="Q30"></div>Why yes, yes I do. At least, I know the basics<sup>7</sup> and have some of the equipment.  It's one of the [hobbies](/hobbies/) I've collected.
+    <div id="Q30"></div>Why yes, yes I do. At least, I know the basics<sup>7</sup> and have some of the equipment.  It's one of the [hobbies](/hobbies/) I've collected over the years.
 
 ??? faqq "Q31. Why do you share all this information in public?"
     Aside from my feelings and opinions, I suspect most of my personal data has already been compromised as part of a breach somewhere.  As for the rest, I usually give opinions out for free, might as well have them all in one place.
@@ -109,6 +109,9 @@ Really, there are questions that need to be answered. I suspect I'm going to hav
 
 ??? faqq "34. With different sections of the FAQ, how do you know which is the newest question?"
     Eyeball the bottom of each list, I guess.  I haven't come up with a better way just yet.
+
+??? faqq "35. Why do some links have animation and some don't?"
+    I'm lazy and haven't gotten around to updating every link on the site. 
 
 ## Technology
 

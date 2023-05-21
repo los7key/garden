@@ -29,7 +29,7 @@ Here are some hobbies I’m either currently into or I’ve enjoyed over the yea
 * [Cannabis](/cannabis/)
 * [Digital Gardens](/)
 * Spin
-* Yoga
+* [Yoga](/life/yoga/)
 * Meditation
 * T-Shirts
 * Riding Bicycles
