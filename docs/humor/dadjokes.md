@@ -4,7 +4,7 @@ title: Dad Jokes
 short_title: Dad Jokes
 description: Dad Jokes
 date: 2022-04-01
-Last Updated: 2023-02-18
+Last Updated: 2023-03-07
 ---
 
 
@@ -21,3 +21,5 @@ Last Updated: 2023-02-18
 * There is no reason to tailgate me while I am doing 75 in a 50. And turn off those flashing blue lights on your car. They look RIDICULOUS
 
 * Why do firemen wear red suspenders? It keeps their pants from falling down.
+
+* A big hole was dug at the police station. They’re currently looking into it.
