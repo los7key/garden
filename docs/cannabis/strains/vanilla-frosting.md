@@ -22,4 +22,4 @@ She's a high-yielding, extremely potent, new & improved version of the consumer 
 * Heightened senses (no driving!)
 * Everything tastes AMAZING
 
-## Overall: 10/10
+## Overall: 8/10
