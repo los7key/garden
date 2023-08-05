@@ -3,12 +3,13 @@ layout: post
 title: About
 description: About
 date: 2022-04-01
-Last Updated: 2022-06-19
+Updated: 2022-06-19
+Last Updated: 2023-08-05
 ---
 
 This page is a deeper dive into who my intended audience is. It's probably not very clear who this is for and that seems to vary from day to day.  Sometimes I want to have a big following and get feedback, whether it's upvotes or comments, or something similar.  However, I always want it to be for me.  I want this garden to be my operating manual for when I am either unable to remember something or when I am awakened after some kind of reboot.[^1]
 
-I have a lot to say and nowhere to say it. Facebook steals your data and does terrible things with it. I went so far as to completely delete my account from Facebook back in 2017. I’m not a fan of Insta, Twitter, Snapchat, or pretty much any other social media. Reddit is my go-to for many things these days, but it’s not the appropriate place for a blog and I’m too lazy to have multiple accounts to keep things more anonymous there.
+I have a lot to say and nowhere to say it. In fact, I dislike social media so much, I won't link to any of them from here. But I will still say Facebook[^4] steals your data and does [terrible things](https://www.bbc.com/news/technology-46618582) with it. I went so far as to completely delete my account from Facebook in 2017. I’m not a fan of Insta, Twitter[^5], Snapchat, or pretty much any other social media. Reddit ~is~[^6] was my go-to for many things these days, but it’s not the appropriate place for a blog and I’m too lazy to have multiple accounts to keep things more anonymous there. I've been giving [Lemmy](https://join-lemmy.org/) (A federated Reddit alternative) a try, so far so good after about a month.
 
 So here we are. Just a blank slate with plenty of space and lots of things I want to say. No “friends”, likes, dislikes, or funny captions.[^2] I might never allow comments, and I haven't decided who I will share this site's connection with me.  Maybe I'll keep it completely anonymous, but for now, it is what it is.
 
@@ -21,3 +22,6 @@ All code and content on this site is protected by the <a href="https://unlicense
 [^1]: Who knows what the future holds?
 [^2]: Maybe some funny pictures though
 [^3]: TODO: Come back to this one sometime.  I read a great article on why it's good to do this for software, and how it can also apply to blogging/journaling.  
+[^4]: Now [Meta](https://www.meta.com/) - As of 08/23
+[^5]: Now [X Corp.](https://www.x.com) (I can't imagine how much that domain cost!!) - As of 08/23
+[^6]: In July of 2023 Reddit decided it cared more about corporate greed than the users that made their community what it was.  The banned all 3rd party apps, regardless of userbase. In [protest](https://www.theverge.com/2023/6/30/23779519/reddit-third-party-app-shut-down-apollo-sync-baconreader-api-protest) many subreddits went private and *many* users left the platform.
