@@ -334,7 +334,7 @@ article a[href^="https://"]::after
 .md-content a[href*="bbc.com"]::after,
 .md-content a[href*="bbc.co.uk"]::after {
     font-family: "Lucida Sans Unicode", "Source Sans Pro", Helvetica, "Trebuchet MS", sans-serif;
-    content: "BBC"; }
+    content: ""; }
 
 /* R: at this point R Studio has taken over a lot of control, so might as well treat them as official too... */
 .md-content a[href*="r-project.org"]::after,
