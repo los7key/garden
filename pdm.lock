@@ -475,23 +475,25 @@ files = [
 
 [[package]]
 name = "mkdocs-material"
-version = "9.1.21"
+version = "9.2.7"
 requires_python = ">=3.7"
 summary = "Documentation that simply works"
 dependencies = [
-    "colorama>=0.4",
-    "jinja2>=3.0",
-    "markdown>=3.2",
-    "mkdocs-material-extensions>=1.1",
-    "mkdocs>=1.5.0",
-    "pygments>=2.14",
-    "pymdown-extensions>=9.9.1",
-    "regex>=2022.4.24",
-    "requests>=2.26",
+    "babel~=2.10",
+    "colorama~=0.4",
+    "jinja2~=3.0",
+    "markdown~=3.2",
+    "mkdocs-material-extensions~=1.1",
+    "mkdocs~=1.5",
+    "paginate~=0.5",
+    "pygments~=2.16",
+    "pymdown-extensions~=10.2",
+    "regex~=2022.4",
+    "requests~=2.26",
 ]
 files = [
-    {file = "mkdocs_material-9.1.21-py3-none-any.whl", hash = "sha256:58bb2f11ef240632e176d6f0f7d1cff06be1d11c696a5a1b553b808b4280ed47"},
-    {file = "mkdocs_material-9.1.21.tar.gz", hash = "sha256:71940cdfca84ab296b6362889c25395b1621273fb16c93deda257adb7ff44ec8"},
+    {file = "mkdocs_material-9.2.7-py3-none-any.whl", hash = "sha256:92e4160d191cc76121fed14ab9f14638e43a6da0f2e9d7a9194d377f0a4e7f18"},
+    {file = "mkdocs_material-9.2.7.tar.gz", hash = "sha256:b44da35b0d98cd762d09ef74f1ddce5b6d6e35c13f13beb0c9d82a629e5f229e"},
 ]
 
 [[package]]
@@ -579,6 +581,14 @@ files = [
 ]
 
 [[package]]
+name = "paginate"
+version = "0.5.6"
+summary = "Divides large result sets into pages for easier browsing"
+files = [
+    {file = "paginate-0.5.6.tar.gz", hash = "sha256:5e6007b6a9398177a7e1648d04fdd9f8c9766a1a945bceac82f1929e8c78af2d"},
+]
+
+[[package]]
 name = "pathspec"
 version = "0.11.2"
 requires_python = ">=3.7"
@@ -662,26 +672,26 @@ files = [
 
 [[package]]
 name = "pygments"
-version = "2.14.0"
-requires_python = ">=3.6"
+version = "2.16.1"
+requires_python = ">=3.7"
 summary = "Pygments is a syntax highlighting package written in Python."
 files = [
-    {file = "Pygments-2.14.0-py3-none-any.whl", hash = "sha256:fa7bd7bd2771287c0de303af8bfdfc731f51bd2c6a47ab69d117138893b82717"},
-    {file = "Pygments-2.14.0.tar.gz", hash = "sha256:b3ed06a9e8ac9a9aae5a6f5dbe78a8a58655d17b43b93c078f094ddc476ae297"},
+    {file = "Pygments-2.16.1-py3-none-any.whl", hash = "sha256:13fc09fa63bc8d8671a6d247e1eb303c4b343eaee81d861f3404db2935653692"},
+    {file = "Pygments-2.16.1.tar.gz", hash = "sha256:1daff0494820c69bc8941e407aa20f577374ee88364ee10a98fdbe0aece96e29"},
 ]
 
 [[package]]
 name = "pymdown-extensions"
-version = "10.1"
-requires_python = ">=3.7"
+version = "10.3"
+requires_python = ">=3.8"
 summary = "Extension pack for Python Markdown."
 dependencies = [
     "markdown>=3.2",
     "pyyaml",
 ]
 files = [
-    {file = "pymdown_extensions-10.1-py3-none-any.whl", hash = "sha256:ef25dbbae530e8f67575d222b75ff0649b1e841e22c2ae9a20bad9472c2207dc"},
-    {file = "pymdown_extensions-10.1.tar.gz", hash = "sha256:508009b211373058debb8247e168de4cbcb91b1bff7b5e961b2c3e864e00b195"},
+    {file = "pymdown_extensions-10.3-py3-none-any.whl", hash = "sha256:77a82c621c58a83efc49a389159181d570e370fff9f810d3a4766a75fc678b66"},
+    {file = "pymdown_extensions-10.3.tar.gz", hash = "sha256:94a0d8a03246712b64698af223848fd80aaf1ae4c4be29c8c61939b0467b5722"},
 ]
 
 [[package]]
