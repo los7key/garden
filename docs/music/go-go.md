@@ -3,7 +3,7 @@ layout: post
 title: Go-go Music
 description: Go-go Music
 date: 2022-04-15
-Last Updated: 2022-04-24
+Last Updated: 2023-09-03
 ---
 
 Growing up just outside of Washington DC, I was exposed to the music that came from the area known as "Go-Go".  Seeing shows live was an unbelievable experience and go-go was a big part of my life as a teen.  Just imagine a stage (or a house party) full of nothing but percussion instruments and a few horns.  No drum machines, just drums of various sizes and shapes, a few horns and a lot of interaction with the audience.  Go-Go is not a spectator sport!  There is a lot of call and response, a lot of cowbell, and a lot of dancing!
@@ -17,8 +17,8 @@ There is really no way to accurately describe the sound of go-go music, so the b
 - [Take Me Out to See Junkyard](https://www.youtube.com/watch?v=fVqJdcuDRBM) - The iconic "Hee-Haw Song" by Junkyard Band
 - [Physical Wunders 1996](https://www.youtube.com/watch?v=zceS8WbaF-s) - Another of my fav bands
 - [Junkyard Band - Live and direct](https://www.youtube.com/watch?v=hfaoCiLxpR0) - Gives you an idea what live shows were like in a venue
-- [ChillyWillie and High Performance Band Live](https://youtu.be/bU64RWvNSl0?t=490) is a good example of a typical show and distinct sound
-- [Northeast Groovers](https://youtu.be/sDleCdlnmAo) - (NSFW language) - One of my fav Go-Go bands
+- [ChillyWillie and High Performance Band Live](https://youtube.com/bU64RWvNSl0?t=490) is a good example of a typical show and distinct sound
+- [Northeast Groovers](https://youtube.com/sDleCdlnmAo) - (NSFW language) - One of my fav Go-Go bands
 
 [^1]: A long time ago. In a land far, far away.
 [^2]: For example: https://en.wikipedia.org/wiki/Go_Go_Live_at_the_Capital_Centre
