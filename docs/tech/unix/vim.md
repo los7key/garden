@@ -3,7 +3,7 @@ layout: post
 title: vim Cheatsheet
 description: vim Cheatsheet
 date: 2022-04-30
-Last Updated: 
+Last Updated: 2023-09-23
 ---
 
 ## Basic Tips and Tricks
@@ -48,6 +48,29 @@ Last Updated:
 
 * `:%s/foo/bar/g` - Search file for all occurances of `foo` and replace with `bar` globally
 * `:%s/^M//g` = Remove CRLF ^M line chars (Ctrl+V to get the ^ and then Ctrl+M to insert the M)
+
+### Deleting empty lines
+* Delete all empty lines:
+```
+:g/^$/d
+:v/./d
+```
+
+* Delete all lines that are empty or that contain only whitespace characters (spaces, tabs):
+```
+:g/^\s*$/d
+:v/\S/d
+```
+Explanation: `v` operates on lines that do not match, `\S` matches anything that is not a whitespace, and `d` deletes the flagged lines (all lines that have no characters, or that have only whitespace characters).
+
+* Condense multiple blank lines into a single blank line.
+```
+:%s/\s\+$//e
+:%s/\n\{3,}/\r\r/e
+```
+Explanation: Delete all trailing whitespace from each line, then replace three or more consecutive line endings with two line endings. `e` flag means that no error is displayed if the pattern is not found. 
+
+In the second command, `\n` in the search pattern finds newline, while `\r` in the replacement inserts a newline.
 
 ## .vimrc 
 ```
