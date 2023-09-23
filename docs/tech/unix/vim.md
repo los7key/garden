@@ -49,7 +49,7 @@ Last Updated: 2023-09-23
 * `:%s/foo/bar/g` - Search file for all occurances of `foo` and replace with `bar` globally
 * `:%s/^M//g` = Remove CRLF ^M line chars (Ctrl+V to get the ^ and then Ctrl+M to insert the M)
 
-### Deleting empty lines
+## Deleting empty lines
 * Delete all empty lines:
 ```
 :g/^$/d
@@ -68,9 +68,20 @@ Explanation: `v` operates on lines that do not match, `\S` matches anything that
 :%s/\s\+$//e
 :%s/\n\{3,}/\r\r/e
 ```
-Explanation: Delete all trailing whitespace from each line, then replace three or more consecutive line endings with two line endings. `e` flag means that no error is displayed if the pattern is not found. 
+Explanation: Delete all trailing whitespace from each line, then replace three or more consecutive line endings with two line endings. `e` flag means that no error is displayed if the pattern is not found.   In the second command, `\n` in the search pattern finds newline, while `\r` in the replacement inserts a newline.
+ 
+## Shell escapes
+(More of a security tip, but seems fitting here)
+    ```
+    :set shell=/bin/sh
+    :shell
+    ```
 
-In the second command, `\n` in the search pattern finds newline, while `\r` in the replacement inserts a newline.
+Or alternatively:
+    ```
+    :!/bin/sh
+    ```
+
 
 ## .vimrc 
 ```
