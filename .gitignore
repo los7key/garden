@@ -3,3 +3,4 @@ site
 __pypackages__
 .vscode/dryrun.log
 .vscode/targets.log
+.DS_Store

@@ -3,10 +3,12 @@ layout: post
 title: Tech README
 description: Tech README
 date: 2022-04-25
-Last Updated: 2023-02-18
+Last Updated: 2023-09-23
 ---
 
 There were quite a few resources I wanted to keep from my previous sites, as well as new ones I find along the way.  Until I figure out what else should go here, I'll just keep them listed here.  Maybe it will grow into it's own thing, I guess we'll see.
+
+---
 
 ??? console "Bug Bounty Programs"
     <ul>
@@ -59,6 +61,12 @@ There were quite a few resources I wanted to keep from my previous sites, as wel
     <li><a href="http://whopostedwhat.com/" target="_blank">Who Posted What</a></li>
     </ul>
 
+??? console "RFCs"
+    <ul> 
+    <li><a href="https://datatracker.ietf.org/doc/html/rfc1149" target="_blank">RFC for IP over pigeon</a></li>
+    <li><a href="https://datatracker.ietf.org/doc/html/rfc2549" target="_blank">Update to above RFC</a></li>
+    <li><a href="https://datatracker.ietf.org/doc/html/rfc6214" target="_blank">Update to include IPv6</a></li>
+    </ul>
 
 ??? console "Veterans InfoSec Resources"
     <ul>
