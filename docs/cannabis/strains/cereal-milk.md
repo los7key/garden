@@ -3,7 +3,7 @@ layout: post
 title: Cereal Milk
 description: Indica Dominant
 date: 2022-12-30
-Last Updated: 
+Last Updated: 2023-10-02
 ---
 ## About
 
@@ -26,4 +26,6 @@ Named one of Leafly’s Best Strain of 2021, this balanced hybrid bred by the Co
 * Focused
 * Upbeat
 
-## Overall: 9/10   
+2023-10-02 Update: For some reason this strain was causing some depression so I had to get rid of it.  Definitely not a 9/10 anymore. =(
+
+## Overall: 2/10  
