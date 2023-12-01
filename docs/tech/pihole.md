@@ -3,9 +3,21 @@ layout: post
 title: Pi-Hole Notes
 description: Pi-Hole Notes
 date: 2022-08-01
-Last Updated: 2023-02-18
+Last Updated: 2023-11-30
 ---
+
+172.16.0.5 - gadget
+172.16.0.6 - gizmo
+172.16.0.10 - VIP
+
 ### Upgrade to latest Raspbian 
+
+Updating OS:
+```
+sudo apt update
+sudo apt full-upgrade
+```
+
 Error:
 ```
 E: Repository 'http://raspbian.raspberrypi.org/raspbian buster InRelease' changed its 'Suite' value from 'stable' to 'oldstable'
@@ -16,11 +28,6 @@ E: Repository 'http://raspbian.raspberrypi.org/raspbian buster InRelease' change
 sudo apt-get update --allow-releaseinfo-change
 ```
 
-Updating OS:
-```
-sudo apt update
-sudo apt full-upgrade
-```
 
 Despite various sites saying it's not possible, I tried taking a shortcut and did a full upgrade instead of total install from scratch.  So far, so good, after 3 weeks.
 
