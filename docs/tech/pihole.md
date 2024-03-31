@@ -23,7 +23,7 @@ Error:
 E: Repository 'http://raspbian.raspberrypi.org/raspbian buster InRelease' changed its 'Suite' value from 'stable' to 'oldstable'
 ```
 
-[Fix here](https://forums.raspberrypi.com/viewtopic.php?t=318302):
+<a href="https://forums.raspberrypi.com/viewtopic.php?t=318302" class="hvr-wobble-skew">Fix here</a>
 ```
 sudo apt-get update --allow-releaseinfo-change
 ```
@@ -49,11 +49,11 @@ pi@gizmo:~ $ pihole -up
 (for replication)
 I set this up years ago and pretty much just followed this guide.  There are 2 Pi-Holes and VIP that is used for DNS.  When one goes down, the other takes over at the VIP.
 
-https://github.com/vmstan/gravity-sync
+<a href="https://github.com/vmstan/gravity-sync" class="hvr-wobble-skew">gravity-sync repo</a>
 
 
 ### Resources
-* https://github.com/pi-hole/pi-hole
+- <a href="https://github.com/pi-hole/pi-hole" class="hvr-wobble-skew">pi-hole repo</a>
 
-* https://docs.pi-hole.net/
+- <a href="https://docs.pi-hole.net/" class="hvr-wobble-skew">pi-hole docs</a>
 
