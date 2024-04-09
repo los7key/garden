@@ -3,7 +3,7 @@ layout: post
 title: Hobbies README
 description: Hobbies README
 date: 2022-05-15
-Last Updated: 2023-05-13
+Last Updated: 2024-04-08
 ---
 I collect hobbies.
 
@@ -11,13 +11,13 @@ I have had a lot of hobbies.  I’ve collected things, played sports, played mus
 
 Here are some hobbies I’m either currently into or I’ve enjoyed over the years.  Some hobbies are still more active than others:
 
-* [HAM Radio](/life/in-the-navy/)
-* [Geocaching](/hobbies/geocaching/) 
-* [Ingress](/hobbies/ingress/)
-* [Lock Picking](/faq#Q30)
-* [Taiko](/music/taiko/)
+* <a href="/life/in-the-navy/" class="hvr-wobble-skew">HAM Radio</a>
+* <a href="/hobbies/geocaching/" class="hvr-wobble-skew">Geocaching</a>
+* <a href="/hobbies/ingress/" class="hvr-wobble-skew">Ingress</a>
+* <a href="/faq#Q30" class="hvr-wobble-skew">Lock Picking</a>
+* <a href="/music/taiko/" class="hvr-wobble-skew">Taiko</a>
 * Computer hardware
-* [Computer Security](/tech/security/)
+* <a href="/tech/security/" class="hvr-wobble-skew">Computer Security</a>
 * Programming
 * Coins 
 * Trains
@@ -26,18 +26,18 @@ Here are some hobbies I’m either currently into or I’ve enjoyed over the yea
 * Stressing
 * Fidget Spinners
 * Magnets (for the fridge)
-* [Cannabis](/cannabis/)
-* [Digital Gardens](/)
+* <a href="/cannabis/" class="hvr-wobble-skew">Cannabis</a>
+* <a href="/" class="hvr-wobble-skew">Digital Gardens</a>
 * Spin
-* [Yoga](/life/yoga/)
+* <a href="/life/yoga/" class="hvr-wobble-skew">Yoga</a>
 * Meditation
 * T-Shirts
 * Riding Bicycles
-* [Napping](/life/napping/)
-* [McMenamins Passports](https://www.mcmenamins.com/)
-* [Reddit](https://reddit.com) Moderator
+* <a href="/life/napping/" class="hvr-wobble-skew">Napping</a>
+* <a href="https://www.mcmenamins.com/" class="hvr-wobble-skew">McMenamins Passports</a>
+* <a href="https://reddit.com" class="hvr-wobble-skew">~~Reddit Moderator~~</a>
 * Signs (mostly pictures of them)
-* Watches (Now watch bands)
+* ~~Watches~~ Watch bands
 * Magic (Not the card game)
 * Bowling
 * Shooting pool
